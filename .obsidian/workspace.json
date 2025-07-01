@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay Systems/Ailments.md",
+                "file": "Factions/Freestar_Collective.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ailments"
+              "title": "Freestar_Collective"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Systems/Ailments.md",
+                "file": "Factions/Freestar_Collective.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ailments"
+              "title": "Backlinks for Freestar_Collective"
             }
           },
           {
@@ -228,6 +228,12 @@
   },
   "active": "43583f697b3b0374",
   "lastOpenFiles": [
+    "Factions/•Factions.md",
+    "Factions/Freestar_Collective.md",
+    "Cities/Akila_City.md",
+    "Factions/Crimson_Fleet.md",
+    "Cities/•Cities.md",
+    "Gameplay Systems/Ailments.md",
     "New Updates/Difficulty_options.md",
     "Together in electric dreams.md",
     "Developer Commentary.md",
@@ -248,12 +254,6 @@
     "Research/Firefly.md",
     "Research/Betteridge's_law_of_headlines.md",
     "Presentation/Wireless_Communication.md",
-    "Presentation/Sound_Design.md",
-    "Presentation/Smoke_and_mirrors.md",
-    "Presentation/Public_Perception.md",
-    "Presentation/Planets.md",
-    "Presentation/Panspermia.md",
-    "Presentation/NPC_Routines.md",
     "Images/Screenshot-2025-06-19-at-12.10.15.png",
     "Images/Screenshot-2025-06-16-at-12.15.17.png",
     "Images/Screenshot-2025-06-19-at-12.04.18.png",
