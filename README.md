@@ -8,14 +8,13 @@
 - [Tracker's_Alliance](New_Updates/Tracker's_Alliance.md)
 - [Creation_Club_integration](New_Updates/Creation_Club_integration.md)
 - [Bug_Fixes&Other_Changes](New_Updates/Bug_Fixes&Other_Changes.md) 
-###### 2. Main Quest
+###### 2. [•Main_Quest](Main_Quest/•Main_Quest.md)
 - Characters
 - Motivations
-- Themes
+- [Themes](Writing/Themes.md)
 - Protagonists
 - Antagonists
 - [•Factions](Factions/•Factions.md)
-- How does the side content tie in
 - How ‘impactful’ is the story on the universe (will there be any changes once it is done, or is it self-contained?)
 - [NG+](Gameplay_Systems/NG+.md) implications
 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay_Systems/Role-Playing.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Role-Playing"
+              "title": "README"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay_Systems/Role-Playing.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Role-Playing"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -226,12 +226,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43583f697b3b0374",
+  "active": "c40900785e88ea00",
   "lastOpenFiles": [
+    "index.md",
+    "Gameplay_Systems/Role-Playing.md",
     "Gameplay_Systems/Crafting.md",
     "Gameplay_Systems/Lockpicking.md",
-    "Gameplay_Systems/Role-Playing.md",
-    "index.md",
     "New_Updates/Ground_vehicles.md",
     "README.md",
     "Writing/\"Write_What_You_Know\".md",
