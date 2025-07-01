@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Todd_Howard_Interviews.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todd_Howard_Interviews"
+              "title": "Index"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Todd_Howard_Interviews.md",
+                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todd_Howard_Interviews"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -228,6 +228,8 @@
   },
   "active": "43583f697b3b0374",
   "lastOpenFiles": [
+    "Research/Todd_Howard_Interviews.md",
+    "Developer Commentary.md",
     "Cities/Akila_City.md",
     "Cities/New_Atlantis.md",
     "Cities/Neon_City.md",
@@ -238,13 +240,11 @@
     "Gameplay Systems/Ailments.md",
     "New Updates/Difficulty_options.md",
     "Together in electric dreams.md",
-    "Developer Commentary.md",
     "Creation.md",
-    "• Episode 2 Structure.md",
+    "Index.md",
     "Side Quests/Side_Quests.md",
     "Side Quests/Out_on_a_Limb.md",
     "Research/Traveller_TTRPG.md",
-    "Research/Todd_Howard_Interviews.md",
     "Research/Starship_troopers.md",
     "Research/Starfield_Direct.md",
     "Research/Size.md",

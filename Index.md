@@ -1,4 +1,5 @@
 
+## Episode 2 Structure
 ### Plan:
 
 ###### 1. Discuss new updates 
