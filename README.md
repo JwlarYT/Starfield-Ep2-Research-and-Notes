@@ -1,14 +1,14 @@
 ## Episode 2 Structure
 ### Plan:
 
-###### 1. Discuss new updates 
+##### 1. Discuss new updates 
 - [Difficulty_options](New_Updates/Difficulty_options.md)
 - [Ground_vehicles](New_Updates/Ground_vehicles.md)
 - [Local_Maps](New_Updates/Local_Maps.md)
 - [Tracker's_Alliance](New_Updates/Tracker's_Alliance.md)
 - [Creation_Club_integration](New_Updates/Creation_Club_integration.md)
 - [Bug_Fixes&Other_Changes](New_Updates/Bug_Fixes&Other_Changes.md) 
-###### 2. [•Main_Quest](Main_Quest/•Main_Quest.md)
+##### 2. [•Main_Quest](Main_Quest/•Main_Quest.md)
 - Characters
 - Motivations
 - [Themes](Writing/Themes.md)
