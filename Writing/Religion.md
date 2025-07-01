@@ -1,4 +1,4 @@
-House of Enlightened is a ‘[[Religion]]’ (more like a charity) based around Atheism and the belief that humanity's empathy for each other is its strongest strength. The name certainly seems ironic, and the leader mentions this, that the name refers to the Age of Enlightenment, when science began to be used to explain the universe and not religion, but it is understandable that the name appears condescending to the religious.
+House of Enlightened is a ‘[Religion](Religion.md)’ (more like a charity) based around Atheism and the belief that humanity's empathy for each other is its strongest strength. The name certainly seems ironic, and the leader mentions this, that the name refers to the Age of Enlightenment, when science began to be used to explain the universe and not religion, but it is understandable that the name appears condescending to the religious.
 
 One of the MAJOR talking and selling points for Starfield's setting in the lead up to release, with Emil promising something really thought provoking here.
 

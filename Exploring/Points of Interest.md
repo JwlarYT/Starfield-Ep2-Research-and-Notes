@@ -5,7 +5,7 @@ Zero gravity casino space station in the Olympus station - Awesome! Great little
 Oh the joys or random POIs placed with abandon. POIs highlighted on the planet overview screen where you scan the surface from do not seem to have any uniqueness placed upon them as some on Reddit have claimed. This Civvie outpost seems as random as the rest of them, with a generic radiant quest to boot.
 
 Higher-level universes unlock more POIs, some that have more dynamic situations, like this Deserted Colony War Barracks, which was filled with pirates. When I attacked, a squadron of opportunistic Spacers landed in two ships nearby and joined in, resulting in a 1v1v1 war. 
-Locking POIs behind [[Progression|levelled]] areas is understandable, as you want players to discover more the more you play, but by limiting the early game pool to such a low amount, people will feel like they've seen all the game has to show in a few hours. Made even worse is how 90% of the MQ and Faction Quests take place on the left side of the [[Star System Map]], in Star Systems below Level 30.
+Locking POIs behind [levelled](Progression.md) areas is understandable, as you want players to discover more the more you play, but by limiting the early game pool to such a low amount, people will feel like they've seen all the game has to show in a few hours. Made even worse is how 90% of the MQ and Faction Quests take place on the left side of the [Star System Map](Star%20System%20Map.md), in Star Systems below Level 30.
 
 The Colander Space Dungeon is a reference to an alien. Space Dungeons are generally some of the best in the game. Most of the Dungeons are pretty good in design, actually - especially with the new Vents for stealth builds (ignoring how massive said vents are).
 
@@ -14,7 +14,7 @@ The only fixed portals are the scripted city portals, a couple of quest portals 
 
 POI's are level locked and for some reason the RNG when generating POI's favours a few over all the others. Which sucks, especially early game. But downloading a mod like POI cool down helps reduce the amount of repeat POI's you get over a certain amount of time.
 
-Some dungeons are very much ‘Fallout in space’ in tone, this space station has a rogue MAST scientist using human subjects to experiment xeno-digestion - how long can a human survive inside an alien’s stomach. It’s 16 hours apparently. Other scientists highlight their concerns in other computer entries and email logs. (Still can’t get over how amateur this [[HUD + UI|interface]] is).
+Some dungeons are very much ‘Fallout in space’ in tone, this space station has a rogue MAST scientist using human subjects to experiment xeno-digestion - how long can a human survive inside an alien’s stomach. It’s 16 hours apparently. Other scientists highlight their concerns in other computer entries and email logs. (Still can’t get over how amateur this [interface](HUD%20+%20UI.md) is).
 
 Planets should either be empty or thriving.
 Not this weird.. oh its inhospitable and uninhabited but here's Timmy and his wind farm. Why.

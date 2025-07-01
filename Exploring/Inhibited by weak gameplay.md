@@ -1,4 +1,4 @@
-[[• Exploring]]
+[• Exploring](•%20Exploring.md)
 
 I saw this on reddit:
 

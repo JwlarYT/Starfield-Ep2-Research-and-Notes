@@ -7,7 +7,7 @@ NPCS are going about their business, even a random one with some interesting dia
 
 Bugs still hinder this otherwise pleasing experience, such as Z-clipping on certain surfaces, even when viewed up close. 
 
-Cydonia Tavern - I must say, the crowd density at times is [[immersion|immersive]]. It isn’t Night City, but there’s a semblance of life here. What’s missing is the hustle and bustle. NPCS walk around, get a drink and sit together, but they only talk to the player, and otherwise pretend to have a conversation. Getting close reveals, however, that they are just set pieces. Where is the campsite chatter of RDR or the random banter of KCD?
+Cydonia Tavern - I must say, the crowd density at times is [immersive](immersion.md). It isn’t Night City, but there’s a semblance of life here. What’s missing is the hustle and bustle. NPCS walk around, get a drink and sit together, but they only talk to the player, and otherwise pretend to have a conversation. Getting close reveals, however, that they are just set pieces. Where is the campsite chatter of RDR or the random banter of KCD?
 
 The Broken Spear bar on Mars’s Cydonia station fits a classic space-western trope—a frontier town saloon where miners, wanderers, and drifters gather. Likely named for its symbolic resonance—a broken weapon = peace, rest, or end of conflict.
 - A metaphorical break from violence, a spot to lay down your arms

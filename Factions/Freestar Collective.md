@@ -2,4 +2,4 @@ FC is described as libertarian, run by a council, frontier freedom (it's obvious
 
 Oligarch's etc.
 
-[[Akila City]]
+[Akila City](Akila%20City.md)

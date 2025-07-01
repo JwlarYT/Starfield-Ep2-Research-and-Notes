@@ -1,45 +1,45 @@
-#### [[Advanced Combat]]
+#### [Advanced Combat](Advanced%20Combat.md)
 
-#### [[Ailments]]
+#### [Ailments](Ailments.md)
 
-#### [[Companions]]
+#### [Companions](Companions.md)
 
-#### [[Crafting]]
+#### [Crafting](Crafting.md)
 
-#### [[Decoration]]
+#### [Decoration](Decoration.md)
 
-#### [[Lockpicking]]
+#### [Lockpicking](Lockpicking.md)
 
-#### [[NG+]]
+#### [NG+](NG+.md)
 
-#### [[Outpost Management]]
+#### [Outpost Management](Outpost%20Management.md)
 
-#### [[Photo Mode]]
+#### [Photo Mode](Photo%20Mode.md)
 
-#### [[Piracy]]
+#### [Piracy](Piracy.md)
 
-#### [[Progression]]
+#### [Progression](Progression.md)
 
-#### [[Radiant Quests]]
+#### [Radiant Quests](Radiant%20Quests.md)
 
-#### [[Role-Playing]]
+#### [Role-Playing](Role-Playing.md)
 
-#### [[Ship Building]]
+#### [Ship Building](Ship%20Building.md)
 
-#### [[Space Gameplay]]
+#### [Space Gameplay](Space%20Gameplay.md)
 
-#### [[Star System Map]]
+#### [Star System Map](Star%20System%20Map.md)
 
-#### [[Stealth]]
+#### [Stealth](Stealth.md)
 
-#### [[Surveying]]
+#### [Surveying](Surveying.md)
  
   ---
  Many games are definitive; Sarfield is derivative.
  
  Create Venn Diagram to show how the systems do and don’t interact with one another.
 
-^ It is designed almost antiethically, where the systems clash so often and cancel each other out too much. Such as [[Ship Building]] being so open ended and intricate with the level of customisation possible with weapons, performance, exterior and interior appearance, yet it sits within a [[Travelling|space traversal]] sequence comprised of small skirmishes and glamour shot loading cutscenes.
+^ It is designed almost antiethically, where the systems clash so often and cancel each other out too much. Such as [Ship Building](Ship%20Building.md) being so open ended and intricate with the level of customisation possible with weapons, performance, exterior and interior appearance, yet it sits within a [space traversal](Travelling.md) sequence comprised of small skirmishes and glamour shot loading cutscenes.
 
 The wide range of gameplay features/mechanics/loops, which is Starfield’s strength (USP); but there is a stage where you may feel there’s a lack of depth per gameplay feature/mechanic/loop, or the repetitions start to become tedious, which is Starfield’s weakness.
 

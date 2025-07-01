@@ -2,7 +2,7 @@ The player is introduced to the UC Vanguard through the main story. This is our 
 
 UC Vanguard museum isn’t even hiding the propaganda. Love the use of cold corporate infographic “art” to drive home that calculative nature.
 
-The [[History]] between our time in to the games start in 2330 is told via a museum exhibition. This was very well done in my opinion, reminding me of how a similar conundrum was handled in Morrowind - how do we update the player on what has happened, without forcing them to listen to exposition against their will?
+The [History](History.md) between our time in to the games start in 2330 is told via a museum exhibition. This was very well done in my opinion, reminding me of how a similar conundrum was handled in Morrowind - how do we update the player on what has happened, without forcing them to listen to exposition against their will?
 
 In Morrowind it was done by early MQ characters insisting that you read up on the land's history; it would make sense to understand the locals if you are going to be working with them. 
 

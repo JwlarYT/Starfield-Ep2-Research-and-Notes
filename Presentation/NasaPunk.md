@@ -1,4 +1,4 @@
-The [[NasaPunk]] style is in full effect upon the Vanguard vessel. The ship interior blends modern Navy design with the control rooms seen within 1960s-80s Nasa, and the interiors of the ISS.  
+The [NasaPunk](NasaPunk.md) style is in full effect upon the Vanguard vessel. The ship interior blends modern Navy design with the control rooms seen within 1960s-80s Nasa, and the interiors of the ISS.  
 It’s largely white with a poly/plastic feel to it, large screens dominate the front of the command room and rows of computers sit at a 45 degree angle to the sailors using them. It’s very striking, and strangely beautiful. 
 
 The airlock doors seemingly ripped straight from the ISS sound and look great as they depressurise and swing open. This is the first time the NasaPunk aesthetic really made sense to me. I was suddenly a 5 year boy who wanted to be an astronaut again.

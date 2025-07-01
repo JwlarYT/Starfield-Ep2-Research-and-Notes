@@ -1,4 +1,4 @@
-[[World Building]]
+[World Building](World%20Building.md)
 
 Starfield’s world is missing believable living background music - https://en.m.wikipedia.org/wiki/Muzak
 

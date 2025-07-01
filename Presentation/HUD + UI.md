@@ -22,8 +22,8 @@ This stops the player from spamming tiring actions in battle or when traversing 
 
 When your scanner is activated, the smartwatch switches to tracking information about the local environment, showing the player the temperature, oxygen percentage and gravity.
 
-The player can be afflicted by a number of [[Ailments]] that require specific medications or a doctor's visit to fix. Such as hyper and hypothermia, concussions etc.
+The player can be afflicted by a number of [Ailments](Ailments.md) that require specific medications or a doctor's visit to fix. Such as hyper and hypothermia, concussions etc.
 
-The scanner will show destinations for you to walk towards (like how the compass worked in FO and TES) but some places are not on it. These are still worth [[• Exploring]], and in my experience so far, they are large enough vocal points that you can not miss them. ( I found two huge abandoned Helium mining towers on the moon that netted me some nice resources ).
+The scanner will show destinations for you to walk towards (like how the compass worked in FO and TES) but some places are not on it. These are still worth [• Exploring](•%20Exploring.md), and in my experience so far, they are large enough vocal points that you can not miss them. ( I found two huge abandoned Helium mining towers on the moon that netted me some nice resources ).
 
 

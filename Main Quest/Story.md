@@ -11,8 +11,8 @@ BGS: Makes games that are famous for being so big that people ignore the main st
 Also BGS: Makes a game where they expect you to repeat the main story over and over while also not providing any significant changes or build variety that would make you want to play it more than once.
 		Then add a skip when you realise this is bad idea, although the skip focuses on the most banal repetitive part of the gameplay loop.
 
-The main storyline has one saving grace at least. It requires the player to make an ideological choice between the [[The emissary]], [[the hunter]] or neither. 
+The main storyline has one saving grace at least. It requires the player to make an ideological choice between the [The Emissary](The%20emissary.md), [The Hunter](the%20hunter.md) or neither. 
 I think that there is an interesting psycho-dramatic commentary there on an individuals power to pursue a a meaningful existence. 
-The multiverse (like capitalist ‘meritocracy’) offers us the illusion that can live any life, be whoever we want to be and achieve whatever dream we set our mind to. [[The emissary]] calls us towards order, to restrict and temper our desires, harnessing them for a higher purpose.
-[[The Hunter]] has given in to nihilism, embraced the idea that nothing has meaning beyond the pursuit of our personal power. He calls us to let go. 
+The multiverse (like capitalist ‘meritocracy’) offers us the illusion that can live any life, be whoever we want to be and achieve whatever dream we set our mind to. [The Emissary](The%20emissary.md) calls us towards order, to restrict and temper our desires, harnessing them for a higher purpose.
+[The Hunter](The%20Hunter.md) has given in to nihilism, embraced the idea that nothing has meaning beyond the pursuit of our personal power. He calls us to let go. 
 The irony is that both of them, like us, are trapped by loops and paralysed by too much possibility. 

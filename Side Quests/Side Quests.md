@@ -1,4 +1,4 @@
-Quests are unlocked as you [[Progression|level]], with guards making you aware of new ones. News broadcasts through SSN pillars in the main [[• Cities]] also do the same, and help add some extra life through diegetic lore.
+Quests are unlocked as you [level](Progression.md), with guards making you aware of new ones. News broadcasts through SSN pillars in the main [• Cities](•%20Cities.md) also do the same, and help add some extra life through diegetic lore.
 
 ‘Activities’ often take the player to the start of a misc quest (side quest).
 
@@ -11,14 +11,14 @@ Enhance! owner lost confidential documents and asked us to find them but not rea
 
 The Galbank questline works like a proto-tracker's alliance, but killing isn’t necessary. (And may be punished).
 
-Quests do have cute little follow ups, like Styx the Mech in [[Neon City]] getting a new paint job and upgrade after we took out the Disciple gang member responsible for graffiti tagging him.
+Quests do have cute little follow ups, like Styx the Mech in [Neon City](Neon%20City.md) getting a new paint job and upgrade after we took out the Disciple gang member responsible for graffiti tagging him.
 Mostly adds a new voice line or two, but at least there’s some extra payout past the immediate reward. Helps the world feel a little more alive.
 
 Start of Walter's 'Overdesigned' quest behind the curtain look at Starfield’s planning problems? 
 “R&D is a natural starting point, we look at what we’ve done before and analyse data on how best to proceed, but everyone’s confirmation bias changes what they think is necessary”.
 
 A good amount of those are basically glorified radiants with a fixed spot. Like the special ingredient pickup for that one chunks location that is just an excuse to make you see the ECS Constant and start the real quest.
-	A single step above a radiant. Perhaps to help those [[Radiant Quests]] stand out less?
+	A single step above a radiant. Perhaps to help those [Radiant Quests](Radiant%20Quests.md) stand out less?
 
 That would be a cool idea. I really liked 'Juno's Gambit' also. I think it showcases Starfield at its best in those more thoughtful moments.
 

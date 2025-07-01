@@ -1,15 +1,15 @@
 You know what would’ve been a great Starborn power? Teleporting.
 Would straight fix many complaints about going through loading screens back and forth between quest giver and quest objective. Just plonk down the mark at the giver, complete the quests and then TP back. Sure the NPC wouldn’t acknowledge this magical feat that occurs right in front of them. But they don’t do that already, so nothing much has changed there.
 
-Starborn ships start [[Random Encounters|landing]] after a certain point in the MQ and act identical to Pirate or Ecliptic ships, dropping off a small battalion of NPCs to meander around the landscape for some reason. I thought Starborn worked alone, odd that some would try to find each other, only to then fly to random planets and walk about on patrol. Maybe hoping across universes got boring.
+Starborn ships start [landing](Random%20Encounters.md) after a certain point in the MQ and act identical to Pirate or Ecliptic ships, dropping off a small battalion of NPCs to meander around the landscape for some reason. I thought Starborn worked alone, odd that some would try to find each other, only to then fly to random planets and walk about on patrol. Maybe hoping across universes got boring.
 
 You enter the universes you find at the first place where you jumped after having touched an artifact. This seems to imply that, while the nature of the multiverse may be infinite, you are limited to a degree by which you can explore that infinitude to 'merely' the infinite variations possible within the reality you started from (hence why you're stuck in the game's scenario - that's your only option despite its infinite possibilities of procgen planets). 
 
-This is why [[the hunter]] and [[the emissary]] are always who they are, and why events play out as they do all the time. The hunter is aware of this, and his dialogue even mentions that despite all the possibilities, certain things where he is involved always seem to be necessary to progress through the cycle of reaching Unity again.
+This is why [The Hunter](the%20hunter.md) and [The Emissary](the%20emissary.md) are always who they are, and why events play out as they do all the time. The hunter is aware of this, and his dialogue even mentions that despite all the possibilities, certain things where he is involved always seem to be necessary to progress through the cycle of reaching Unity again.
 
-They’re meant to be intimidating and mysterious, a group of dimension hoppers with advanced tech, ships, suits, and literal superpowers. Everyone talks up how alien they are and that continuing to search for the [[Artifacts]] would be dangerous given these Starborn are hunting for them too.
+They’re meant to be intimidating and mysterious, a group of dimension hoppers with advanced tech, ships, suits, and literal superpowers. Everyone talks up how alien they are and that continuing to search for the [Artifacts](Artifacts.md) would be dangerous given these Starborn are hunting for them too.
 
-Except the only one who becomes an actual threat is [[the Hunter]], purportedly the strongest one of them all since he’s implied to have gone through the [[Unity]] hundreds if not thousands of times. 
+Except the only one who becomes an actual threat is [The Hunter](the%20Hunter.md), purportedly the strongest one of them all since he’s implied to have gone through the [Unity](Unity.md) hundreds if not thousands of times. 
 
 Every other Starborn? They don’t gather a single artifact and constantly get themselves killed attacking an explorer group whose specialty isn’t even combat.
 
@@ -18,7 +18,7 @@ How are dimension hopping, ageless superhumans so damn incompetent? They made it
 
 Every Starborn we meet should be on par with the difficulty of the Ebony Knight.
 
-We sorta get that when we storm the final base for the final artifact. I still don't know why they all gang up at that last location. Are they teamed up with [[the Emissary]]? Should be a free for all if they're just there to poach the [[artifacts]].
+We sorta get that when we storm the final base for the final artifact. I still don't know why they all gang up at that last location. Are they teamed up with [The Emissary](the%20Emissary.md)? Should be a free for all if they're just there to poach the [Artifacts](artifacts.md).
 
 Throughout the game, the ships that land everywhere are always carrying a small landing party of super easy minions and the ships in orbit that always attack us are dead in seconds. It's as if every Starborn are first timers. I'd love to run into more Starborn that have specific names that are at my level or above. A random encounter with a Starborn double my level would give me some real incentive to run away or be genuinely afraid. 
 

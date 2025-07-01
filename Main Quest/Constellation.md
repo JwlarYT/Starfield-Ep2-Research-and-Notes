@@ -20,7 +20,7 @@ Constellation as we meet them:
 
 ^ It would make sense that constellation, funded by a rich megacorp CEO, would be a group of misfits from different paths of life who would come together for a shared interest in exploration and archaeology. Instead, Starfield makes a hobby centered meetup group into something more than it needs to be.
 
-Based around "[[• Exploring]]", but the game world takes place in "the settled systems". every single planet/moon/pebble has already been discovered, explored, catalogued. there is literally not a single item, crafting material, mineral, weapon, armour, wonder that you cannot purchase from the first general store you come across. its actually impossible to discover anything in the whole universe, even the artifacts have hundreds of [[starborn]] that have discovered them and just want another ride on the rollercoaster.
+Based around "[• Exploring](•%20Exploring.md)", but the game world takes place in "the settled systems". every single planet/moon/pebble has already been discovered, explored, catalogued. there is literally not a single item, crafting material, mineral, weapon, armour, wonder that you cannot purchase from the first general store you come across. its actually impossible to discover anything in the whole universe, even the artifacts have hundreds of [Starborn](starborn.md) that have discovered them and just want another ride on the rollercoaster.
 
 ---
 #### The Mission Board inconsistency

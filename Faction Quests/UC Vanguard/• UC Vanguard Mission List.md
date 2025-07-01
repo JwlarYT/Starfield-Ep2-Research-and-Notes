@@ -1,9 +1,9 @@
-1. [[Supra Et Ultra]]
-2. [[Grunt Work]]
-3. [[Delivering Devils]]
-4. [[Eyewitness]]
-5. [[Friends Like These]]
-6. [[The Devils You Know]]
-7. [[War Relics]]
-8. [[Hostile Intelligence]]
-9. [[A Legacy Forged]] 
+1. [Supra Et Ultra](Supra%20Et%20Ultra.md)
+2. [Grunt Work](Grunt%20Work.md)
+3. [Delivering Devils](Delivering%20Devils)
+4. [Eyewitness](Eyewitness)
+5. [Friends Like These](Friends%20Like%20These.md)
+6. [The Devils You Know](The%20Devils%20You%20Know)
+7. [War Relics](War%20Relics)
+8. [Hostile Intelligence](Hostile%20Intelligence)
+9. [A Legacy Forged](A%20Legacy%20Forged.md) 

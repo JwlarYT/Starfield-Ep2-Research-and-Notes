@@ -1,10 +1,10 @@
 Quite philosophical, to the point where it influences every aspect of the game, from factions to story to mechanics. Questions are posed, sometimes overtly in conversation, sometimes in the choices the player’s character has to make, and even in the meta choices the player makes about the game and how to play it, but answers are never given.
 
-Starfield (and [[Constellation]]) aim to answer life's biggest questions, are per Todd Howard in the original [[Marketing|2023 Direct ]]
+Starfield (and [Constellation](Constellation.md)) aim to answer life's biggest questions, are per Todd Howard in the original [2023 Direct ](Marketing.md)
 These questions usually are:
 1. Why are we here?
 	- What is the purpose or meaning of life?
-		[[Constellation]] is driven by curiosity—asking "what’s out there?"  An on-the-nose metaphor for humanity’s search for purpose.
+		[Constellation](Constellation.md) is driven by curiosity—asking "what’s out there?"  An on-the-nose metaphor for humanity’s search for purpose.
 		The companions often reflect on the meaning of exploration and what it says about humanity’s place in the cosmos.
 		
 2. What is consciousness?
@@ -12,21 +12,21 @@ These questions usually are:
 	
 3. Are we alone in the universe?
 	- Is there extraterrestrial life?
-		Core to Starfield's narrative is the search for 'alien' intelligence left by unknown entities who made the [[artifacts]] and [[Temples]]. This taps into the [[Fermi Paradox]] and the deep human urge to find others in the cosmos.
+		Core to Starfield's narrative is the search for 'alien' intelligence left by unknown entities who made the [Artifacts](artifacts.md) and [Temples](Temples.md). This taps into the [Fermi Paradox](Fermi%20Paradox.md) and the deep human urge to find others in the cosmos.
 	
 4. What happens after death? And can we overcome death or suffering?
 	- Is there an afterlife or reincarnation?
-		The [[Starborn]] seem to have transcended ordinary mortality by mastering the artifacts. This introduces themes of post-human evolution and immortality - what it means to shed a singular lifetime for eternal existence across universes.
+		The [Starborn](Starborn.md) seem to have transcended ordinary mortality by mastering the artifacts. This introduces themes of post-human evolution and immortality - what it means to shed a singular lifetime for eternal existence across universes.
 		Mortality is a major element, too. Characters at the edge of death leave behind recordings or give monologs that define their lives and how they face the end. Is immortality really better? Only the player can really answer based on how they face the Unity.
 		Many instances of dead average people leaving notes behind, whereas the character keeps being given a license to kill with only the barest cover, and can be functionally immortal.
 		
 5. What is the nature of reality?
 	- Is the universe deterministic or probabilistic?
-		Based on the limited [[Role-Playing]] options in quests and poor [[Consequences]] , we would have to conclude that Starfield's approach is very much deterministic.
+		Based on the limited [Role-Playing](Role-Playing.md) options in quests and poor [Consequences](Consequences.md) , we would have to conclude that Starfield's approach is very much deterministic.
 		
 6. What is the universe made of, and how did it begin?
 	- Is there a multiverse?
-		Yes, but as well as a [[Metaphysical structure of reality]] 
+		Yes, but as well as a [Metaphysical structure of reality](Metaphysical%20structure%20of%20reality.md) 
 		Themes like alternate universes and transcendence suggest reality may be deeper than the material one the player navigates.
 		
 7. How should we live?
@@ -35,7 +35,7 @@ These questions usually are:
 			Starfield, more than any other Bethesda game, is nearly all grey, very little black-and-white. There are no real good guys or bad guys; pretty much everybody in the game thinks they are the good guys, and everyone else are the bad guys; the characters are quick to point out how much better they are, and point out the other sides, failings, while the other side is doing the same thing in reverse.
 			
 	- How do we balance individual freedom with collective well-being?
-		Reflected in the political ideologies of the [[United Colonies]] and [[Freestar Collective]]
+		Reflected in the political ideologies of the [United Colonies](United%20Colonies.md) and [Freestar Collective](Freestar%20Collective.md)
 		
 8. What is the fate of humanity?
 	- Will we survive climate change, AI, nuclear weapons, or other existential risks?
@@ -46,19 +46,19 @@ These questions usually are:
 		
 9. Is there a God or higher power?
 	- Is the universe the product of intelligent design?
-		The universe is up to debate, only that it is made by the Creators? All fingers point toward a [[Temporal Paradox]] and the Starborn creating the universe as a plaything based on past experience of using the universe as a plaything. [[Unity]]
+		The universe is up to debate, only that it is made by the Creators? All fingers point toward a [Temporal Paradox](Temporal%20Paradox.md) and the Starborn creating the universe as a plaything based on past experience of using the universe as a plaything. [Unity](Unity.md)
 		
-	- The Artifacts and Starborn entities suggest the presence of a higher intelligence or metaphysical force—possibly even a godlike mechanism behind the universe's structure. Or that the Starborn themselves created it all as [[The Pilgrim]] implies, a self fulfilling prophecy, or a [[Temporal Paradox]].
+	- The Artifacts and Starborn entities suggest the presence of a higher intelligence or metaphysical force—possibly even a godlike mechanism behind the universe's structure. Or that the Starborn themselves created it all as [The Pilgrim](The%20Pilgrim.md) implies, a self fulfilling prophecy, or a [Temporal Paradox](Temporal%20Paradox.md).
 	
 	- Can science and religion be reconciled?
-		The new [[religion]]s mirror humanity’s ongoing attempt to reconcile science, metaphysics, and faith.
+		The new [Religion](religion.md)s mirror humanity’s ongoing attempt to reconcile science, metaphysics, and faith.
 
 Starfield sets up the pieces, it gives you the hints, but it doesn't go deep. It only scratches the surface, gives you good proof of concept and leaves it at that
 
 A nihilistic theme park. Not actually nihilistic, like Knights of the Old Republic 2 was nihilistic; an actual philosophical deconstruction of the setting and the tropes of Star Wars. But an amusement park with structures and settings based on that central theme, with little effort but into adding any meaning beyond the dictionary definition.
 	Why are we getting stronger? Just...because. The point of the game is to get to the end of it and do it again. We get all these powers to do nothing with them. We aren't gearing up for some big bad evil guy. We aren't saving the world. The world is already at peace and it stays at peace. At the end of the game, after you've collected every power, there is nothing to DO with them. Attack people? I already have more powerful guns. Narratively, why are we even doing this?
 		In Morrowind it was to beat a god, eventually becoming akin to one, in Oblivion a Daedric Prince, literally becoming one, in Skyrim to beat Alduin and Miraak, taking the place of the later.
-			In Starfield we either take the mantle of [[the Hunter]], and later become him, ie. bored with the game and go off and built an outpost, like [[the pilgrim]]. Or [[the emissary]], which is to not NG+ past one universe, finish the content you care about and move on. And maybe that's the point. Starfield, the base game isn't meant to be played for ever. Only through [[Reliance on Mods|mods]] is that intended.
+			In Starfield we either take the mantle of [The Hunter](the%20Hunter.md), and later become him, ie. bored with the game and go off and built an outpost, like [The Pilgrim](the%20pilgrim.md). Or [The Emissary](the%20emissary.md), which is to not NG+ past one universe, finish the content you care about and move on. And maybe that's the point. Starfield, the base game isn't meant to be played for ever. Only through [mods](Reliance%20on%20Mods.md) is that intended.
 
 Starfield makes a comment on today's society and its various oligarch's dreams of exploiting space. I think if guys like Musk and Bezos and similar people would _really_ manage to colonize space, it would become exactly a dystopia like the societies Starfield presents us. Starfield shows that it makes no difference for the 'normal' people if it's a libertarian dystopia or a protofascist dystopia - in both only the priviliged have a good life.
 We do not have the ability to _change_ anything about this. 
@@ -66,11 +66,11 @@ We do not have the ability to _change_ anything about this.
 		Starfield gives us only ways to help individuals, on the small scale. We can collect donations, we can place posters for that child, little stuff like this.
 			The game instead gives the impression that political acting is not just meaningless, but impossible. Todd Howard said Starfield would present an optimistic future, it doesn't.
 
-The ideological difference between [[the Emissary]] and [[the Hunter]] is the same as the difference in philosophies of government between the [[United Colonies]] and the [[Freestar Collective]]. The faction quests for those two governments uncovers conspiracy and corruption that rotted from the inside, that was uniquely possible only because of the failings of those governments. 
-[[UC SysDef]] and the [[Crimson Fleet]] are mirrors of each other, with both leaders willing to bend or even break the very rules they espouse and commit to uphold.
+The ideological difference between [The Emissary](the%20Emissary.md) and [The Hunter](the%20Hunter.md) is the same as the difference in philosophies of government between the [United Colonies](United%20Colonies.md) and the [Freestar Collective](Freestar%20Collective.md). The faction quests for those two governments uncovers conspiracy and corruption that rotted from the inside, that was uniquely possible only because of the failings of those governments. 
+[UC SysDef](UC%20SysDef) and the [Crimson Fleet](Crimson%20Fleet.md) are mirrors of each other, with both leaders willing to bend or even break the very rules they espouse and commit to uphold.
 
-But the deepest question posed is, how will the player deal with Unity/[[NG+]]? Will they rush through [[artifacts]] collection and skip to the next universe like it’s a race, and abandon friends and enemies alike? Will they explore every universe and if it were new, to discover the vast majority are not? How does one deal with functional immortality when time is an endless loop of the same experiences over and over? The question suddenly changes from “what does the character do here” to “what does the player do?" How do they react to the ennui of a Groundhog Day scenario where almost nothing ever changes, and when it does it’s usually for the worse?
-	Which is why not accommodating more [[Player Agency]] is so incompetant. And a sign of [[Poor Planning]]. If all quest designers knew from the beginning that every quest had to accommodate NG+ in some way, it would have gone a long way in improving the response to that,
+But the deepest question posed is, how will the player deal with Unity/[NG+](NG+.md)? Will they rush through [Artifacts](artifacts.md) collection and skip to the next universe like it’s a race, and abandon friends and enemies alike? Will they explore every universe and if it were new, to discover the vast majority are not? How does one deal with functional immortality when time is an endless loop of the same experiences over and over? The question suddenly changes from “what does the character do here” to “what does the player do?" How do they react to the ennui of a Groundhog Day scenario where almost nothing ever changes, and when it does it’s usually for the worse?
+	Which is why not accommodating more [Player Agency](Player%20Agency.md) is so incompetant. And a sign of [Poor Planning](Poor%20Planning.md). If all quest designers knew from the beginning that every quest had to accommodate NG+ in some way, it would have gone a long way in improving the response to that,
 
-The divergent paths of not only our character through cycles but also that of other Starborn and the writings of [[the Pilgrim]] highlight that.
+The divergent paths of not only our character through cycles but also that of other Starborn and the writings of [The Pilgrim](the%20Pilgrim.md) highlight that.
 

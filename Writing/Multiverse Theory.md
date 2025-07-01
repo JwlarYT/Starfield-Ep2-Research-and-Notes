@@ -1,4 +1,4 @@
-[[NG+]] [[Unity]]
+[NG+](NG+.md) [Unity](Unity.md)
 
 Suggests there are many parallel universes, each with different laws or histories.
 
