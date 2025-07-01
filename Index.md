@@ -20,7 +20,7 @@
 - How ‘impactful’ is the story on the universe (will there be any changes once it is done, or is it self-contained?)
 - [NG+](Gameplay%20Systems/NG+.md) implications
 
-Where it makes sense, discuss relevant [•Gameplay_Systems](Gameplay%20Systems/•Gameplay_Systems.md):
+Where it makes sense, discuss relevant [•Gameplay_Systems](Gameplay%20Systems/•Gameplay_Systems.md): 
 - [HUD+UI](Presentation/HUD+UI.md)
 - [Advanced_Combat](Gameplay%20Systems/Advanced_Combat.md) ([Starborn](Main%20Quest/Starborn.md) powers and movement)
 - [Crafting](Gameplay%20Systems/Crafting.md)
