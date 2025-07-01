@@ -1,4 +1,3 @@
-
 ## Episode 2 Structure
 ### Plan:
 

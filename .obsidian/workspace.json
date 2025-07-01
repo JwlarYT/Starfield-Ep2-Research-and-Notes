@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "README"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -241,7 +241,7 @@
     "New Updates/Difficulty_options.md",
     "Together in electric dreams.md",
     "Creation.md",
-    "Index.md",
+    "README.md",
     "Side Quests/Side_Quests.md",
     "Side Quests/Out_on_a_Limb.md",
     "Research/Traveller_TTRPG.md",
