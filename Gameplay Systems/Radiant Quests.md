@@ -2,10 +2,10 @@ The randomly generated quests are pretty simple and very obvious so far. I was g
 
 I was paid a meager sum for my efforts, but these jobs are just that. Jobs. 
 
-They’re designed to push you to explore and to give you a few credits if you want them. They are clearly marked in the quest log under “missions”. These certainly aren’t the selling point of the game, but they’re a nice time waster and more importantly, they facilitate [Role-Playing](Gameplay%20Systems/Role-Playing.md). Maybe my character wants to be a miner on the Moon, why not? It’s better to have the choice be there than not.
+They’re designed to push you to explore and to give you a few credits if you want them. They are clearly marked in the quest log under “missions”. These certainly aren’t the selling point of the game, but they’re a nice time waster and more importantly, they facilitate [Role-Playing](Role-Playing.md). Maybe my character wants to be a miner on the Moon, why not? It’s better to have the choice be there than not.
 
 Mission boards in bars are a way of finding radiant quests that appeal to the classic Elite 1-3 style space sim quests. Including transporting people and cargo, hunting pilots or [Surveying](Surveying.md) [Planets](Planets.md). Their pay is measly at only 2-4k credits per job, you can often sell a looted gun for more, but at least the jobs exist for those who wanted those RP options, like me.
-	^ Seeing as these simple missions that don’t necessarily require fighting exist, I again wish there was a more ‘simple’ opening where the player starts as a new migrant to a city of their choosing. Then they can take jobs like this to make some cash and earn a name for themselves as an early-game [Progression](progression.md) style. I’m sure an ‘Alternate Start’ mod will fulfil this need, but why is it that we must always rely on modders to make the games better…
+	^ Seeing as these simple missions that don’t necessarily require fighting exist, I again wish there was a more ‘simple’ opening where the player starts as a new migrant to a city of their choosing. Then they can take jobs like this to make some cash and earn a name for themselves as an early-game [Progression](Progression.md) style. I’m sure an ‘Alternate Start’ mod will fulfil this need, but why is it that we must always rely on modders to make the games better…
 		This also facilitates a passive playthrough, which is impossible due to the forced opening
 
 There certainly is a Daggerfall-ness to the radiant quests. 
@@ -34,7 +34,7 @@ This brought me into an exciting zero-G dungeon where the generator was damaged,
 
 Once I had wiped that dungeon and looted it for all that it was worth, I scanned the nearby moon, landing at the Mining Outpost POI highlighted on the map. 
 + Here, the foreman asked us to kill some Spacers nearby that were giving them trouble. 
-+ We travel to the Abandoned Research Tower using the car (it was 2 km away, that time sink would’ve killed any enthusiasm, which is why [Ground vehicles](Ground%20vehicles.md)  are a good game enhancer - I couldn’t even use [Surveying](surveying.md) to fill that trek as this moon only had two minerals to find). 
++ We travel to the Abandoned Research Tower using the car (it was 2 km away, that time sink would’ve killed any enthusiasm, which is why [Ground vehicles](Ground%20vehicles.md)  are a good game enhancer - I couldn’t even use [Surveying](Surveying.md) to fill that trek as this moon only had two minerals to find). 
 + We wiped out the Spacers in a standard enough [dungeon ](Points%20of%20Interest.md)romp, and returned for our credits. 
 
 Then flying over the next moon (using the menu of course, the idea of “flying” anywhere in this game is just a fabrication). 

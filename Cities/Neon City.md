@@ -3,7 +3,7 @@ Las Vegas in premise but with a Cyberpunk Tokyo aesthetic. Ran by a crime boss. 
 Looked way better in concept art: ![Screenshot 2025-06-19 at 12.04.18](Screenshot%202025-06-19%20at%2012.04.18.png)
 
 ---
-##### [Starfield: Location Insights (Developer Commentary) - Neon](https://www.youtube.com/watch?v=E2io6xFD1VY)
+##### [Starfield: Location Insights (Developer Commentary) - Neon](Developer%20Commentary)%20-%20Neon)
 27 Aug 2021, Bethesda Softworks
 
 - Nothing of note in the video other than the dialogue is as chopped up as the aurora dialogue in-game. Shouldn't throw stones in glass houses though, I do the same.
@@ -21,7 +21,7 @@ I can fill this in with headcanon, considering sniffers as a name for the scanne
 I’ll admit that I’m reading way too much into this bit, though. Other guards call these scanners too, not sniffers. Maybe that other guy is just a weirdo? Or it's another result of [Poor Planning](Poor%20Planning.md)
 
 More NPC awareness in [Dialogue](Dialogue.md) would be appreciated. The receptionist at Ryujin insisted that I check out the Neuromap store, even though I was already wearing one. 
-NPCs *can* recognise this because another guard commented on me wearing it. These minor discrepancies, when isolated, are acceptable, but over time, they once again harm [Immersion](immersion.md). KCD1 and 2 *do* have this level of dialogue variance, for example.
+NPCs *can* recognise this because another guard commented on me wearing it. These minor discrepancies, when isolated, are acceptable, but over time, they once again harm [Immersion](Immersion.md). KCD1 and 2 *do* have this level of dialogue variance, for example.
 
 So many [Side Quests](Side%20Quests.md) feel like minor filler, especially in Neon. Hand out these flyers, talk to this one guy to fix our disagreement. 
 	^ I must come back after a few in-game days to see if there has been a result of these quests. Although knowing Bethesda game design, they would’ve left the quest open, saying “come back in a few days” if that was the case. In KCD or FNV I would expect a change, so let's give them the benefit of the doubt.
@@ -39,7 +39,7 @@ Manufacture the Mag-Tech (railgun) guns that look like a kid K’nex wet dream. 
 	Even ship ladders are able to block a projectile with thin air. 
 
 The guns are even goofier as they all fire in an array, akin to a shotgun but with a controlled spread. This limits their effectiveness to close to medium range, which has them going head-to-head with shotties from a [Advanced Combat](Advanced%20Combat.md) perspective. 
-	Personally, I never quite felt like they had the punch I was looking for, partly due to their [Sound Design](sound%20design.md), which is expectedly weak, but probably realistic.
+	Personally, I never quite felt like they had the punch I was looking for, partly due to their [Sound Design](Sound%20Design.md), which is expectedly weak, but probably realistic.
 
 #### Generdyne Industries 
 Created the electromagnetic Conduction Grid that powers Neon through the collection of lightning into storage cells. 

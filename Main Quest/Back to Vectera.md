@@ -1,13 +1,13 @@
 Fixing PC for Lin. Two methods of completion are available: hack the PC using a digipick or turn the power back on with emergency batteries, which can be found nearby. 
-Lin not being able to use [digipicks](Lockpicking.md) is understandable, but why couldn't she use the emergency power? As an expert in [Outpost Management](outpost%20management.md), specifically hired by Argos Extractions for that exact job, I’m sure she understands how. 
+Lin not being able to use [digipicks](Lockpicking.md) is understandable, but why couldn't she use the emergency power? As an expert in [Outpost Management](Outpost%20Management.md), specifically hired by Argos Extractions for that exact job, I’m sure she understands how. 
 One can see it as her giving up or not caring. She’s waiting for an evacuation, as far as I can tell (she doesn’t say this, and since everyone else has already been extracted, I'm unsure why she's still here). On the off chance the player comes by? That’s convenient. 
 If she *was* trying to access that computer to find out where Heller and Barrett were taken, she’s done a poor job at it.
 
 Heller - "Barret was all smiles about crash landing."
 Yeah, because that’s way cooler than anything we get to do in this game. (Cut to shooting the flight console in a boarded ship to show we cannot do the same.)
 
-The [Dialogue](dialogue.md) for offering Heller medical help reads as if it should be a Medicine requirement (another skill in the game), but as with the Tracking skill in [Space Gameplay](Space%20Gameplay.md) earlier, the game lets you fix him up without any prerequisite. 
-Seems like a bit of cowardice in regards to ‘locking away’ content behind skills. Either embrace a skill system that reflects in dialogue, or don’t have one; don’t have this half-hearted approach! What skills can be used in [Dialogue](dialogue.md) don't unlock anything special or progress a quest faster, etc. It simply adds a new line of dialogue in response, and the conversation proceeds as usual. It's at least recognition, which is the bare minimum, but no [Role-Playing](Role-Playing.md) is added beyond that.
+The [Dialogue](Dialogue.md) for offering Heller medical help reads as if it should be a Medicine requirement (another skill in the game), but as with the Tracking skill in [Space Gameplay](Space%20Gameplay.md) earlier, the game lets you fix him up without any prerequisite. 
+Seems like a bit of cowardice in regards to ‘locking away’ content behind skills. Either embrace a skill system that reflects in dialogue, or don’t have one; don’t have this half-hearted approach! What skills can be used in [Dialogue](Dialogue.md) don't unlock anything special or progress a quest faster, etc. It simply adds a new line of dialogue in response, and the conversation proceeds as usual. It's at least recognition, which is the bare minimum, but no [Role-Playing](Role-Playing.md) is added beyond that.
 
 Heller's planet is randomly chosen, so his situation can make sense or not. On the one hand, it's good for the entire Unity multiverse, on the other, it causes mind-boggling moments, such as living on a planet with zero oxygen.
 https://www.reddit.com/r/Starfield/comments/1kwuzuv/i_had_no_idea_the_planet_in_back_to_vectera_was/

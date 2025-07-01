@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "• Episode 2 Structure.md",
+                "file": "New Updates/Creation Club integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "• Episode 2 Structure"
+              "title": "Creation Club integration"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "• Episode 2 Structure.md",
+                "file": "New Updates/Creation Club integration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for • Episode 2 Structure"
+              "title": "Backlinks for Creation Club integration"
             }
           },
           {
@@ -228,10 +228,16 @@
   },
   "active": "8e0435bf97f44a0f",
   "lastOpenFiles": [
-    "New Updates/Bug Fixes & Other Changes.md",
+    "Development/Reliance on Mods.md",
+    "New Updates/Creation Club integration.md",
     "• Episode 2 Structure.md",
-    "Find Time Management Course.md",
+    "Creation.md",
+    "New Updates/Ground vehicles.md",
+    "New Updates/Tracker's Alliance.md",
     "Together in electric dreams.md",
+    "Find Time Management Course.md",
+    "Gameplay Systems/Advanced Combat.md",
+    "New Updates/Bug Fixes & Other Changes.md",
     "Writing/Rome wasn’t burned in a day.md",
     "Development/Design Document.md",
     "Writing/Critique.md",
@@ -248,12 +254,6 @@
     "Development/Cut Content.md",
     "Exploring/Skinner Box.md",
     "Gameplay Systems/Progression.md",
-    "Gameplay Systems/Surveying.md",
-    "Development/• Development.md",
-    "Exploring/• Exploring.md",
-    "Writing/Writing.md",
-    "Gameplay Systems/• Gameplay Systems.md",
-    "Presentation/NPC routines.md",
     "Images/CCD2A22C-07F2-42BF-B683-63C42273DF63_1_201_a.jpeg",
     "Images/286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a.jpeg",
     "Images/Difficulty Settings.jpg",

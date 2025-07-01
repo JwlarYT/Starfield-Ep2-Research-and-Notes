@@ -6,7 +6,7 @@ First new IP in 25 years, and still Starfield is the the least creative and leas
 
 Guns have brands, like Combatech and Kore Kinetics, although nothing is really done with this lore. Helps build up some world believability though.
 
-Starfield aims to evoke a dystopian feel while also maintaining a clean aesthetic, but I don’t think it works well. There’s [The Well](the%20Well.md) in [New Atlantis](New%20Atlantis.md) (literally dirty underworld), the drug scene and underlife in [Neon City](Neon%20City.md), the poverty in [Akila City](Akila%20city.md). 
+Starfield aims to evoke a dystopian feel while also maintaining a clean aesthetic, but I don’t think it works well. There’s [The Well](The%20Well.md) in [New Atlantis](New%20Atlantis.md) (literally dirty underworld), the drug scene and underlife in [Neon City](Neon%20City.md), the poverty in [Akila City](Akila%20City.md). 
 
 I just had some rich guy in a high end restaurant in [New Atlantis](New%20Atlantis.md) hire to find some coffee that needs to be digested by a dangerous alien (Kopi Luwak reference) because his previous employee died trying to get it. 
 When asked about this, he mentions how the risks were in his contract so no one should care. We see more of this Robocop-style evil corpo stuff in the [Paradiso](Paradiso.md) quest with the rich board members and yet nothing is really done with it. 

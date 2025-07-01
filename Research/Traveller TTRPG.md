@@ -2,7 +2,7 @@ According to Todd there are no faster-than-light communications in Starfield. Co
 
 https://en.wikipedia.org/wiki/Traveller_(role-playing_game)
 Traveller is a tabletop game where characters journey through star systems, engaging in exploration, ground and space battles, and interstellar trading. The game is influenced by various literary works and emphasises commerce, sociological stratification, and a mix of low and high technology.
-The game's history also features the Ancients, a highly advanced race that left behind [ruins](Temples.md) and [Artifacts](artifacts.md) scattered throughout the universe.
+The game's history also features the Ancients, a highly advanced race that left behind [ruins](Temples.md) and [Artifacts](Artifacts.md) scattered throughout the universe.
 
 Limited communication: There is no Faster-than-light communication – meaning no ansible, subspace radio, or similar. Communication is limited to the speed of travel. Decisions are made on the local level rather than by a remote authority.
 ###### Low-technology

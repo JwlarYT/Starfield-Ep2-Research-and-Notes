@@ -10,9 +10,9 @@ So far all of the ones you can romance appear to be bi, which is nice for those 
 
 Companions gather resources and clog Activities list.
 
-The [Constellation](constellation.md) companions have by far the most substantial bonuses, so being able to stack all of them onto your ship will generally make you very powerful (as long as you’re upgrading/levelling your ship as you play). 
+The [Constellation](Constellation.md) companions have by far the most substantial bonuses, so being able to stack all of them onto your ship will generally make you very powerful (as long as you’re upgrading/levelling your ship as you play). 
 
-Based on how crew members will praise the player for docking in the same way they praise us for [Lockpicking](lockpicking.md), there may have been an intended minigame for docking at one point.
+Based on how crew members will praise the player for docking in the same way they praise us for [Lockpicking](Lockpicking.md), there may have been an intended minigame for docking at one point.
 
 https://www.nexusmods.com/starfield/mods/7028
 Affinity works as a percentage, increasing or decreasing by a few points based on dialogue and gameplay choices. This percentage can be manipulated with a perk to speed up the rate of increase.

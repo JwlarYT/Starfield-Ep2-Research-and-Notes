@@ -27,7 +27,7 @@ It’s that combination of exploration and serendipity that makes BGS games so b
 
 In Starfield, that journey has been impaired.
 
-[Dungeons](Points%20of%20Interest.md) get diluted across a sprawling void of procedurally generated planets. [Side Quests](Side%20quests.md)? Rarely does a distressed outpost within the Star System radio in a distress call if we're lucky, but in my experience, it happened only 4 times, and one of those was a scripted moment in the Main Quest.
+[Dungeons](Points%20of%20Interest.md) get diluted across a sprawling void of procedurally generated planets. [Side Quests](Side%20Quests.md)? Rarely does a distressed outpost within the Star System radio in a distress call if we're lucky, but in my experience, it happened only 4 times, and one of those was a scripted moment in the Main Quest.
 
 As for the [atmosphere](Immersion.md)? Unless you find staring at a static skybox with a PNG of a planet riveting, the sheer wonder of [• Exploring](•%20Exploring.md) space sadly falls flat unless you enjoy the same five or so short transition cutscenes.
 

@@ -1,4 +1,4 @@
-##### [Starfield: Location Insights (Developer Commentary) - New Atlantis](https://www.youtube.com/watch?v=KoZAAebhnxs)
+##### [Starfield: Location Insights (Developer Commentary) - New Atlantis](Developer%20Commentary)%20-%20New%20Atlantis)
 27 Aug 2021, Bethesda Softworks
 
 Emil Pagliarulo:
@@ -61,6 +61,6 @@ Maybe it’s underground rivers, but they usually have signs of their existence 
 
 Where does the water at the bottom of the damn go too? Within a few weeks of use, the reservoir at the top will have run dry, and the runoff at the bottom will have overflowed and escaped. Perhaps it’s a self-sustaining loop, where water is piped from the bottom to the top, but where are these pipes? 
 
-They COULD be these obscure ones in [The Well](the%20Well.md), but we never see where they go on the surface. It’s hit and miss. [AnyAustin](Gargarin.md) has an excellent video detailing how well developed the pipelines are in Gagarin, but then you go to the capital of that exact Star System, and it has a magical, endless power source. 
+They COULD be these obscure ones in [The Well](The%20Well.md), but we never see where they go on the surface. It’s hit and miss. [AnyAustin](Gargarin.md) has an excellent video detailing how well developed the pipelines are in Gagarin, but then you go to the capital of that exact Star System, and it has a magical, endless power source. 
 
 The Transit system also must either have an inter-rail elevator system or go up in a large spiral. Seeing as Sarah mentioned how they feel ill on the train, I have to lean on the latter. This isn’t impossible, and I guess a necessity if the [United Colonies](United%20Colonies.md) deemed it a requirement for such a transport system to exist for a town of a few thousand citizens that stretches barely a mile square. I suppose, as always, we must take the settlement sizes in modern BGS with a grain of salt.

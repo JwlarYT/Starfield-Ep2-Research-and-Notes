@@ -28,7 +28,7 @@ Done well, it would have enhanced the game, but as it stands, it detracts from t
 Doing NG+ for the first time, and I take Sarah to the [Starborn](Starborn.md) ship for the first time, and she says, “This ship is starting to feel like home”. No! It was an immersion-breaking moment.
 Even just bringing her to the ship, and she has no question about who you are or what this future/alien-tech that ship is. If you ever accidentally reveal the ship to any of them, it will immediately expose you.
 
-You show up in a suit and ship beyond known [technology](starborn.md). You drop hints at knowing stuff beyond their knowledge, and everyone is just like huh, that's a weird thing to say anyway... I was looking forward to having to talk my way out of awkward situations when they realised I'm not a typical miner.
+You show up in a suit and ship beyond known [technology](Starborn.md). You drop hints at knowing stuff beyond their knowledge, and everyone is just like huh, that's a weird thing to say anyway... I was looking forward to having to talk my way out of awkward situations when they realised I'm not a typical miner.
 	You can achieve this with the 'skip main quest' option, but it's one or the other. No middle ground. At least they were wise to hide what must've been the craziest expo-dump of all time in a fade to black. Forces us to head-canon the back-and-forth discussion and disbelief that must've occurred.
 
 NG+ speech options are limited, and I feel rushed on the skipped MQ option. Probably intentional to let those players who want to speedrun Temples and Universes get to it. Choosing speedrunners over writing is an odd choice. Need to check out the ‘re-do MQ’ option on the next go around.
@@ -36,7 +36,7 @@ NG+ speech options are limited, and I feel rushed on the skipped MQ option. Prob
 Emil pussyfooted his [Unity](Unity.md) ending. 
 They needed more to push the player into going through it, to make staying back a real conundrum. Maybe make the Universe 1 powers more pathetic, like Fus when you first get it in Skyrim, with the possibility of upgrading them to become stupidly powerful, be the real attraction. This is kind of how it is done, but the elemental powers you get are still strong enough for the player to be content with them.
 
-Despite this, the power trip is excellent. This is the best zero-to-hero growth I’ve felt in a Bethesda since Morrowind. A combination of non-level-scaled enemies and fun abilities, especially combining phased time with gravity waves to plough through even the most challenging bosses. You do feel like you’ve become [The Hunter](the%20Hunter.md) from that initial escape mission, just decimating everything without even trying.
+Despite this, the power trip is excellent. This is the best zero-to-hero growth I’ve felt in a Bethesda since Morrowind. A combination of non-level-scaled enemies and fun abilities, especially combining phased time with gravity waves to plough through even the most challenging bosses. You do feel like you’ve become [The Hunter](The%20Hunter.md) from that initial escape mission, just decimating everything without even trying.
 
 Lol, future tech [Starborn](Starborn.md) ships are worth a hair more than the base Frontier. As if people like Walter wouldn't be clamouring hand over fist to get their hands on this and reverse engineer it.
 
@@ -44,7 +44,7 @@ The [Starborn](Starborn.md) ship is mighty with the help of its stunlock missile
 
 Barrett and Lin on Argos do not react to the player’s [Starborn](Starborn.md) nature or the new ship at ALL. 
 You can’t even use a [Starborn](Starborn.md) option on them - they just assume we have finished the intro mission as usual. This is the very first planet we see after the [Unity](Unity.md) and they failed to account for players ignoring the Mission Log directing us to the Lodge? NG+ wasn’t entirely planned for.
-	^Especially egregious when there is a master lock opposite the mine lift from the beginning of the game. Players could, of course, come back here in the original universe, but with how it requires the maximum level of [Lockpicking](lockpicking.md), it feels more likely that players would only come here for the loot in NG+. Also, the loot is, as usual, randomised and tied to the level of the star system, so it’s crap and not worth the time getting anyway.
+	^Especially egregious when there is a master lock opposite the mine lift from the beginning of the game. Players could, of course, come back here in the original universe, but with how it requires the maximum level of [Lockpicking](Lockpicking.md), it feels more likely that players would only come here for the loot in NG+. Also, the loot is, as usual, randomised and tied to the level of the star system, so it’s crap and not worth the time getting anyway.
 
 The [Unity](Unity.md) NG+ can’t decide whether it’s a big-brain way to replay the game by being a built-in mechanic, or just your standard NG+ where the player isn’t expected to [role-play](Role-Playing.md) a multiverse jumping super being… BUT we ARE doing that. That’s how Starfield’s NG+ works, and yet unless we choose to skip the entire main quest, we can’t truly experience that. [Poor Planning](Poor%20Planning.md)!
 
@@ -56,7 +56,7 @@ It really does seriously boggle my mind that Bethesda didn't capitalize on the N
 https://www.ign.com/wikis/starfield/New_Game+_Main_Mission_Differences
 All dialogue options, and Foretold middle quest to skip to end
 
-It would take a lot of work, more time than they had probably, but I wish the NG+ [Dialogue](dialogue.md) options, rather than being a skip mechanic, created new branching storylines. Like you’re aware the pirates will come back to Vectera so there’s a NG+ dialogue option to ambush them with the miners, actually save them, which creates a new storyline. They did it with saving your companion in NG+, I’d love it if they had done that more.
+It would take a lot of work, more time than they had probably, but I wish the NG+ [Dialogue](Dialogue.md) options, rather than being a skip mechanic, created new branching storylines. Like you’re aware the pirates will come back to Vectera so there’s a NG+ dialogue option to ambush them with the miners, actually save them, which creates a new storyline. They did it with saving your companion in NG+, I’d love it if they had done that more.
 
 Some quest designers implemented NG+ way better than others. A small quest to find a Tea recipe for some guys at a coffee bar on Paradiso has multiple NG+ options for each time you go through, the Starborn dialogue changes until you finally remember the recipe and give it directly without needing to go talk to the lady on the roof. One of the only skip quest options I have found.
 

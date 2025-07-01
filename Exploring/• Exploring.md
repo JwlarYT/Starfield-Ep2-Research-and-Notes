@@ -17,11 +17,11 @@ I’m completely sucked into the world, and don’t care if I'm wasting an hour 
 
 Going to location a few KM away in NMS has the player taking a small flight, in Starfield it's a 5 minute jog or pulling out the 300 year old [Mars Rover](Ground%20vehicles.md) tech.
 
-Wandering a planet gets you the same frozen scientific base every time, right down to the names of people in the computers. The same scientists are apparently on multiple [Planets](planets.md), having the same exact experiences, which we then arrive to read about after they're gone/dead. It's weird, like some temporal/spatial loop is happening in the universe or something - except it's actually just lazy copy/paste work.
+Wandering a planet gets you the same frozen scientific base every time, right down to the names of people in the computers. The same scientists are apparently on multiple [Planets](Planets.md), having the same exact experiences, which we then arrive to read about after they're gone/dead. It's weird, like some temporal/spatial loop is happening in the universe or something - except it's actually just lazy copy/paste work.
 
 Was a problem from concept. A galaxy that has mostly been explored as a means of exploring its resources losing the cultural and historical mystery of exploring in TES and FO.
 
-I can appreciate the Daggerfall-ness of the exploration gameplay loop. This is, the more I play it, the only space sim that uses surface combat so well - it’s where it excels. So many other games beat it in [space](Space%20Gameplay.md) exploration and the space sim-[Role-Playing](role-playing.md), but none of those can bring with them good dungeon crawling. That’s Starfield’s USP.
+I can appreciate the Daggerfall-ness of the exploration gameplay loop. This is, the more I play it, the only space sim that uses surface combat so well - it’s where it excels. So many other games beat it in [space](Space%20Gameplay.md) exploration and the space sim-[Role-Playing](Role-Playing.md), but none of those can bring with them good dungeon crawling. That’s Starfield’s USP.
 
 Players can remember which dungeons they’ve already cleared and where they sit in the world in the past game. You don’t have that with the dungeons in Starfield. You only remember the ones that imprint on you because you’ve either done them too many times or it was bad. (Cryo Lab).
 	Use the first dungeon in Morrowind as an example

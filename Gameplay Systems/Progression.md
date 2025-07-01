@@ -18,8 +18,8 @@ You're also forced to buy perks you may not want to open the ones you do, forcin
 Don’t hit me with the whole, “Oh, but Jwlar levelling up is easy if you deliberately go to an over-levelled planet, cheese the difficulty mechanic to spawn easy to kill monsters, and then farm like that!” or why don’t we just exploit the [Outpost System](Outpost%20Management.md) to achieve the same result. If a game prompts you to consider level exploits to access content more quickly, that is a problem with the game, not the player. 
 
 [Spending our first 12 levels on these skills](Surveying.md) is entirely inorganic, as we’re frankly better off investing in other skills that benefit the more common parts of minute-to-minute gameplay, such as the ground and space combat skills.
-+ Perhaps it’s indicative of my gamified mind, but any attempt to [role-play](Gameplay%20Systems/Role-Playing.md) as a peaceful character here was mitigated by how easy it was to grind out my stealth and ballistics skill. 
-+ There were (literal) hundreds of Brontosaurus looking [Fauna](Planets.md) that were easy to kill. I caused a population damaging genocide against these creatures, slaughtering herds of them at a time while the the rain made it easy for me to acquire the [Stealth](stealth.md) kills I needed for the [Stealth perk](Progression.md) to level up.
++ Perhaps it’s indicative of my gamified mind, but any attempt to [role-play](Role-Playing.md) as a peaceful character here was mitigated by how easy it was to grind out my stealth and ballistics skill. 
++ There were (literal) hundreds of Brontosaurus looking [Fauna](Planets.md) that were easy to kill. I caused a population damaging genocide against these creatures, slaughtering herds of them at a time while the the rain made it easy for me to acquire the [Stealth](Stealth.md) kills I needed for the [Stealth perk](Progression.md) to level up.
 + I started by being peaceful and only wanting to scan them, but when I noticed that they are very defensive and will attack if you’re too close, I decided that it was time to create a new endangered species.
 
 #### Skill Challenges

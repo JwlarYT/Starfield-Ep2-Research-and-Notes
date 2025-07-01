@@ -4,7 +4,7 @@ We must face off against a [Terromorph](Terromorph.md). An alien species seeming
 
 The (implied) daughter  of this executed leader helps us to kill the [Terromorph](Terromorph.md) using the defence system of the base on Tei Ceti II that we were sent to help.
 
-The alien was bigged up to be a major danger, but I barely saw it before the defense system killed it for me. Perhaps players were expected to try and fight the creature themselves instead of doing the optional objective of starting up all the turrets. While lacking in dialogue, gameplay [Role-Playing](Gameplay%20Systems/Role-Playing.md) options such as this still exist in Starfield, often tied to the ability to control nearby turrets and robots, like in Fallout 3 and 4.
+The alien was bigged up to be a major danger, but I barely saw it before the defense system killed it for me. Perhaps players were expected to try and fight the creature themselves instead of doing the optional objective of starting up all the turrets. While lacking in dialogue, gameplay [Role-Playing](Role-Playing.md) options such as this still exist in Starfield, often tied to the ability to control nearby turrets and robots, like in Fallout 3 and 4.
 
 I agree with reviews that the faction quests are better than the main story. This is already more exciting.
 

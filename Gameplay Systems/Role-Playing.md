@@ -1,7 +1,7 @@
 You are forced to play a [Constellation](Constellation.md) Member AND
 	You cannot not be apart of Constellation... without [Reliance on Mods](Reliance%20on%20Mods.md). And BGS surely now that some of the most pipular mods are the start anywhere ones, so why bother inplement that into your Role Playing game, when you know your audience will sort it out in a few weeks.
 
-The one game where it makes the most lore sense to become a murder hobo and you can’t. Many players including myself seem themselves becoming [The Hunter](the%20hunter.md) as they lose connection with the universe and don’t care for its inhabitants, and yet we cannot fully embody the phycopathy of [The Hunter](The%20Hunter.md) because of BGS’ love for un-killable NPCs
+The one game where it makes the most lore sense to become a murder hobo and you can’t. Many players including myself seem themselves becoming [The Hunter](The%20Hunter.md) as they lose connection with the universe and don’t care for its inhabitants, and yet we cannot fully embody the phycopathy of [The Hunter](The%20Hunter.md) because of BGS’ love for un-killable NPCs
 
 What makes you want to kill them? And that answer usually is because they are cardboard, one dimensional and generally unlikeable waste of space. That's why this game need the 'unkillable npc' flag.
 

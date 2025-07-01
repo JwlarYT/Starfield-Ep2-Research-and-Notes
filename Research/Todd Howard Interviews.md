@@ -88,7 +88,7 @@ How internal research works
 ##### [Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield | Lex Fridman Podcast #342](https://www.youtube.com/watch?v=H9AAnV59ddE)
 Lex Fridman, 29 Nov 2022
 
-29:00 Need for [Outsourcing](outsourcing.md)
+29:00 Need for [Outsourcing](Outsourcing.md)
 "There's a ton of work that goes into it now. Just rendering this cup to the perfect shine, material and roughness, and how the Global illumination reacts to it, it's a ton of work."
 30:45 "The amount of art time that it takes to create a cup compared to what it used to has increased. So we do use Art outsourcing."
 
@@ -297,7 +297,7 @@ Todd's probably talking about the SSNN kiosk broadcasts, a bit disingenuous to c
 
 31:35 [Piracy](Piracy.md)
 "We make you register it. You have to spend credits to go register it, and that's for us to keep it from the economy, kinda spiralling in those ways."
-32:00 [Ship Building](Ship%20building.md) is for the late game; it costs a lot of credits and is deliberately a complicated system. You can easily upgrade the ship, but the choice to alter the ship more deeply was designed as a long-term endgame goal. (Which is how the fans interact with it as well.)
+32:00 [Ship Building](Ship%20Building.md) is for the late game; it costs a lot of credits and is deliberately a complicated system. You can easily upgrade the ship, but the choice to alter the ship more deeply was designed as a long-term endgame goal. (Which is how the fans interact with it as well.)
 
 34:40 #GravDrives
 "Graviton loop field array. The way the different bands bend space in front of you. You're actually taking space and folding and bringing it towards you."

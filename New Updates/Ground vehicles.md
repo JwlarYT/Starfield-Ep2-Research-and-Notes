@@ -3,7 +3,7 @@
 On low-gravity planets, I've used the vehicle's boosts to fly for nearly 4 minutes, and it works without a hitch except for rocks popping in all over.
 	Bring back levitation, Bethesda!
 
-Makes [Travelling](travelling.md) a KM+ to the next POI go from a 5-minute slog of nothing into a 30-second bit of fun.
+Makes [Travelling](Travelling.md) a KM+ to the next POI go from a 5-minute slog of nothing into a 30-second bit of fun.
 
 Snow physics with the car is cool too.
 
@@ -16,10 +16,10 @@ The [city](Neon%20City.md) that lives as a fish harvesting oil rig on a planet f
 No Man's Sky also has ground vehicles, and they let ya make the planet a racetrack.
 	Cannot do this in Starfield due to rock collisions, but boosts help a little, momentum is iffy though
 
-**Cars fix [Surveying](surveying.md).**
+**Cars fix [Surveying](Surveying.md).**
 The speed and fun of controlling and combat in the car alleviate many of my gripes with the surveying. As mentioned, I appreciate the relaxing nature of surveying on foot, the serenity it brings, and how the atmosphere, combined with the sound effects and ambient soundtrack, enhances that experience. 
 But other times, when I’m not in the mood for that, but still want to explore, ripping and tearing with a rocket launcher mounted Borderlands-esque vehicle is a much-needed addition of adrenal chaos. 
-Even the bloated [survey mechanic](surveying.md) and its default of 10 scans is no longer as much of an issue when you can [explore](•%20Exploring.md) multiple square meters in the fraction of the time, while engaging with the speed boost, jump and general joy that ragging around this slightly advanced dune buggy brings. 
+Even the bloated [survey mechanic](Surveying.md) and its default of 10 scans is no longer as much of an issue when you can [explore](•%20Exploring.md) multiple square meters in the fraction of the time, while engaging with the speed boost, jump and general joy that ragging around this slightly advanced dune buggy brings. 
 	It does struggle with navigating forest areas, but the same could be said of navigating such densely packed locations in real life.
 
 The car must be cut content; it works too well to be a rushed update. 

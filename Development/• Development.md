@@ -12,7 +12,7 @@ Don't make an endless game. Make a good game that people want to play endlessly
 
 #### [Quality Assurance](Quality%20Assurance.md)
 
-#### [Reliance on Mods](Reliance%20on%20mods.md)
+#### [Reliance on Mods](Reliance%20on%20Mods.md)
 
 --- 
 https://www.youtube.com/watch?v=4t3vJ9B63fc

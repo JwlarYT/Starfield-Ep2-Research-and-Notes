@@ -19,7 +19,7 @@ Story is designed around the player getting bored and going off to do something 
 	Was the [colony war](History.md) part of the faction questlines at an early point perhaps
 
 ---
-###### [#181 - Will Shen Interview (Designer On Skyrim, Fallout 4, 76 & Starfield)](https://www.youtube.com/watch?v=PCYpt9Zg7cM&list=PLM_F6ru-Us2x81nVrr7NIWlvvpf5X4KwJ&index=65)
+###### [](Designer%20On%20Skyrim,%20Fallout%204,%2076%20&%20Starfield)](https://www.youtube.com/watch?v=PCYpt9Zg7cM&list=PLM_F6ru-Us2x81nVrr7NIWlvvpf5X4KwJ&index=65|#181 -%20Will%20Shen%20Interview%20(Designer%20On%20Skyrim,%20Fallout%204,%2076%20&%20Starfield))
 3 Jan 2025, KIWI TALKZ
 
 5:00 Will was in weekly meetings with Todd as one of the top brass, but never got close to him personally. He laments that he feels he missed out on the close bonds that happened across Daggerfall, Morrowind and Oblivion. (When Emil and Todd became close friends).
@@ -245,7 +245,7 @@ Purkeypile thinks "you would basically get in trouble for doing that," in modern
 23 Oct 2023. MinnMax
 
 ---
-[171 - Bruce Nesmith Interview (Designer On Skyrim, Fallout 3, Fallout 4 & Starfield)](https://www.youtube.com/watch?v=IA5HhtGdZMo)Kiwi Talks, 18 Aug 2024
+[171 - Bruce Nesmith Interview (Designer On Skyrim, Fallout 3, Fallout 4 & Starfield)](Designer%20On%20Skyrim,%20Fallout%203,%20Fallout%204%20&%20Starfield))Kiwi Talks, 18 Aug 2024
 
 
 
@@ -272,5 +272,5 @@ GamesRadar, Andrew Brown, October 2024
 ---
 #### Dennis Mejillones, Character Artist (Skyrim, Fallout 4, 76 & Starfield)
 
-[#182 - Dennis Mejillones Interview (Character Artist On Skyrim, Fallout 4, 76 & Starfield)](https://www.youtube.com/watch?v=ebSmOGZnmeM)
+[](Character%20Artist%20On%20Skyrim,%20Fallout%204,%2076%20&%20Starfield)](https://www.youtube.com/watch?v=ebSmOGZnmeM|#182%20-%20Dennis%20Mejillones%20Interview%20(Character%20Artist%20On%20Skyrim,%20Fallout%204,%2076%20&%20Starfield))
 KIWI TALKZ, 12 Jan 2025

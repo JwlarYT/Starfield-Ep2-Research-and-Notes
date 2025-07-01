@@ -9,7 +9,7 @@ The peaceful solution has an on rails stealth mission following instructions - i
 Talking down the CEO was easy enough, perhaps too easy. It’s hard to see the appeal of the speech perks - barely ever does failing a persuasion check really make the game any harder. 
 
 Speech options aren’t always obvious. I asked the CEO whether he wanted to kill the thief as I was interested in his point of view - I did not read this as a choice that I was willing to do to the killing myself. Regardless, Sarah saw it as that and scolded me. I chose to send the thief to jail, where Sarah then said he should be left on an Asteroid to rot - essentially saying he should die. Just this time she gets to wash her hands of the blood…
-	^ [Morals](morals.md)
+	^ [Morals](Morals.md)
 
 Final twist comes as we enter orbit with a Starborn intercepting us and asking to hand over the artifact. I chose to escape using my grav drive. 
 	Need to check what handing over artifact does.
@@ -24,6 +24,6 @@ He was poor and unemployed so I let him go, the choices were freedom, prison or 
 
 [Bugs](Bugs.md): The receptionist still acted like she should have at the start of the infiltration, even after I had already talked to and negotiated with her boss.
 
-Meeting the ['Helix’](The%20Pilgrim.md) after the Neon segment, our first official encounter with a [Starborn](Starborn.md). They are written to seem like an alien race, but the lines make no sense with the knowledge that these are just humans who made it to the [Unity](Unity.md). This one acts as if he is not human himself, delusional? Or just shoddy [Writing](writing.md) to force the twist…
+Meeting the ['Helix’](The%20Pilgrim.md) after the Neon segment, our first official encounter with a [Starborn](Starborn.md). They are written to seem like an alien race, but the lines make no sense with the knowledge that these are just humans who made it to the [Unity](Unity.md). This one acts as if he is not human himself, delusional? Or just shoddy [Writing](Writing.md) to force the twist…
 	As level scaling isn’t a thing, I was able to overpower the Helix with a superior [ship](Space%20Gameplay.md), something even the journal entry wasn’t ready for. This is good imo, rewarding players for playing the game. Need to see what happens if we give him the artifact instead.
 

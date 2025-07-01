@@ -7,7 +7,7 @@ Control glitch - you cannot loot spaceship debris if you use F as your “use”
 
 Spaceship systems are as expected from a light “space sim”. Concession to controllers means you cannot individually hotkey each system, as in other games, i.e., where you can independently increase and decrease power to the shields and lasers. In Starfield, you must switch between each system one at a time to change the allocation of power.
 
-Space [Stealth](stealth.md) is achieved by deactivating all primary systems, such as shields and weapons, making this a precarious manoeuvre. This will be handy when facing enemy spacecraft that vastly outlevel the player, or are in such large numbers that a dogfight would be too dangerous.
+Space [Stealth](Stealth.md) is achieved by deactivating all primary systems, such as shields and weapons, making this a precarious manoeuvre. This will be handy when facing enemy spacecraft that vastly outlevel the player, or are in such large numbers that a dogfight would be too dangerous.
 	This is primarily a useless feature that is only used to quickly grav jump/fast travel away if the player finds themselves faced with odds against their favour. It is never used to bypass ships as used in the Venus tutorial.
 
 Space ‘[• Exploring](•%20Exploring.md)’ is clunky and a menu-based facsimile of other space games that do it better. Still, though, I found myself more drawn to this flawed system more than general questing. 
