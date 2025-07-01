@@ -1,9 +1,9 @@
-Parts of Starfield do not exist without you. What I mean by that is that if you’re too early for certain [Side_Quests](Side%20Quests/Side_Quests.md), the NPCs involved are simply not alive. 
+Parts of Starfield do not exist without you. What I mean by that is that if you’re too early for certain [Side_Quests](../Side_Quests/Side_Quests.md), the NPCs involved are simply not alive. 
 In New Vegas, while the NPCs are incredibly static, they have lives before the player is tasked with interacting with them in some quests. 
 	You can talk to them before they are ‘needed’ by a writer. 
 This isn’t the case in Starfield. A smuggler used by Yannick (Neshar’s employer) is hiding out in Warehouse 1 in [Ebbside](Cities/Ebbside.md), accosted by the Syndicate gang. This smuggler can never be found before he is used. Warehouse 1 is completely empty if you come too early. 
 	Why can't we meet him before Yannick is trying to get rid of him? Interact with him somehow, even if it is just to have him tell us to ‘F off’. At least prove that he’s a living person in your world and not a plot device. 
-Again, this is a game built around [NG+](Gameplay%20Systems/NG+.md), so much more could be done here. A [Starborn](Main%20Quest/Starborn.md) player could visit the smuggler before Yannick wants to disappear him, maybe appeal to him, try and get him to change his ways - anything to recognise that we have come from another universe…
+Again, this is a game built around [NG+](../Gameplay_Systems/NG+.md), so much more could be done here. A [Starborn](../Main_Quest/Starborn.md) player could visit the smuggler before Yannick wants to disappear him, maybe appeal to him, try and get him to change his ways - anything to recognise that we have come from another universe…
 
 Evan was right, missed opportunities describes Starfield to the T.
 

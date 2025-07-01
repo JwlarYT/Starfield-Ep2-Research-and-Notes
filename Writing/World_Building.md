@@ -38,7 +38,7 @@ Sunset Sasparilla in NV, Nuka Cola in 3, even the Tomacco in 4, Wine in Oblivion
 
 [Culture](Writing/Culture.md)
 
-[Terromorph](Faction%20Quests/UC%20Vanguard/Terromorph.md) Foreshadowing
+[Terromorph](../Faction_Quests/UC_Vanguard/Terromorph.md) Foreshadowing
 https://www.reddit.com/r/NoSodiumStarfield/comments/1l52kqf/spoiler_environmental_foreshadowing/
 According to lore we ate the Aceles almost to extinction. 
 	Not almost; they had to use a genetic engineering program to bring them back to life.

@@ -35,7 +35,7 @@ It's Bethesda's trademark attention to detail with creating exciting 'lived-in' 
 
 Casual players are apparently willing to overlook lacking quests, rpg systems, or even combat in Skyrim's case, if it means they get to inhabit a foreign and exciting digital world that they can get lost in.
 
-This is what is hurting Starfield for me. The world has too many cracks. Too many instances where it doesn't feel real - where the illusion is broken - and I'm left staring at an amalgamation of OK game systems awkwardly mashed together ([Galls_Law](Gameplay%20Systems/Galls_Law.md)). 
+This is what is hurting Starfield for me. The world has too many cracks. Too many instances where it doesn't feel real - where the illusion is broken - and I'm left staring at an amalgamation of OK game systems awkwardly mashed together ([Galls_Law](../Gameplay_Systems/Galls_Law.md)). 
 
 You used to be able to ride the train??
 https://www.gamespot.com/articles/former-starfield-dev-surprised-by-the-number-of-loading-screens-it-could-have-existed-without-those/1100-6528530/
@@ -49,7 +49,7 @@ I decided to work through some of my activities for New Atlantis. While some wer
 
 They can be boring, especially when they’re ran back to back like this, but that isn’t their purpose. They’re more of a way to integrate yourself into the community and ingratiate yourself with the people. Which makes me wish that this had a reputation mechanic tied to it. 
 	It would feel just that little bit sweeter to have a meta-game reward for completing these goals. New Vegas also had similarly basic back and forth style tasks at times (like helping the Garret twins in Freeside, or any of the Freeside quests for that matter), and I found the little “Reputation increased” pop up to greatly improve the sense of accomplishment.
-		Better still if there was some acknowledgment in the ending [Unity](Main%20Quest/Unity.md) slideshow
+		Better still if there was some acknowledgment in the ending [Unity](../Main_Quest/Unity.md) slideshow
 
 ---
 

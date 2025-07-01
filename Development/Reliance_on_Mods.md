@@ -6,7 +6,7 @@ Modding is dying on the nexus, partly due to paid mods on the Creation Club
 2. It's been patched and improved dramatically. 
 3. Community mods and support take it to the next level.
 
-The [Creation_Club_integration](New%20Updates/Creation_Club_integration.md) and Mods fix many of the game’s shortcomings for Bethesda. They rely on modders to improve their game.
+The [Creation_Club_integration](../New_Updates/Creation_Club_integration.md) and Mods fix many of the game’s shortcomings for Bethesda. They rely on modders to improve their game.
 Yes it’s great that they provide some of the best modding support in the industry (although it has been getting worse since Skyrim with poor documentation for modders on how to use the new tools), but that doesn’t mean we should accept a mediocre full price title just because the mods will be great. 
 
 Modders are bailing on Starfield in large part due to BGS breaking the engine to make some of the new mechanics work. ElminsterAU, the original developer of xEdit, THE go-to conflict detector and editor for Bethesda game mods, points to specific coding errors and incompatibilities within Creation Engine 2.

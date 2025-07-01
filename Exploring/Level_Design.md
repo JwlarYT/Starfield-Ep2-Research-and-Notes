@@ -1,6 +1,6 @@
 The level designers have outdone themselves with the level of clutter. These locations truly feel lived in, and those like myself who enjoy ransacking every room for loot will be in heaven. 
 
-The [scanner](Gameplay%20Systems/Surveying.md) is another god-send here. It highlights lootable objects in blue, reminiscent of Outer Worlds, but unlike that game, this is an optional feature hidden behind the scanner. 
+The [scanner](../Gameplay_Systems/Surveying.md) is another god-send here. It highlights lootable objects in blue, reminiscent of Outer Worlds, but unlike that game, this is an optional feature hidden behind the scanner. 
 
 If you want to peruse every locker and book case the old school way as in FO and TES, you can do so. But if you want to streamline the experience, the scanner is highly appreciated.
 

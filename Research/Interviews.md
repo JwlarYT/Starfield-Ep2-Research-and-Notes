@@ -4,12 +4,12 @@
 
 0:40 "I am the Lead Quest Designer on Starfield, and also responsible for the main quest."
 
-[Radiant_Quests](Gameplay%20Systems/Radiant_Quests.md)
+[Radiant_Quests](../Gameplay_Systems/Radiant_Quests.md)
 1:00 How has the random encounter system been improved upon?
 Will considers the POI Outposts to be Starfield's equivalent to random encounters, with radiant quests replacing the encounters from previous games that often lead to larger quest lines.
 Memorable moments like meeting the Daedric Dog in Skyrim replaced with someone asking you to kill a pirate that spat in their cereal.
 
-[Story](Main%20Quest/Story.md)
+[Story](../Main_Quest/Story.md)
 2:40 "One of the early things we decided on was making sure that the main quest gives you tour of the settled systems and all of the major players there. So that we could give you a taste of what you're going to be up to."
 The modern equivalent of Caius telling the player to go join a faction to get some money, without the natural narrative breakpoint to do so.
 Story is designed around the player getting bored and going off to do something else, BGS have given up with urgency. For good reason.
@@ -86,7 +86,7 @@ SHEN: "Yeah, we were in a design meeting and he said that in front of the entire
 
 57:10 Bethesda do have internal wikis to refer to for lore. Will helped make one for The Elder Scrolls during Skyrim's development. It's entirely possible that one existed for Starfield as well, however, how often it was updated, or how detailed it was, dictated how useful it was. (And if the problems aren't just down to choice of tone/theme.)
 
-[Story](Main%20Quest/Story.md)
+[Story](../Main_Quest/Story.md)
 58:59 How do you balance the main quest and side quests?
 "Depends on how much scrutiny you're under. When you're doing the main quest, everyone's got an opinion on it because it's the story that is going to be judged alongside the rest of the game. It's effectively a feature at that point. So everyone from all the way up to all the way down the organisation has some opinion, so you're serving a lot of masters there."
 
@@ -97,10 +97,10 @@ Lead of Quest Design admits that some quests were not tested!
 59:55 But also admits that this offers more creative autonomy because they have better control and ownership over the quest, leading to the common belief that the side quests are the best content because it's allowed to be different.
 Like the Alien inspired spaceship.
 
-Why [Story](Main%20Quest/Story.md) may be bad.
+Why [Story](../Main_Quest/Story.md) may be bad.
 1:00:00 Will wasn't given creative ownership because everyone weighed in due to it being the thing that the entire game is judged on. It had to represent the game's tone and themes, and if you don't like or care about those, you aren't going to like the main quest. But engaging side quests that buck all of that can lead to more surprising content.
 
-1:00:40 [Side_Quests](Side%20Quests/Side_Quests.md) Goal was to make as many quests as possible, literal quantity over quality.
+1:00:40 [Side_Quests](../Side_Quests/Side_Quests.md) Goal was to make as many quests as possible, literal quantity over quality.
 "How do you decide how many side quests?"
 "As many as you can make!"
 Goes back to [Todd](Research/Todd_Howard_Interviews.md) saying how they see those posts of people playing for a bajillion hours and seeing something new. By aiming for that, they watered down the content.
@@ -133,12 +133,12 @@ Goes back to [Todd](Research/Todd_Howard_Interviews.md) saying how they see thos
 **[Level and Quest Design Collaboration from 'Skyrim' to 'Starfield'**](https://www.youtube.com/watch?v=oLjVwfUABvw)
 GDC, 19 Jul 2024
 
-[Side_Quests](Side%20Quests/Side_Quests.md)
+[Side_Quests](../Side_Quests/Side_Quests.md)
 2:35 Ouest design covers:
 [Dialogue](Writing/Dialogue.md), text, voice over, quest scripting, AI Behaviour, Systems Design
 "Quest design handles dialogue and text, what a lot of places call narrative design"
 
-3:30 Before Starfield, [•Gameplay_Systems](Gameplay%20Systems/•Gameplay_Systems.md) design was under the quest design department, and only broke off for Starfield. Specialist quest designers would handle the systems design.
+3:30 Before Starfield, [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) design was under the quest design department, and only broke off for Starfield. Specialist quest designers would handle the systems design.
 
 [Level_Design](Exploring/Level_Design.md)
 3:50 Level design covers locations, creation kit logic, AI behaviour, combat encounters, environmental storytelling, gameplay scripting.
@@ -148,7 +148,7 @@ GDC, 19 Jul 2024
 Level design deals with moment to moment AI behaviour, default behaviour and how they react to the player with no other linkage to quests. 
 Quest design is specifically how the AI works within the quests and gives quests to the player.
 
-[Side_Quests](Side%20Quests/Side_Quests.md)
+[Side_Quests](../Side_Quests/Side_Quests.md)
 5:20 Collaboration on quests.
 Level design is in charge of location, combat NPCs, and layout decisions.
 Quest design covers narrative, non-combat NPCs and story decisions.
@@ -163,20 +163,20 @@ Quest design covers narrative, non-combat NPCs and story decisions.
 	Similar to designers learning basic web dev tools to help the collaboration there.
 21:00 Learning a shared language helps to improve the efficiency in which the two collaborators can develop their content.
 
-16:28 Text box pop ups like in [Short_Sighted](Main%20Quest/Short_Sighted.md) used for USS Constitution in Fallout 4. I wonder if they were the level designer's idea in Starfield. Added more RP options in that FO4 quest though with perks, as recommended by the Quest Designer working on it.
+16:28 Text box pop ups like in [Short_Sighted](../Main_Quest/Short_Sighted.md) used for USS Constitution in Fallout 4. I wonder if they were the level designer's idea in Starfield. Added more RP options in that FO4 quest though with perks, as recommended by the Quest Designer working on it.
 
-[Consequences](Writing/Consequences.md) / [Role-Playing](Gameplay%20Systems/Role-Playing.md)
+[Consequences](Writing/Consequences.md) / [Role-Playing](../Gameplay_Systems/Role-Playing.md)
 For Far Harbour
 21:50 "One of the major points of feedback we got from the press as well as our audience was that they wanted more choice and consequences. A lot of that crunchy RPG story stuff."
 Exactly, Will, so what the hell happened to that in Starfield?
 
 22:32 Shen is praised for Far Harbour, which he did project lead, but the faction writings and multiple endings ended up coming down to the three separate Quest Designers that were given a faction each. Shen envisioned 3 endings, and they increased that scope to 12-15 depending on what small variations you consider.
 
-23:16 Learnt to add in more stat challenges to reward RP and [Progression](Gameplay%20Systems/Progression.md) learnt from the USS Constitution quest.
+23:16 Learnt to add in more stat challenges to reward RP and [Progression](../Gameplay_Systems/Progression.md) learnt from the USS Constitution quest.
 
 24:15 During Far Harbour, BGS allowed level designer to explore quest design more deeply.
 
-[•Gameplay_Systems](Gameplay%20Systems/•Gameplay_Systems.md)
+[•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md)
 25:40 Kurt Kuhlman worked on a lot of the Workshop elements in Fallout 4 and helped create the tedious Far Harbour puzzles.
 	I wonder why the Outpost system was so stripped back if this was the case.
 	Possibly something to do with Shen's comment on timelines, image building a system primarily for a fuel system, and then that system is rug pulled after 70% of the development time.
@@ -208,10 +208,10 @@ These companies also did not stay on the project, some came on near the beginnin
 41:35 "So what does level design and quest design collaboration look like in this environment? Game developers hate bureaucracy, we now have a ton of bureaucracy, so can you continue to make memorable moments at this kind of scale with this kind of over head?"
 [Betteridge's_law_of_headlines](Research/Betteridge's_law_of_headlines.md)
 
-[Story](Main%20Quest/Story.md)
+[Story](../Main_Quest/Story.md)
 42:12 Will had to write and implement the main quest three times. And it was only after that third time that it was in a state where the entire quest could be playthrough and thoroughly tested.
 
-[Revelation](Main%20Quest/Revelation.md)
+[Revelation](../Main_Quest/Revelation.md)
 44:40 Will brings up a story in how the quest team were heavily overbooked (leading to the quests that feel unfinished), so they were forced to bring in level designers to help create the final dungeon and space battle. Including the dimension hopping mechanic, proposed by veteran Level Designer Steve Cornett, famed for his work on Skyrim.
 This collaboration worked like the times of old as it broke the bureaucracy through necessity and urgency. Both breaking down the development team silos that had separated the devs.
 

@@ -7,7 +7,7 @@ Yet that problem is in the choice of tone, not its execution. Maintaining that c
 
 Desaturated naturalistic look.
 
-Todd know that it's [•Gameplay_Systems](Gameplay%20Systems/•Gameplay_Systems.md) that create many of the memorable moments people love, so that's his focus. 
+Todd know that it's [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) that create many of the memorable moments people love, so that's his focus. 
 What happens when you start to remove them, when problems arise, like with Gore ([Interviews](Research/Interviews.md)). They removed them, levitations, recall etc.
 But there comes a point where the loss is too much and hurts Todd's goals of answering every question with yes. Especially when these features existed before.
 Can you dive? No

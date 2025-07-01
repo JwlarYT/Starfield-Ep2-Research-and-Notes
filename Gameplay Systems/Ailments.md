@@ -1,1 +1,0 @@
-The player can be afflicted by several [Ailments](Gameplay%20Systems/Ailments.md) that require specific medications or a doctor's visit to fix, such as hyperthermia and hypothermia, concussions, etc.

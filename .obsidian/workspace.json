@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "New_Updates/Ground_vehicles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ground_vehicles"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "New_Updates/Ground_vehicles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Ground_vehicles"
             }
           },
           {
@@ -228,6 +228,8 @@
   },
   "active": "43583f697b3b0374",
   "lastOpenFiles": [
+    "README.md",
+    "Writing/\"Write_What_You_Know\".md",
     "index.md",
     "Research/Todd_Howard_Interviews.md",
     "Developer Commentary.md",
@@ -238,13 +240,12 @@
     "Factions/•Factions.md",
     "Factions/Crimson_Fleet.md",
     "Cities/•Cities.md",
-    "Gameplay Systems/Ailments.md",
-    "New Updates/Difficulty_options.md",
+    "Gameplay_Systems/Ailments.md",
+    "New_Updates/Difficulty_options.md",
     "Together in electric dreams.md",
     "Creation.md",
-    "README.md",
-    "Side Quests/Side_Quests.md",
-    "Side Quests/Out_on_a_Limb.md",
+    "Side_Quests/Side_Quests.md",
+    "Side_Quests/Out_on_a_Limb.md",
     "Research/Traveller_TTRPG.md",
     "Research/Starship_troopers.md",
     "Research/Starfield_Direct.md",
@@ -253,7 +254,6 @@
     "Research/Pareto_Principle.md",
     "Research/Marketing.md",
     "Research/Ludonarrative_dissonance.md",
-    "Research/Interviews.md",
     "Images/Screenshot-2025-06-19-at-12.10.15.png",
     "Images/Screenshot-2025-06-16-at-12.15.17.png",
     "Images/Screenshot-2025-06-19-at-12.04.18.png",
@@ -265,15 +265,15 @@
     "Images/CCD2A22C-07F2-42BF-B683-63C42273DF63_1_201_a.jpeg",
     "Images/286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a.jpeg",
     "Images",
-    "Faction Quests",
-    "Faction Quests/Crimson Fleet - UC Sys Def",
+    "Faction_Quests",
+    "Faction_Quests/Crimson_Fleet-UC_SysDef",
     "Development",
     "Untitled.canvas",
     "Locations",
     "Writing",
     "Factions",
-    "Faction Quests/UC Vanguard",
-    "Side Quests",
+    "Faction_Quests/UC_Vanguard",
+    "Side_Quests",
     "Exploring",
     "Untitled 1.canvas"
   ]
