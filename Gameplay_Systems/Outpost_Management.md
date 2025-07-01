@@ -1,6 +1,6 @@
-After reaching [Constellation](../Main_Quest/Constellation.md), Vasco will introduce the player to Outpost Building with a general overview, focusing on the Scan Booster which will help the player find [POIs](../Exploring/Points_of_Interest.md) at a wider distance.
+After reaching [Constellation](../Main_Quest/Constellation.md), Vasco will introduce the player to Outpost Building with a general overview, focusing on the Scan Booster which will help the player find [POIs](..Exploring/Points_of_Interest.md) at a wider distance.
 
-Cargo links have been broken since launch and are still broken. Mine hasn’t worked since it sent 260 to [New_Atlantis](../Cities/New_Atlantis.md). I went to check it out and cargo container is filled to the brim with Argon, but the Cargo ship never comes. Tried resetting the cargo link to no avail. I had to grab the argon myself, destroy the entire cargo link platform, and then rebuild it for it to restart. Two years of bug fixing were well spent.
+Cargo links have been broken since launch and are still broken. Mine hasn’t worked since it sent 260 to [New_Atlantis](Cities/New_Atlantis.md). I went to check it out and cargo container is filled to the brim with Argon, but the Cargo ship never comes. Tried resetting the cargo link to no avail. I had to grab the argon myself, destroy the entire cargo link platform, and then rebuild it for it to restart. Two years of bug fixing were well spent.
 
 Outposts are mostly tied to [role-play](Role-Playing.md) space trucker-type quests. Gather resources to supply [Radiant_Quests](Radiant_Quests.md) and Staryards.
 
