@@ -1,6 +1,6 @@
 Las Vegas in premise but with a Cyberpunk Tokyo aesthetic. Ran by a crime boss. Seedy and extreme wealth. Built on a product that is illegal elsewhere (gambling irl / Aurora in Neon), based in the 'American West' (Freestar). But Freestar have little presence, and the local police force is in the pocket of the main corporate/criminal overlord. Oligarchs run the city.
 
-Looked way better in concept art: ![Screenshot 2025-06-19 at 12.04.18](Images/Screenshot-2025-06-19-at-12.04.18.png)
+Looked way better in concept art: [Screenshot 2025-06-19 at 12.04.18](Images/Screenshot-2025-06-19-at-12.04.18.png)
 
 ---
 ##### Starfield: Location Insights (Developer Commentary) - Neon
