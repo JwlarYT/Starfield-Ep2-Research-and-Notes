@@ -7,7 +7,7 @@
 - [[Local Maps]]
 - [[Tracker's Alliance]]
 - [[Creation Club integration]]
-- [[Bug Fixes & Other Changes]]
+- [[Bug Fixes & Other Changes]] 
 ###### 2. Main Quest
 - Characters
 - Motivations
