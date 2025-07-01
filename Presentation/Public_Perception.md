@@ -7,11 +7,11 @@ The game is greatly inconsistent which is probably a direct result of the "too m
 
 Sometimes, the game looks genuinely stunning. Other times, it can look pretty bad. Sometimes, the character models look great as well, other times you got the crowd citizens which looks less than stellar. Sometimes, [•Exploring](•Exploring.md) just works and it clicks because maybe you've been doing just little enough of it that you've only ever discovered unique locations and cool [Random_Encounters](Random_Encounters.md). Other times, you keep finding the same copy-pasted [Points_of_Interest](Points_of_Interest.md) right off the bat.
 
-The persuasion mini-game is sometimes genuinely great when you get the ones with unique dialog options. Other times, you encounter the instances which all use the exact same generic lines like "I know you would help me if you could". Sometimes, there are some really cool [Consequences](Consequences.md) and follow ups to your actions and [Side Quests](Side%20Quests.md) but sometimes there are none.
+The persuasion mini-game is sometimes genuinely great when you get the ones with unique dialog options. Other times, you encounter the instances which all use the exact same generic lines like "I know you would help me if you could". Sometimes, there are some really cool [Consequences](Consequences.md) and follow ups to your actions and [Side_Quests](Side_Quests.md) but sometimes there are none.
 
 Some of the quests and questlines are genuinely great content, some of them are scraping the bottom of the barrel. Some of the interiors are seamless, but some are locked behind loading screens.
 
-Sometimes, the game wants to show you [Hard Sci Fi](Hard%20Sci%20Fi.md) nasapunk. Other times, it wants to show you sleek fantasy sci-fi or [cyberpunk](Neon_City.md). 
+Sometimes, the game wants to show you [Hard_Sci_Fi](Hard_Sci_Fi.md) nasapunk. Other times, it wants to show you sleek fantasy sci-fi or [cyberpunk](Neon_City.md). 
 
 This is the actual reason why opinions on the game are so greatly divided. Some people are having a great time with the moments in which the game is great, while others are having a bad time with the moments in which the game is bad.
 

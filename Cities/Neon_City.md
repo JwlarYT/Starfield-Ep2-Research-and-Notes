@@ -1,9 +1,9 @@
 Las Vegas in premise but with a Cyberpunk Tokyo aesthetic. Ran by a crime boss. Seedy and extreme wealth. Built on a product that is illegal elsewhere (gambling irl / Aurora in Neon), based in the 'American West' (Freestar). But Freestar have little presence, and the local police force is in the pocket of the main corporate/criminal overlord. Oligarchs run the city.
 
-Looked way better in concept art: ![Screenshot 2025-06-19 at 12.04.18](Screenshot%202025-06-19%20at%2012.04.18.png)
+Looked way better in concept art: ![Screenshot 2025-06-19 at 12.04.18](Screenshot-2025-06-19-at-12.04.18.png)
 
 ---
-##### [Starfield: Location Insights (Developer Commentary) - Neon](Developer%20Commentary)%20-%20Neon)
+##### [Starfield: Location Insights (Developer Commentary) - Neon](https://www.youtube.com/watch?v=E2io6xFD1VY)
 27 Aug 2021, Bethesda Softworks
 
 - Nothing of note in the video other than the dialogue is as chopped up as the aurora dialogue in-game. Shouldn't throw stones in glass houses though, I do the same.
@@ -23,7 +23,7 @@ I’ll admit that I’m reading way too much into this bit, though. Other guards
 More NPC awareness in [Dialogue](Dialogue.md) would be appreciated. The receptionist at Ryujin insisted that I check out the Neuromap store, even though I was already wearing one. 
 NPCs *can* recognise this because another guard commented on me wearing it. These minor discrepancies, when isolated, are acceptable, but over time, they once again harm [Immersion](Immersion.md). KCD1 and 2 *do* have this level of dialogue variance, for example.
 
-So many [Side Quests](Side%20Quests.md) feel like minor filler, especially in Neon. Hand out these flyers, talk to this one guy to fix our disagreement. 
+So many [Side_Quests](Side_Quests.md) feel like minor filler, especially in Neon. Hand out these flyers, talk to this one guy to fix our disagreement. 
 	^ I must come back after a few in-game days to see if there has been a result of these quests. Although knowing Bethesda game design, they would’ve left the quest open, saying “come back in a few days” if that was the case. In KCD or FNV I would expect a change, so let's give them the benefit of the doubt.
 		^ I came back. There’s some flavour text thanking the player, but not much else. It’s something at least. I don’t think these minor activity quests are too bad. They exist so that the player can feel like they’re helping out the local populace - ala Fallout New Vegas et al. 
 		I just wish there was some follow-up in the Unity end sequence. FNV provides us with the rundown on what happened to the locals of each town, and Starfield badly needed that to add an extra level of care to the cities. There’s only 9 anyway, so it’s not like it would be *too* much work.
@@ -39,11 +39,11 @@ Manufacture the Mag-Tech (railgun) guns that look like a kid K’nex wet dream. 
 	Even ship ladders are able to block a projectile with thin air. 
 
 The guns are even goofier as they all fire in an array, akin to a shotgun but with a controlled spread. This limits their effectiveness to close to medium range, which has them going head-to-head with shotties from a [Advanced_Combat](Advanced_Combat.md) perspective. 
-	Personally, I never quite felt like they had the punch I was looking for, partly due to their [Sound Design](Sound%20Design.md), which is expectedly weak, but probably realistic.
+	Personally, I never quite felt like they had the punch I was looking for, partly due to their [Sound_Design](Sound_Design.md), which is expectedly weak, but probably realistic.
 
 #### Generdyne Industries 
 Created the electromagnetic Conduction Grid that powers Neon through the collection of lightning into storage cells. 
-[World Building](World%20Building.md) - Population count in Starfield is extremely low compared to Earth, and appears to be Lore implied, and not a technical reason as in previous TES games. 
+[World_Building](World_Building.md) - Population count in Starfield is extremely low compared to Earth, and appears to be Lore implied, and not a technical reason as in previous TES games. 
 Generdyne, for example, has an executive suite member manning its reception desk. 
 	Realistically, though, I’m sure the reason for this is so the player is far more likely to interact with this unique NPC than had they been hidden away in the backroom with the other generic NPC employees and executives.
 	
@@ -58,7 +58,7 @@ This one is more believable as he wants her to learn all about the business befo
 Celt Corp is apparently a ‘megacorp’, but it only has 10 visible employees in a small office, and I have never seen anything about them anywhere else in the game. I don’t even know what they do. <- They’re a loan shark!
 
 Clover/Chloe has an issue with some debt for the man who owns the Mining League (the one who asked us to hand out flyers to form a shopping union), so I assume that they either rent the location to him, or supply the resources to this store.
-	^ Did the Hard Luck [Side Quests](Side%20Quests.md)quest from this. Sadly just another run to one person, talk and then return type quest. 
+	^ Did the Hard Luck [Side_Quests](Side_Quests.md)quest from this. Sadly just another run to one person, talk and then return type quest. 
 		Multiple options in quests are cool, but less so when they are spoon-fed to the player. We can use Chloe’s diary to circumnavigate the persuasion needed on Saburo Okadigbo. For a game whose entire premise is NG+, this would have been cool to discover organically through exploration. 
 		Instead, we are given a quest marker with an [Optional] tag. The diary isn’t even marked as stolen. 
 			Where is the creativity in telling the player everything? Unique quest outcomes don’t feel earned when the roadmap is made evident.
@@ -66,7 +66,7 @@ Clover/Chloe has an issue with some debt for the man who owns the Mining League 
 #### Xenofresh
 Not a lot to say about Xenofresh at this point other than it is the manufacturer of Aurora, the biggest corporation on Neon (with manufacturing in the Underbelly) and the source of Administrator Bayu’s wealth and power. Based on how curt the voice line selection is at this time, I must assume a larger Neon plot point or [•Factions](•Factions.md) questline uses this firm.
 
-+ Related [Side Quests](Side%20Quests.md) - Yannick wants me to join Xenofresh to smuggle Aurora. I can literally leave the [Astral_Lounge](Astral_Lounge.md) with the stuff and no-one bats an eye. Seems like smuggling is hardly necessary. 
++ Related [Side_Quests](Side_Quests.md) - Yannick wants me to join Xenofresh to smuggle Aurora. I can literally leave the [Astral_Lounge](Astral_Lounge.md) with the stuff and no-one bats an eye. Seems like smuggling is hardly necessary. 
 		Fair enough, it’s expensive from the Lounge though, so making our own batch at Xenofresh is probably better for profit margins. Also he could try and get an arrangement with Bayu like Euphorika did, but he hates Bayu’s guts so that probably wouldn’t fly. I would still have liked the option to ask him about it though.
 
 #### Slayton Aerospace 

@@ -20,7 +20,7 @@
 - [NG+](NG+.md) implications
 
 Where it makes sense, discuss relevant [•Gameplay_Systems](•Gameplay_Systems.md):
-- [HUD + UI](HUD%20+%20UI.md)
+- [HUD+UI](HUD+UI.md)
 - [Advanced_Combat](Advanced_Combat.md) ([Starborn](Starborn.md) powers and movement)
 - [Crafting](Crafting.md)
 - [Surveying](Surveying.md)/Scanning/Resource collection

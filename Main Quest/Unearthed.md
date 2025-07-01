@@ -1,4 +1,4 @@
-[Temporal Paradox](Temporal%20Paradox.md)
+[Temporal_Paradox](Temporal_Paradox.md)
 
 If Other Victor is a Starborn, he also probably witnessed our extinction if we stayed on Earth, forcing him to make an impossible choice, saving humanity for what he perceives as a better future in place of our demise on Earth. Parallels The Avengers' Infinity War plotline with Dr Strange seeing every possible future and realising that sacrificing half of all life was the only outcome that succeeds.
 	The reason I bring up Marvel is that it is definitely in the wheelhouse of Emil's level of writing.

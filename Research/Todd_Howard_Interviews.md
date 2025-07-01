@@ -9,7 +9,7 @@ Todd is aware of the disconnect between their questing and sandbox gameplay. [�
 The advent of the [Creation_Club_integration](Creation_Club_integration.md)
 2:45 "On the whole PC side, releasing our tools, we would love to get that on the consoles somehow. Our users are making these awesome mods, they're so good at it, they're so creative. And on the PC, I think that's what defines the PC version of our game. In many ways, that makes it the superior version, because it becomes like this role-playing system, and people just like to look at each other's stuff they've built, much like Minecraft."
 
-[World Building](World%20Building.md)
+[World_Building](World_Building.md)
 9:35 "For us y'know, the world is the main character of the game."
 
 [Story](Story.md) 
@@ -65,10 +65,10 @@ How internal research works
 
 0:43 Starfield inspirations: 
 - [Sundog](Sundog) - sci-fi game with 'partialist interface' (moving objects around and putting them together) where you could fly around on your own ship.
-- [Traveller TTRPG ](Traveller%20TTRPG%20)- Hard sci-fi. Todd tried to program a CRPG version on the Apple II. Where he discovered that computers could run out of memory. 
+- [Traveller_TTRPG](Traveller_TTRPG.md)- Hard sci-fi. Todd tried to program a CRPG version on the Apple II. Where he discovered that computers could run out of memory. 
 - 1:35 "Can we pull off something like this with today's computers?"
 
-1:50 Is Starfield considered [Hard Sci Fi](Hard%20Sci%20Fi.md)?
+1:50 Is Starfield considered [Hard_Sci_Fi](Hard_Sci_Fi.md)?
 - Yes, more so hard sci fi to BGS team.
 - Visual identity harkens back to that.
 - It's still a video game, so full realism isn't too important.
@@ -119,7 +119,7 @@ Lex Fridman, 29 Nov 2022
 
 57:08 What is the origin story of Starfield?
 "We had always wanted to do something where you explore space"
-Mentions [Traveller TTRPG](Traveller%20TTRPG.md) again
+Mentions [Traveller_TTRPG](Traveller_TTRPG.md) again
 "[Starfilght](Starfilght), [Star Control 2](Star%20Control%202)"
 "It was time to do something new" minor burnout over TES and FO
 "You mentioned Daggerfall, we go back to some of that"
@@ -156,12 +156,12 @@ https://www.reddit.com/r/Starfield/comments/1kxwhho/ads_must_be_trolling_right/
 "So that you don't make this character in the beginning and then 8 hours later realise you made a terrible experience. That to me is a really, really bad experience."
 1:46:05 "Some starting skills that get you off to the type of play that you want, but if you discover you don't like that kind of play, you can move that character along."
 
-1:47:36 Why is it bad to break the game? [Side Quests](Side%20Quests.md)
+1:47:36 Why is it bad to break the game? [Side_Quests](Side_Quests.md)
 "Well, people love in Morrowind where you could teleport to different areas - they break so many quests"
 "We would do this exercise of designing a quest and then someone would say, 'and then I recall away', 'oh okay, the quest is broken."
 "And then one day someone says, 'Can we just get rid of that spell effect?' Everyone was like 'yes, please'. And so it allows us to make better content."
 
-[Side Quests](Side%20Quests.md) / [Radiant_Quests](Radiant_Quests.md) - 1:48:50 Todd understands good open ended quest design that relies on the player to answer the quest themselves, but yet we see so little of this in-game outside of the radiant missions...
+[Side_Quests](Side_Quests.md) / [Radiant_Quests](Radiant_Quests.md) - 1:48:50 Todd understands good open ended quest design that relies on the player to answer the quest themselves, but yet we see so little of this in-game outside of the radiant missions...
 'The best ones for me are actually were all of that was far more open-ended. The how I am going to accomplish this task is completely up to me, and I'm gonna find some ingenious solution.
 "It's like, go find me five daedra hearts or whatever, like find me X of something that's hard to get. You can give a simple story set up for that.
 And we're not telling the player where to get those. And they think, now, where could I get those? If those objects are in the world
@@ -207,7 +207,7 @@ Lots of [•Gameplay_Systems](•Gameplay_Systems.md) not working together
 9:05 Inspirations
 "More of feeling like Read Dead 2, I'm living this western fantasy. In this I'm living this Science Fiction explorer fantasy."
 	I want to Todd! But you already discovered everything for me!
-10:19 [Smoke and mirrors](Smoke%20and%20mirrors.md)
+10:19 [Smoke_and_mirrors](Smoke_and_mirrors.md)
 "It's games where I feel I am rooted in the reality of this universe of the game, and everything else just disappear." 
 
 11:50 "The more you give to Starfield, the more it gives back, and that was one of our goals"
@@ -287,7 +287,7 @@ No [Ground_vehicles](Ground_vehicles.md)
 25:40 - "You can assign [Companions](Companions.md) to ships you're not using and things like that"
 Possibly cut content, or just a flubbed line. You cannot do this in the final game.
 
-[Sound Design](Sound%20Design.md)
+[Sound_Design](Sound_Design.md)
 28:00 "Music is one of the first things we start with. We concept art and we start writing the music"
 "The music is all giving us a feeling of what this world feels like, what this experience feels like"
 
@@ -305,13 +305,13 @@ Todd's probably talking about the SSNN kiosk broadcasts, a bit disingenuous to c
 35:55 What's good about #CreationEngine 2 on a tech level?
 "We are so happy with the new engine, it took us so long to do, the techs are wizards - led by Chris Rodrigues and Joel Denolt. What we're able to do in game, and have all these things looking amazing... our lighting model is just awesome, the real-time GI... we have some great volumetric fog and how that interacts with the lighting."
 
-36:40 Lying about [Side Quests](Side%20Quests.md)!
+36:40 Lying about [Side_Quests](Side_Quests.md)!
 "There are a lot of open-world games now, but what makes ours different is that all these quests are running. It's not like you start a mission and shut everything down."
 
 38:30 [Advanced_Combat](Advanced_Combat.md) 
 "This is the best feeling game that we've had"
 
-39:30 Gameiness of [Side Quests](Side%20Quests.md)
+39:30 Gameiness of [Side_Quests](Side_Quests.md)
 "It comes down to making all that content. There really is a lot of it, a lot of specific quests."
 [Radiant_Quests](Radiant_Quests.md) "We have a bunch of that. You can land on a planet, go to an outpost, and we're gonna generate a mission nearby, but I think that's okay if you know that you're in for it. And those activities, if the gameplay is good, can be fun, but they shouldn't take the place of those more in-depth ones - and we've done a lot of those."
 

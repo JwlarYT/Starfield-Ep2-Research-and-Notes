@@ -11,7 +11,7 @@ At least the people of the Settled System finally realised the importance of car
 
 The [city](Neon_City.md) that lives as a fish harvesting oil rig on a planet full of water doesn't even have boats.
 	But the concept art does. Once again, concept artist doing a more through job of world building.
-![Screenshot 2025-06-19 at 12.10.15](Screenshot%202025-06-19%20at%2012.10.15.png)
+![Screenshot 2025-06-19 at 12.10.15](Screenshot-2025-06-19-at-12.10.15.png)
 
 No Man's Sky also has ground vehicles, and they let ya make the planet a racetrack.
 	Cannot do this in Starfield due to rock collisions, but boosts help a little, momentum is iffy though

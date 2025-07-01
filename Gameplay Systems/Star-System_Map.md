@@ -4,4 +4,4 @@ Some space encounters can be seen on the star system map. These are often dungeo
 
 Starmap needs a search bar. If you’re gonna go back to so many Daggerfall style choices, why remove that one. It’s the most helpful on a map full of nondescript coloured dots.
 
-![Screenshot 2025-06-16 at 12.15.17](Screenshot%202025-06-16%20at%2012.15.17.png)
+![Screenshot 2025-06-16 at 12.15.17](Screenshot-2025-06-16-at-12.15.17.png)

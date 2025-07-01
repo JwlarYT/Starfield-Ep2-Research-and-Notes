@@ -23,8 +23,7 @@ Found a radiant bounty mission from an NPC living in a [Lone Hab](Points_of_Inte
 Radiant missions can and will repeat. I have been asked to kill a group of nearby spacers by two NPCs working on two completely different construction sites in two different star systems. They had the same VO, and even the optional dialogue was greyed out. The game isn’t even trying to hide that this is repeated content.
 	Just like Daggerfall, but again, the latter had far more quests and different variations of said quests. 
 
-
-
+---
 #### Intended Player Interaction
 I started a 45-minute session with the intent of playing as I imagine the designers expected us to interact with the radiant part of the game. 
 

@@ -4,8 +4,6 @@ Arguments about the old maps being poor are true, the planetary surface maps are
 I am really missing the local maps, especially for caves and outposts. It can be difficult to know if you have explored the entire structure. Especially with the caves where you’ll want to know if you have found each resource in there. Caves and mines are often the only places you can find the rarer resources of a planet, and it can be annoying not knowing if you have explored every corner, or if you have missed a bit.
 
 
-
-
 ---
 #### After update 
 

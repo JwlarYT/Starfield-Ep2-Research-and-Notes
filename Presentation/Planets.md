@@ -33,7 +33,7 @@ In reality, there was no way of winning here, they would've been better off dest
 
 Creature designs are reminiscent of dinosaurs at times. It has a Star Wars feel to it. 
 I cannot tell if they a proc gen’d. Seeing as ‘only’ 100 of the planets have life, it is possible that they are all hand made.
-	They are hand-made - concept art can be seen in the [Starfield Direct](Starfield%20Direct.md)
+	They are hand-made - concept art can be seen in the [Starfield_Direct](Starfield_Direct.md)
 
 They look quite alien, even not a bit unispired timid herbivore on this planet looks like a horrendous living mushroom that has bug-like mandibles and tiny useless chicken wings sprouting out of its back. Very alien, and a welcome respite from the other creatures that appear closer to slight variations of dinosaurs.
 	Perhaps even insipid would be the right term

@@ -100,10 +100,10 @@ Like the Alien inspired spaceship.
 Why [Story](Story.md) may be bad.
 1:00:00 Will wasn't given creative ownership because everyone weighed in due to it being the thing that the entire game is judged on. It had to represent the game's tone and themes, and if you don't like or care about those, you aren't going to like the main quest. But engaging side quests that buck all of that can lead to more surprising content.
 
-1:00:40 [Side Quests](Side%20Quests.md) Goal was to make as many quests as possible, literal quantity over quality.
+1:00:40 [Side_Quests](Side_Quests.md) Goal was to make as many quests as possible, literal quantity over quality.
 "How do you decide how many side quests?"
 "As many as you can make!"
-Goes back to [Todd](Todd%20Howard%20Interviews.md) saying how they see those posts of people playing for a bajillion hours and seeing something new. By aiming for that, they watered down the content.
+Goes back to [Todd](Todd_Howard_Interviews.md) saying how they see those posts of people playing for a bajillion hours and seeing something new. By aiming for that, they watered down the content.
 "How long did it take us to make quests last time. Let's take that number and extrapolate based on our deadline and see how many we can cram in there."
 [Cut_Content](Cut_Content.md)
 "We want to make as many as possible, how many can we fit? By the end, it's just like how many can we ship at the quality that we want, and then everything else we have to jettison."
@@ -133,7 +133,7 @@ Goes back to [Todd](Todd%20Howard%20Interviews.md) saying how they see those pos
 **[Level and Quest Design Collaboration from 'Skyrim' to 'Starfield'**](https://www.youtube.com/watch?v=oLjVwfUABvw)
 GDC, 19 Jul 2024
 
-[Side Quests](Side%20Quests.md)
+[Side_Quests](Side_Quests.md)
 2:35 Ouest design covers:
 [Dialogue](Dialogue.md), text, voice over, quest scripting, AI Behaviour, Systems Design
 "Quest design handles dialogue and text, what a lot of places call narrative design"
@@ -148,7 +148,7 @@ GDC, 19 Jul 2024
 Level design deals with moment to moment AI behaviour, default behaviour and how they react to the player with no other linkage to quests. 
 Quest design is specifically how the AI works within the quests and gives quests to the player.
 
-[Side Quests](Side%20Quests.md)
+[Side_Quests](Side_Quests.md)
 5:20 Collaboration on quests.
 Level design is in charge of location, combat NPCs, and layout decisions.
 Quest design covers narrative, non-combat NPCs and story decisions.
@@ -206,7 +206,7 @@ These companies also did not stay on the project, some came on near the beginnin
 40:12 Previous training methods had new devs sit with team members, watch them work, ask questions and learn through osmosis. As the team was now growing rapidly and time was limited, questions went from in-person to over slack, and to stop the time-waste of answering the same question over and over. Team leaders would spend time creating internal video tutorials on specific tools. This meant that the most important members of any department, the ones needed to test and approve any work, were spent inundated with over tasks. Created bottlenecks.
 
 41:35 "So what does level design and quest design collaboration look like in this environment? Game developers hate bureaucracy, we now have a ton of bureaucracy, so can you continue to make memorable moments at this kind of scale with this kind of over head?"
-[Betteridge's law of headlines](Betteridge's%20law%20of%20headlines.md)
+[Betteridge's_law_of_headlines](Betteridge's_law_of_headlines.md)
 
 [Story](Story.md)
 42:12 Will had to write and implement the main quest three times. And it was only after that third time that it was in a state where the entire quest could be playthrough and thoroughly tested.

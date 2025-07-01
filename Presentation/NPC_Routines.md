@@ -1,6 +1,6 @@
-[World Building](World%20Building.md)
+[World_Building](World_Building.md)
 
-I don’t think [NPC routines](NPC%20routines.md) are a thing. All of the quest NPCs I have interacted with are always in their same spot, never going to sleep or getting food, despite the time of day.
+I don’t think [NPC_Routines](NPC_Routines.md) are a thing. All of the quest NPCs I have interacted with are always in their same spot, never going to sleep or getting food, despite the time of day.
 	They are sometimes a thing - I saw a worker for the UC distribution center out on a park bench…at 5am. No idea what he was doing? Maybe having breakfast before an early start.
 
 Of the top of my head, the only npcs that I really notice having a real routine are those in constellation. To be that's extremely lazy and I wouldn't even count as a feature in the game.

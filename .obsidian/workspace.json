@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay Systems/Ship_Building.md",
+                "file": "Cities/Akila_City.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ship_Building"
+              "title": "Akila_City"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay Systems/Role-Playing.md",
+                "file": "Gameplay Systems/Ailments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Role-Playing"
+              "title": "Ailments"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Systems/Ship_Building.md",
+                "file": "Gameplay Systems/Ailments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ship_Building"
+              "title": "Backlinks for Ailments"
             }
           },
           {
@@ -227,41 +226,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e0435bf97f44a0f",
+  "active": "43583f697b3b0374",
   "lastOpenFiles": [
-    "New Updates/Ship_Interior_Decoration.md",
-    "New Updates/Tracker's_Alliance.md",
-    "New Updates/The_Perfect_Recipe.md",
-    "New Updates/Local_Maps.md",
-    "New Updates/Ground_vehicles.md",
     "New Updates/Difficulty_options.md",
-    "New Updates/Creation_Club_integration.md",
-    "New Updates/Bug_Fixes&Other_Changes.md",
-    "Main Quest/Unity_Quest.md",
-    "Main Quest/Unity.md",
-    "Main Quest/Unearthed.md",
-    "Main Quest/Ultimate_Power.md",
-    "Main Quest/The_Pilgrim.md",
-    "Main Quest/The_Old_Neighborhood.md",
-    "Main Quest/The_Hunter.md",
-    "Main Quest/The_Empty_Nest.md",
-    "Main Quest/The_Emissary.md",
-    "Main Quest/Skip_Main_Quest.md",
-    "Main Quest/Short_Sighted.md",
-    "Main Quest/Repeat_Main_Quest.md",
-    "Main Quest/One_Giant_Leap.md",
-    "Main Quest/No_Sudden_Moves.md",
-    "Main Quest/Morals.md",
-    "Main Quest/Missed_Beyond_Measure.md",
-    "Main Quest/Into_the_Unknown.md",
-    "Main Quest/In_Their_Footsteps.md",
-    "Images/Screenshot 2025-05-15 at 12.46.12.png",
+    "Together in electric dreams.md",
+    "Developer Commentary.md",
+    "Creation.md",
+    "• Episode 2 Structure.md",
+    "Side Quests/Side_Quests.md",
+    "Side Quests/Out_on_a_Limb.md",
+    "Research/Traveller_TTRPG.md",
+    "Research/Todd_Howard_Interviews.md",
+    "Research/Starship_troopers.md",
+    "Research/Starfield_Direct.md",
+    "Research/Size.md",
+    "Research/Quotes_to_use.md",
+    "Research/Pareto_Principle.md",
+    "Research/Marketing.md",
+    "Research/Ludonarrative_dissonance.md",
+    "Research/Interviews.md",
+    "Research/Firefly.md",
+    "Research/Betteridge's_law_of_headlines.md",
+    "Presentation/Wireless_Communication.md",
+    "Presentation/Sound_Design.md",
+    "Presentation/Smoke_and_mirrors.md",
+    "Presentation/Public_Perception.md",
+    "Presentation/Planets.md",
+    "Presentation/Panspermia.md",
+    "Presentation/NPC_Routines.md",
     "Images/Screenshot-2025-06-19-at-12.10.15.png",
-    "Images/Screenshot-2025-06-19-at-12.04.18.png",
     "Images/Screenshot-2025-06-16-at-12.15.17.png",
-    "Images/Screenshot-2025-05-15-at-13.31.29.png",
-    "Images/Difficulty-Settings.jpg",
+    "Images/Screenshot-2025-06-19-at-12.04.18.png",
     "Images/Screenshot-2025-05-15-at-12.46.12.png",
+    "Images/Screenshot-2025-05-15-at-13.31.29.png",
+    "Images/Screenshot 2025-05-15 at 12.46.12.png",
+    "Images/Difficulty-Settings.jpg",
     "Images/Difficulty Settings.jpg",
     "Images/CCD2A22C-07F2-42BF-B683-63C42273DF63_1_201_a.jpeg",
     "Images/286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a.jpeg",

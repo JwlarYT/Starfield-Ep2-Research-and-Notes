@@ -1,6 +1,6 @@
 Keep jumping through universes to get all powers for yourself
 
-"First time you (we) have survived to this point" Meta Narrative that by taking control of this PC, we have become a [Deus Ex Machina](Deus%20Ex%20Machina.md). We only survived because we're the player, we're meant to survive, and we have the gamer skills to help this avatar survive when they otherwise wouldn't have.
+"First time you (we) have survived to this point" Meta Narrative that by taking control of this PC, we have become a [Deus_Ex_Machina](Deus_Ex_Machina.md). We only survived because we're the player, we're meant to survive, and we have the gamer skills to help this avatar survive when they otherwise wouldn't have.
 
 If you view the game as being a single universe, and not the journey across universes and the unique alternate realities (special universes) acquiring power levels, then it's completely missable.
 

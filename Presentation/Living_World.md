@@ -1,4 +1,4 @@
-Parts of Starfield do not exist without you. What I mean by that is that if you’re too early for certain [Side Quests](Side%20Quests.md), the NPCs involved are simply not alive. 
+Parts of Starfield do not exist without you. What I mean by that is that if you’re too early for certain [Side_Quests](Side_Quests.md), the NPCs involved are simply not alive. 
 In New Vegas, while the NPCs are incredibly static, they have lives before the player is tasked with interacting with them in some quests. 
 	You can talk to them before they are ‘needed’ by a writer. 
 This isn’t the case in Starfield. A smuggler used by Yannick (Neshar’s employer) is hiding out in Warehouse 1 in [Ebbside](Ebbside.md), accosted by the Syndicate gang. This smuggler can never be found before he is used. Warehouse 1 is completely empty if you come too early. 

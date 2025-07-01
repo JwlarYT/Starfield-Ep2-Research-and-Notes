@@ -1,4 +1,4 @@
-##### [Starfield: Location Insights (Developer Commentary) - New Atlantis](Developer%20Commentary)%20-%20New%20Atlantis)
+##### [Starfield: Location Insights (Developer Commentary) - New Atlantis](https://www.youtube.com/watch?v=KoZAAebhnxs)
 27 Aug 2021, Bethesda Softworks
 
 Emil Pagliarulo:

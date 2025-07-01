@@ -2,7 +2,7 @@ Listen to the words from [The_Hunter](The_Hunter.md), [The_Emissary](The_Emissar
 
 It's all about facing the ultimate choice: How much are you willing to sacrifice in the quest for [Ultimate_Power](Ultimate_Power.md)?
 
-The more relationships, accomplishment, starships, gear, weapons, houses, credits, or outposts you have, the greater the sacrifice will be.
+The more relationships, accomplishments, starships, gear, weapons, houses, credits, or outposts you have, the greater the sacrifice will be.
 
 Will you be like [The_Hunter](The_Hunter.md), sacrifice it all, dismiss each universe as meaningless, and simply chase power?
 

@@ -30,7 +30,7 @@ Design director Emil Pagliarulo likens pre-production to “the land of milk and
 
 He summarises imagining a universe from nothing, down to the mundane. “We had to concept art the trash cans.”
 
-[World Building](World%20Building.md)
+[World_Building](World_Building.md)
 Starfield is science fiction at its most romantic – the warmth of golden-age 1960s space aspirations in its heart, and the familiar feel of a BGS game in its veins. Art director Istvan Pely coined the term “NASA Punk” for its visual language – all clunk and clutter. “There aren’t holograms everywhere. It's got buttons. They're tactile. You want to press ’em,” he says, squishing the air with his thumb. “Don’t think of it as futuristic. Think of it as a period piece. These are things that happened.” Despite setting the game 300 years in the future, he didn’t want it to feel like humanity had changed its nature: “People are still people. They’re still messy.”
 
 Looking around inside the ship, Howard gets me to go into photo mode. “Zoom in on that a second,” he asks, pointing at one of the panels on the walls, “because this is where Istvan is a fucking genius.” Every knob, button and screen has minuscule hand-crafted icons and scripture. Howard is standing up now, arms outstretched in front of me. “That is mental!”
@@ -52,7 +52,7 @@ It’s wild that a studio can spend hundreds of millions and the better part of 
 
 A large corporation like Bethesda will NEVER make anything "unsafe" again. It's not the game developers choosing what they make; it's high-ups who don't see video games as a medium for art, only an asset for their profits. Zenimax started it, and Microsoft guarantees it.
 
-Every decision made was made to make life easier on the developers - content, features, and systems are added or removed based on how hard they are to manage, with no consideration to how something being hard to manage might be counterbalanced by the result being worth it. That's why [NG+](NG+.md) choices hardly amount to anything, and it's why choices, in general, hardly amount to anything. It's why perks, traits, and status effects all feel like window dressing. It's why mechs are illegal in Starfield, and levitation is illegal in Oblivion and Skyrim. It's why [recall](Todd%20Howard%20Interviews.md) was taken out of The Elder Scrolls. And it's why Starborn powers are just the magic system.
+Every decision made was made to make life easier on the developers - content, features, and systems are added or removed based on how hard they are to manage, with no consideration to how something being hard to manage might be counterbalanced by the result being worth it. That's why [NG+](NG+.md) choices hardly amount to anything, and it's why choices, in general, hardly amount to anything. It's why perks, traits, and status effects all feel like window dressing. It's why mechs are illegal in Starfield, and levitation is illegal in Oblivion and Skyrim. It's why [recall](Todd_Howard_Interviews.md) was taken out of The Elder Scrolls. And it's why Starborn powers are just the magic system.
 
 https://www.polygon.com/2019/3/27/18281082/elder-scrolls-morrowind-oral-history-bethesda
 Kirkbride: "Morrowind was a big jazz band, you know? There weren’t a lot of things where we were bright enough to know that we shouldn’t do it."

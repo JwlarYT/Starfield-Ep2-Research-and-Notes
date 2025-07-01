@@ -15,14 +15,8 @@ So we have 3 basic choices. 
 
 But, why can’t I tell someone at [MAST](MAST.md) about his plan. Or better yet, do something to the records he has asked me to wipe that will get him fired.
 
-The files are held on a computer in a lead scientist’s apartment. You must break into the apartment to delete them. I entered the room and decided to wait for them to come home - NPCs should have [NPC routines](NPC%20routines.md) right? Well, they never come home. I waited multiple hours across the day and night and they’re never to be seen - so you can never tell her of what is happening.
+The files are held on a computer in a lead scientist’s apartment. You must break into the apartment to delete them. I entered the room and decided to wait for them to come home - NPCs should have [NPC_Routines](NPC_Routines.md) right? Well, they never come home. I waited multiple hours across the day and night and they’re never to be seen - so you can never tell her of what is happening.
 
 All you can do is delete the files as asked. You can also delete the unfavourable reviews for the first scientist for some brownie points.
 
 Deleting only the first scientist’s review and leaving the second’s one does nothing. The quest does not proceed and the NPCs will not acknowledge what you have done.
-
-  
-
-
-
-**

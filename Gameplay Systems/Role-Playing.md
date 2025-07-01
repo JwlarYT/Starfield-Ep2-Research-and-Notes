@@ -34,6 +34,6 @@ Roles that work within the sandbox tools we were given:
 - Pirate - Join the Crimson Fleet by turning down offer from UCSYSDEF and waiting to get an offer to join or accept offer from UCSYSDEF aand choose to join the Fleet when it is offered the complete missions from the Crimson Fleet mission board.
 - Smuggler - Transport smuggled goods to settled planets and sell them to local Trade Authority or join the Crimson Fleet and complete Smuggling missions from the Crimson Fleet mission board.
 
-^Essentially all of these only access a small part of the game. Where as in TES or Fallout, you role indicates how they interact with the content, not what content they exclusively do.
+^Essentially all of these only access a small part of the game. Where as in TES or Fallout, your role indicates how they interact with the content, not what content they exclusively do.
 
 Serpent's Embrace lore clashes with Kid Stuff - Your parent' will still be well adjusted recent retirees with no sense of being from a Cult.

@@ -29,7 +29,7 @@ On [Neon_City](Neon_City.md) - Starfield’s idea of a dystopia is when a woman 
 
 Overall theme of the game is hope in the face of adversity. From the MQ, to some of the factions, and even random encounters, humanity will always try to progress and grow. Whether in expanding in space or helping their fellow man. The story between the owner of [Ebbside](Ebbside.md)'s Euphorika and a Street Rat she helped off the streets embodies that.
 
-Star-system wide communication is possible, a Starstation dungeon in Alpha Centauri has a computer log mentioning that they are capable of phone calling [New_Atlantis](New_Atlantis.md) , [Wireless Communication](Wireless%20Communication.md)
+Star-system wide communication is possible, a Starstation dungeon in Alpha Centauri has a computer log mentioning that they are capable of phone calling [New_Atlantis](New_Atlantis.md) , [Wireless_Communication](Wireless_Communication.md)
 
 Ship manufacturers' own StarYards are essentially car dealerships that offer ships and unique parts associated with their brand.
 

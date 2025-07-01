@@ -1,4 +1,4 @@
-[Loading Screens](Loading%20Screens.md) are at their worst in space. Without real-time meaningful space travel (it’s possible, but slow and doesn’t even load in the next planets properly), it’s entirely normal to go through 3 cutscenes and another 5-6 loading screens when travelling between planets. Not a seamless experience by any means - just a load of menu jumping. Even when leaning into the so-called ‘[immersive](Immersion.md)’ approach of ignoring the menu system and using the scanner and targeting systems to travel in-game, one still has to stare at cutscenes and loading screens rather than flying a ship. (Time how long watching vs. playing) 
+[Loading_Screens](Loading_Screens.md) are at their worst in space. Without real-time meaningful space travel (it’s possible, but slow and doesn’t even load in the next planets properly), it’s entirely normal to go through 3 cutscenes and another 5-6 loading screens when travelling between planets. Not a seamless experience by any means - just a load of menu jumping. Even when leaning into the so-called ‘[immersive](Immersion.md)’ approach of ignoring the menu system and using the scanner and targeting systems to travel in-game, one still has to stare at cutscenes and loading screens rather than flying a ship. (Time how long watching vs. playing) 
 
 This ‘[immersive](Immersion.md)’ flying choice falls apart quickly when you approach one of the three main planets, though. Here I am cycling through the numerous surrounding ships, trying to get [New_Atlantis](New_Atlantis.md) to appear… until I give up and load the map, which suggests that I should fast travel straight to the lodge and ignore any attempt to land in an immersive way. Bethesda doesn’t want us to be immersed in their space-faring game with this design.
 
@@ -27,7 +27,7 @@ It’s that combination of exploration and serendipity that makes BGS games so b
 
 In Starfield, that journey has been impaired.
 
-[Dungeons](Points_of_Interest.md) get diluted across a sprawling void of procedurally generated planets. [Side Quests](Side%20Quests.md)? Rarely does a distressed outpost within the Star System radio in a distress call if we're lucky, but in my experience, it happened only 4 times, and one of those was a scripted moment in the Main Quest.
+[Dungeons](Points_of_Interest.md) get diluted across a sprawling void of procedurally generated planets. [Side_Quests](Side_Quests.md)? Rarely does a distressed outpost within the Star System radio in a distress call if we're lucky, but in my experience, it happened only 4 times, and one of those was a scripted moment in the Main Quest.
 
 As for the [atmosphere](Immersion.md)? Unless you find staring at a static skybox with a PNG of a planet riveting, the sheer wonder of [•Exploring](•Exploring.md) space sadly falls flat unless you enjoy the same five or so short transition cutscenes.
 

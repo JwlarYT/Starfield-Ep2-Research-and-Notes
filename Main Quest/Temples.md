@@ -1,6 +1,6 @@
 Temples should be hidden in pocket dimensions that only are accessable to those who have attuned to an artifact, it wouldn't be that hard to pull off but they were just too lazy
 
-At least later Temple Grinding is optional, with the game acknowledging this by putting the missions in the Misc part of the [mission log screen](Side%20Quests.md). Boss fights against “guardian” [Starborn](Starborn.md) are a joke - very easy. Also, why are they here? Do they literally go through the Unity and then decide to spend the rest of their life walking around one of the many temples? Hell of a constitution, or possible insanity. 
+At least later Temple Grinding is optional, with the game acknowledging this by putting the missions in the Misc part of the [mission log screen](Side_Quests.md). Boss fights against “guardian” [Starborn](Starborn.md) are a joke - very easy. Also, why are they here? Do they literally go through the Unity and then decide to spend the rest of their life walking around one of the many temples? Hell of a constitution, or possible insanity. 
 	^They sit in their ships in orbit first and then come down after the temple has been activated. They are following [The_Emissary](The_Emissary.md) in gatekeeping [Starborn](Starborn.md). A noble yet boring pursuit. They aren't very good at it either seeing as how easily myself and [The_Hunter](The_Hunter.md) can deal with them.
 
 Needing to go back to Vlad every time to find a new temple is antithetical to this “speedrun” mode. Just let him put them all on our map like with the artefacts.

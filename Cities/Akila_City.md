@@ -3,9 +3,8 @@ Frontier town, the American’s that defeated the British (or tried to in this c
 Akila, as a city, is far more interesting to me than [New_Atlantis](New_Atlantis.md). The rugged aesthetic helps the town feel more grounded, which I’m sure is by design. [New_Atlantis](New_Atlantis.md) is too clean, too perfect (ignoring [The_Well](The_Well.md)), highlighting how the UC wishes to portray itself, versus the ‘realism’ of the Freestar Collective, adobe and brick houses protected behind walls on the frontier of the fairly dangerous red-dusted desert wilderness surrounding.
 
 ---
-##### [Starfield: Location Insights (Developer Commentary) - Akila City](Developer%20Commentary)%20-%20Akila%20City)
+##### [Starfield: Location Insights (Developer Commentary) - Akila City](https://www.youtube.com/watch?v=753Wa5GaKS0)
 7 Aug 2021, Bethesda Softworks
-
 
 0:10 "The [Freestar_Collective](Freestar_Collective.md), a loose collective of three distinct Star Systems"
 	Narion barely counts let's be honest. The only "distinct" location is the Clinic, which was the start of the [Narion War](History.md) to be fair.

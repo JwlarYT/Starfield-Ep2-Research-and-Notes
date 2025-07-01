@@ -12,7 +12,7 @@ These questions usually are:
 	
 3. Are we alone in the universe?
 	- Is there extraterrestrial life?
-		Core to Starfield's narrative is the search for 'alien' intelligence left by unknown entities who made the [Artifacts](Artifacts.md) and [Temples](Temples.md). This taps into the [Fermi Paradox](Fermi%20Paradox.md) and the deep human urge to find others in the cosmos.
+		Core to Starfield's narrative is the search for 'alien' intelligence left by unknown entities who made the [Artifacts](Artifacts.md) and [Temples](Temples.md). This taps into the [Fermi_Paradox](Fermi_Paradox.md) and the deep human urge to find others in the cosmos.
 	
 4. What happens after death? And can we overcome death or suffering?
 	- Is there an afterlife or reincarnation?
@@ -26,7 +26,7 @@ These questions usually are:
 		
 6. What is the universe made of, and how did it begin?
 	- Is there a multiverse?
-		Yes, but as well as a [Metaphysical structure of reality](Metaphysical%20structure%20of%20reality.md) 
+		Yes, but as well as a [Metaphysical_structure_of_reality](Metaphysical_structure_of_reality.md) 
 		Themes like alternate universes and transcendence suggest reality may be deeper than the material one the player navigates.
 		
 7. How should we live?
@@ -46,9 +46,9 @@ These questions usually are:
 		
 9. Is there a God or higher power?
 	- Is the universe the product of intelligent design?
-		The universe is up to debate, only that it is made by the Creators? All fingers point toward a [Temporal Paradox](Temporal%20Paradox.md) and the Starborn creating the universe as a plaything based on past experience of using the universe as a plaything. [Unity](Unity.md)
+		The universe is up to debate, only that it is made by the Creators? All fingers point toward a [Temporal_Paradox](Temporal_Paradox.md) and the Starborn creating the universe as a plaything based on past experience of using the universe as a plaything. [Unity](Unity.md)
 		
-	- The Artifacts and Starborn entities suggest the presence of a higher intelligence or metaphysical force—possibly even a godlike mechanism behind the universe's structure. Or that the Starborn themselves created it all as [The_Pilgrim](The_Pilgrim.md) implies, a self fulfilling prophecy, or a [Temporal Paradox](Temporal%20Paradox.md).
+	- The Artifacts and Starborn entities suggest the presence of a higher intelligence or metaphysical force—possibly even a godlike mechanism behind the universe's structure. Or that the Starborn themselves created it all as [The_Pilgrim](The_Pilgrim.md) implies, a self fulfilling prophecy, or a [Temporal_Paradox](Temporal_Paradox.md).
 	
 	- Can science and religion be reconciled?
 		The new [Religion](Religion.md)s mirror humanity’s ongoing attempt to reconcile science, metaphysics, and faith.
@@ -70,7 +70,7 @@ The ideological difference between [The_Emissary](The_Emissary.md) and [The_Hunt
 [UC SysDef](UC%20SysDef) and the [Crimson_Fleet](Crimson_Fleet.md) are mirrors of each other, with both leaders willing to bend or even break the very rules they espouse and commit to uphold.
 
 But the deepest question posed is, how will the player deal with Unity/[NG+](NG+.md)? Will they rush through [Artifacts](Artifacts.md) collection and skip to the next universe like it’s a race, and abandon friends and enemies alike? Will they explore every universe and if it were new, to discover the vast majority are not? How does one deal with functional immortality when time is an endless loop of the same experiences over and over? The question suddenly changes from “what does the character do here” to “what does the player do?" How do they react to the ennui of a Groundhog Day scenario where almost nothing ever changes, and when it does it’s usually for the worse?
-	Which is why not accommodating more [Player Agency](Player%20Agency.md) is so incompetant. And a sign of [Poor_Planning](Poor_Planning.md). If all quest designers knew from the beginning that every quest had to accommodate NG+ in some way, it would have gone a long way in improving the response to that,
+	Which is why not accommodating more [Player_Agency](Player_Agency.md) is so incompetant. And a sign of [Poor_Planning](Poor_Planning.md). If all quest designers knew from the beginning that every quest had to accommodate NG+ in some way, it would have gone a long way in improving the response to that,
 
 The divergent paths of not only our character through cycles but also that of other Starborn and the writings of [The_Pilgrim](The_Pilgrim.md) highlight that.
 

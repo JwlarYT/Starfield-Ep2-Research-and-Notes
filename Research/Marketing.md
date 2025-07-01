@@ -29,7 +29,7 @@
 0:17 "Set in the year 2330, in a relatively small pocket of the Milky Way, in an area that extends outward from our solar system for approximately 50 light years."
 
 0:38 "Today, the major factions enjoy an uneasy peace, but the Settled Systems are still pretty dangerous."
-	This 'uneasy peace' is barely reference in-game outside of throwaway dialogue and one [Side Quests](Side%20Quests.md) (Groundpounder)
+	This 'uneasy peace' is barely reference in-game outside of throwaway dialogue and one [Side_Quests](Side_Quests.md) (Groundpounder)
 
 [Constellation](Constellation.md)
 0:50 "Constellation is committed to uncovering the mysteries of the galaxy."

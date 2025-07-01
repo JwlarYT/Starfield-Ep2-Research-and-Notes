@@ -1,4 +1,4 @@
-[World Building](World%20Building.md)
+[World_Building](World_Building.md)
 
 Another interesting choice is the culture. People for the most part have maintained their Earth culture untainted. 
 

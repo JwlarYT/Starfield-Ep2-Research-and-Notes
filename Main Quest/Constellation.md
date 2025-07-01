@@ -24,7 +24,7 @@ Based around "[•Exploring](•Exploring.md)", but the game world takes place i
 
 ---
 #### The Mission Board inconsistency
-For a group of explorers they don't seem to have surveyed a lot of the universe.
+For a group of explorers, they don't seem to have surveyed a lot of the universe.
 
 Peer review this video for accuracy: https://www.youtube.com/watch?v=sKZ4EcZsk2g&list=PLM_F6ru-Us2x81nVrr7NIWlvvpf5X4KwJ&index=47
 Will add an interesting narrative of defending the game *not* because I like it, but because the critiques should be valid. Also raise the point that these mistakes are made because of how obscured this information is in-game. Then again though, expo dumping it upon first meeting constellation probably wouldn't be better.

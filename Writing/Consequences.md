@@ -14,4 +14,4 @@ Like all Bethesda games, they mean for the story and world to be experienced fro
 
 [Paradiso](Paradiso.md)
 
-[Essential NPCs](Essential%20NPCs.md)
+[Essential_NPCs](Essential_NPCs.md)
