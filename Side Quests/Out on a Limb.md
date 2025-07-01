@@ -1,7 +1,7 @@
 
 Perfect example of how Bethesda quests lack the choice/options/role-playing opportunities 
 
-An overexcited scientist has found readings that indicate a potential health hazard to the residents of [New Atlantis](New%20Atlantis.md) is coming. (Low frequency waves from the Trees, that may cause headaches and nausea, and eventually grow to mimic seismic activity, destroying the city).
+An overexcited scientist has found readings that indicate a potential health hazard to the residents of [New_Atlantis](New_Atlantis.md) is coming. (Low frequency waves from the Trees, that may cause headaches and nausea, and eventually grow to mimic seismic activity, destroying the city).
 
 To ensure that he is right, [MAST](MAST.md) have sent a second scientist to confirm these readings. However, the second scientist holds a grudge against the first, has a superiority complex and is terrible at his job. His data will likely be false and deny the first scientist’s claim.
 

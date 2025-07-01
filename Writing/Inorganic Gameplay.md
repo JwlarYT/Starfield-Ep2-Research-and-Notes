@@ -1,4 +1,4 @@
-How reviewing a game can inevitably alter one's perspective on it. We are playing the game in an inherently inorganic way, even when striving to play organically. For [NG+](NG+.md)2, I wanted to explore all of the various [MQ](•%20Main%20Quest.md) options to see how much of a difference they make. 
+How reviewing a game can inevitably alter one's perspective on it. We are playing the game in an inherently inorganic way, even when striving to play organically. For [NG+](NG+.md)2, I wanted to explore all of the various [MQ](•Main_Quest.md) options to see how much of a difference they make. 
 
 Fans of the game cite this as one of the reasons they believe the game is great, so I wanted to determine whether it’s simply the fact that options exist or if they have a somewhat significant impact. The former is not a good RPG, but the latter is. 
 

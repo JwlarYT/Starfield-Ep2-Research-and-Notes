@@ -1,6 +1,0 @@
-By choosing to repeat the MQ, you’re choosing to act as a Moron. Sarah constantly exposes how they have no idea what the [Artifacts](Artifacts.md) are, and we can’t simply tell her that they are the key to [Unity](Unity.md). We have to pretend to be that original, ignorant miner. 
-If [NG+](NG+.md) is going to be the core of your MQ revelation, maybe spend more time bulking that out in your new dialogue options. The [Starborn](Starborn.md) options that do come up don’t even skip anything, or provide major evidence to [Constellation](Constellation.md) (unless you choose to ["Skip Main Quest"]("Skip%20Main%20Quest") entirely), they boil down to you being a smartass.
-
-[The Old Neighborhood](The%20Old%20Neighborhood.md) - None of these speech options should even be here! “Oh boy, my first mission”. I have to imagine it’s either said with the most significant degree of irony and sarcasm possible, in which case, how is Sarah not realising that, or the player has terrible [Unity](Unity.md) exposure-related dementia.
-
-Really, the lack of any [Starborn](Starborn.md) dialogue options when talking to [Constellation](Constellation.md) for the first time is shocking. I have to pretend I’ve only seen one vision, have no idea where the [Artifacts](Artifacts.md) are from and know not a single damn thing about this universe, despite having already lived a whole life here.

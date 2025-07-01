@@ -8,7 +8,7 @@ Of the top of my head, the only npcs that I really notice having a real routine 
 Some have them, like Donna Rain, but they never go to sleep.
 https://starfield.fandom.com/wiki/Donna_Rain
 Why not have them go into one of the residential building towers.
-	Can't, Donna isn't a citzen, would need her to go into [The Well](The%20Well.md) instead.
+	Can't, Donna isn't a citzen, would need her to go into [The_Well](The_Well.md) instead.
 
 An NPC not having a full routine in Skyrim is grounds for a video; in Starfield, it's the norm.![286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a](286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a.jpeg)
 

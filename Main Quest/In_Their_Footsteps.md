@@ -1,0 +1,2 @@
+I have finally met the two [Starborn](Starborn.md). [The_Emissary](The_Emissary.md) who fought us after Neon, a version of Barrett who survived in his universe, with me taking his place as the death on the Eye, and [The_Hunter](The_Hunter.md), a version of Father Aquilus. They have this meeting every time at this point in the universe, highlighting how many times they have gone through the [Unity](Unity.md), and the cyclical nature of doing so. 
+

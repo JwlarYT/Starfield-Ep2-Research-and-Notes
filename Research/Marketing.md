@@ -1,19 +1,19 @@
 ##### [Into the Starfield: The Journey Begins](https://www.youtube.com/watch?v=Wun9up_M87E)
 14 Jun 2021, Bethesda Softworks
 
-0:58 Emil is designing some kind of note that does not exist in-game. No interface supports the logos as he has placed them. Not the terminal UI, slate UI or generic note pop-up box. It could be either a poster or a note, as it is designed before the note pop-up box appears, but either way, this work never appeared in-game. (It looks to be an alternate start to the UC SysDef side of the [• Crimson Fleet-UC SysDef](•%20Crimson%20Fleet-UC%20SysDef.md) quest line.)
+0:58 Emil is designing some kind of note that does not exist in-game. No interface supports the logos as he has placed them. Not the terminal UI, slate UI or generic note pop-up box. It could be either a poster or a note, as it is designed before the note pop-up box appears, but either way, this work never appeared in-game. (It looks to be an alternate start to the UC SysDef side of the [•Crimson Fleet-UC SysDef](•Crimson%20Fleet-UC%20SysDef.md) quest line.)
 	I find it interesting that Emil is the one writing this kind of flavour text, seeing as he was the Design **Director**, this seems to be a job for a lower-level employee. Then again, lead by example and all that. And I guess by this point in the development, the big thinking design stuff should've been nipped in the bud by now.
 
 1:05 Does Todd even see RP in quests as that important?
 "It's a next-generation role-playing game where you can be who you want, go where you want, experience OUR stories, and forge your own."
 	Are we meant to even be our characters in their story? It seems like RP is tied to gameplay mostly, and not the writing, hence how hand-wavey any mention of our character traits and perks in dialogue are.
-		 [Radiant Quests](Radiant%20Quests.md) exist for the RP. So it IS Daggerfall in space, but worse.
+		 [Radiant_Quests](Radiant_Quests.md) exist for the RP. So it IS Daggerfall in space, but worse.
 			Especially added onto Todd's favourite type of quests (fetch quests where gameplay takes precedent.) This is why [Progression](Progression.md) has been slowed down in this way, to focus on role-playing specifically into a certain tree, and not immediately being good at everything. In principle, seems good? Forcing skill only into stealth means combat is weak, and you have to focus on what you have specced into?
 
 1:15 Themes
 "Starfield is about HOPE. Our shared humanity and searching for the answers to life's greatest mystery."
 	Life's greatest mystery is usually referred to as "Why are we here"? 
-		OMG, that was what Emil was trying to say with [NG+](NG+.md) and his [Themes](Themes.md) of nihilism. That humans go from following what they know when they start the game, completing the tasks presented to them, then they learn that nothing matters, entering nihilism as with [The Hunter](The%20Hunter.md), before they either find religion like Keeper Aquilus, become steadfast in their ways and try to prevent others from suffering like with [The Emissary](The%20Emissary.md), or decide that a simple life of chosen ignorance is more blissful, like [The Pilgrim](The%20Pilgrim.md).
+		OMG, that was what Emil was trying to say with [NG+](NG+.md) and his [Themes](Themes.md) of nihilism. That humans go from following what they know when they start the game, completing the tasks presented to them, then they learn that nothing matters, entering nihilism as with [The_Hunter](The_Hunter.md), before they either find religion like Keeper Aquilus, become steadfast in their ways and try to prevent others from suffering like with [The_Emissary](The_Emissary.md), or decide that a simple life of chosen ignorance is more blissful, like [The_Pilgrim](The_Pilgrim.md).
 			Maybe I'm giving Emil too much credit here, but if this was the plan, it's decent on paper. A bit rudimentary, following a teenage level understanding of philosophy, but it's the deepest we've seen him go, and would at least give some credence to the interviews he made, stating how writing for Starfield made him introspect more than ever.
 				Still, though, it isn't the idea that is given credit, but how it is presented to the player. If it took me watching a bunch of past marketing material, interviews and overanalysing the game to come to this conclusion, you have made the access to that information far too convoluted and should not be surprised when the audience reacts accordingly.
 

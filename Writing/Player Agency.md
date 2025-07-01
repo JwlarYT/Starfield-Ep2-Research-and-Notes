@@ -20,6 +20,6 @@ Consequence - Historical story thread is broken is the player is killed.
 Choice - kill board
 Consequence - None, because you can't do it.
 
-Todd says he wants to say yes to players asking if they can do this, but this only applies to [• Gameplay Systems](•%20Gameplay%20Systems.md), he doesn't care about the quests as much. They are a secondary concern.
+Todd says he wants to say yes to players asking if they can do this, but this only applies to [•Gameplay_Systems](•Gameplay_Systems.md), he doesn't care about the quests as much. They are a secondary concern.
 
 Links to Todd's favourite quest setup relate to the diamond quest for the Thieves Guild in Morrowind. You can find the diamond, steal it, or buy it. The solution to the quest is the systems in place for item gathering.

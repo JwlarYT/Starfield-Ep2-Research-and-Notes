@@ -7,12 +7,12 @@ Again, this is a game built around [NG+](NG+.md), so much more could be done her
 
 Evan was right, missed opportunities describes Starfield to the T.
 
-+ ^This is true for Quest items too. A quick task for Enhance! in [New Atlantis](New%20Atlantis.md) has us finding a lost data slate for the receptionist, who in a reference to politicians losing essential information by leaving it in public places, has lost the data of all recent Enhance! patients by negligence. 
++ ^This is true for Quest items too. A quick task for Enhance! in [New_Atlantis](New_Atlantis.md) has us finding a lost data slate for the receptionist, who in a reference to politicians losing essential information by leaving it in public places, has lost the data of all recent Enhance! patients by negligence. 
 + We find the slate directly above the cosmetic surgery in a luxury cocktail bar. Said item will NOT spawn until we start the quest. Not to mention that this quest is missing a few options for Role-playing. Like holding the slate for ransom. 
 
 Oblivion even had items that would be static and could be grabbed before quests. (Great Welkynd Stone in Miscarand)
 
-[Xenofresh](Neon%20City.md) job application conveniently opens up now that it is required for the Yannick quest. It would’ve been nice to have this be its own quest that could intersect with Yannicks. When he asks about joining Xenofresh, we could then interject that we are already an employee etc.
+[Xenofresh](Neon_City.md) job application conveniently opens up now that it is required for the Yannick quest. It would’ve been nice to have this be its own quest that could intersect with Yannicks. When he asks about joining Xenofresh, we could then interject that we are already an employee etc.
 
 Trespass zones missing. (Maybe because of time constraints) no trespass zones in ship interiors, urban areas, shops and people's houses.
 	 does exist in the game but only for quests bizarrely. A case where Todd's love of systems designing the gameplay has been sidelined. 

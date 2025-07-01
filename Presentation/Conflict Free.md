@@ -3,7 +3,7 @@ While in my head, [Starfield 0](History.md) is more exciting, that opinion has f
 
 I view Morrowind as a proof of concept for a conflict-free world. Like Starfield, it presents a tension stemming from past conflicts, including the Imperial colonisation of Vvardenfell, the political tension between the houses, and, of course, the literal threat of full-scale war with Dagoth Ur. I realise that it is not the elements present that Starfield that is missing, but the utilisation of them.
 
-There is the past conflict between the [United Colonies](United%20Colonies.md) and [Freestar Collective](Freestar%20Collective.md), political tension between their governmental ideologies, and the threat of human destruction from the Terromorphs. The problem isn't that they don't exist; it's that they don't truly interact or intertwine. 
+There is the past conflict between the [United_Colonies](United_Colonies.md) and [Freestar_Collective](Freestar_Collective.md), political tension between their governmental ideologies, and the threat of human destruction from the Terromorphs. The problem isn't that they don't exist; it's that they don't truly interact or intertwine. 
 
 Look at the Terromorphs, other than the Freestar Collective helping with their eradication after you choose the Aceles option, they aren't involved. This is a human destruction level threat; they should've forced their way onto the negotiating table somehow. The idea that they would flop over and concede to the UC Technocracy authoritarian decision when that is the exact political style that sought independence from is imperceivable.
 

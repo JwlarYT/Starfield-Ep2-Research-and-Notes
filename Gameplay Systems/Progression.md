@@ -3,7 +3,7 @@ It speaks volumes that when Emil thinks of an XP levelling system, he does not l
 This was true in his first lead design game, Fallout 3, too, although less prominently. (COD is even mentioned in the [Making Of](https://www.youtube.com/watch?v=Lr5olzm9jXg) doc of that game).
 - 7:00 "People have been wanting something like that for a long time, you know, give me a game that has the gunplay of Gears of War or Call of Duty, with the depth of an open world RPG."
 
-All ties into the [Skinner Box](Skinner%20Box.md) cycle they perfected in Skyrim to keep players engaged. Hit them with [Random Encounters](Random%20Encounters.md), [Points of Interest](Points%20of%20Interest.md), [Radiant Quests](Radiant%20Quests.md), things to [kill](Advanced%20Combat.md) or a level up to keep dopamine high. Never let them become ‘bored’.
+All ties into the [Skinner_Box](Skinner_Box.md) cycle they perfected in Skyrim to keep players engaged. Hit them with [Random_Encounters](Random_Encounters.md), [Points_of_Interest](Points_of_Interest.md), [Radiant_Quests](Radiant_Quests.md), things to [kill](Advanced_Combat.md) or a level up to keep dopamine high. Never let them become ‘bored’.
 
 Lots and lots of skills to choose from, allowing for varied builds. 
 	To a point, eventually all builds merge into a mega-god, canonically too with the Starborn narrative.
@@ -15,7 +15,7 @@ Every character will eventually be the same. No hard choices need to be made whe
 
 You're also forced to buy perks you may not want to open the ones you do, forcing players all down the same path.
 
-Don’t hit me with the whole, “Oh, but Jwlar levelling up is easy if you deliberately go to an over-levelled planet, cheese the difficulty mechanic to spawn easy to kill monsters, and then farm like that!” or why don’t we just exploit the [Outpost System](Outpost%20Management.md) to achieve the same result. If a game prompts you to consider level exploits to access content more quickly, that is a problem with the game, not the player. 
+Don’t hit me with the whole, “Oh, but Jwlar levelling up is easy if you deliberately go to an over-levelled planet, cheese the difficulty mechanic to spawn easy to kill monsters, and then farm like that!” or why don’t we just exploit the [Outpost System](Outpost_Management.md) to achieve the same result. If a game prompts you to consider level exploits to access content more quickly, that is a problem with the game, not the player. 
 
 [Spending our first 12 levels on these skills](Surveying.md) is entirely inorganic, as we’re frankly better off investing in other skills that benefit the more common parts of minute-to-minute gameplay, such as the ground and space combat skills.
 + Perhaps it’s indicative of my gamified mind, but any attempt to [role-play](Role-Playing.md) as a peaceful character here was mitigated by how easy it was to grind out my stealth and ballistics skill. 
@@ -26,10 +26,10 @@ Don’t hit me with the whole, “Oh, but Jwlar levelling up is easy if you deli
 Skill challenges are very basic so far, equating to “use this type of weapon x amount of times”. Perhaps this will change as I reach tier 4 skills.
 	It does not change. Levelling skills is extremely basic, and only rewarded with incremental increases in the usefulness of the skill eg. guns are 10% better, pickpocketing has a 10% better chance to succeed etc.
 	
-Some skill challenges can be cheesed - such as boost jumping in [combat](Advanced%20Combat.md). You just need to find a low ceiling in a hostile [Points of Interest](Points%20of%20Interest.md), enter combat, and then spam the boost until the challenge is done.
+Some skill challenges can be cheesed - such as boost jumping in [combat](Advanced_Combat.md). You just need to find a low ceiling in a hostile [Points_of_Interest](Points_of_Interest.md), enter combat, and then spam the boost until the challenge is done.
 
 Other challenges aren’t well described. The fitness skill asks the player to run out of Oxygen 20 times, but emptying the Oxygen (stamina) meter doesn’t register. Instead what the player must do is fill the entire meter with CO2. This one is anti-cheese, requiring the Oxygen meter to completely fill back up before you can repeat the process and register it. Needless to say, doing this 20 times was a slog, and as artificial of an ‘achievement’ you can make. 
-	Of course it is intended for the player to achieve this organically through natural gameplay, and seeing as before the [Rev-9](Ground%20vehicles.md) update, sprinting for minutes on end was the only form of travel, this challenge likely wouldn't take too long - doesn't make that aspect of the game any less of a slog
+	Of course it is intended for the player to achieve this organically through natural gameplay, and seeing as before the [Rev-9](Ground_vehicles.md) update, sprinting for minutes on end was the only form of travel, this challenge likely wouldn't take too long - doesn't make that aspect of the game any less of a slog
 
 I am currently doing hill sprints on Earth to train this skill. On one hand, tedious, on the other, this is technically [Role-Playing](Role-Playing.md). If you wanted to increase your Fitness IRL, this is how you would do it. Harkens back to levelling Athletics and Acrobatics back in Daggerfall, Morrowind and Oblivion.
 

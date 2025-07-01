@@ -16,7 +16,7 @@ I don't think the games been unfinished in terms of it storytelling, it's been w
 Will Shen had to rewrite the story 3 times, and he clearly feels it's worse for it.
 
 To me, the thing about SF is that it seems like it’s written by old upper-class people who don’t know what struggling is like. Where it falls the absolute flattest is the “gangs” and any sort of criminal activities.
-The [Neon City](Neon%20City.md) gang quest is particularly egregious. A gang of what? 5 people led by a middle-aged guy who turned his life around by joining the corrupt police force at the end of the quest? It’s like they had my mom design that quest line.
+The [Neon_City](Neon_City.md) gang quest is particularly egregious. A gang of what? 5 people led by a middle-aged guy who turned his life around by joining the corrupt police force at the end of the quest? It’s like they had my mom design that quest line.
 
 In trying so hard not to upset any of their audience and appeal to the widest demographic possible, they crafted a generic by-the-numbers narrative that effectively alienates everyone.
 Like most fans, I play the games for the world and lore, and acknowledge that the main stories are typically not great, with the side quests usually standing out. It's the gameplay loop that keeps me coming back. If the writing sucks AND the gameplay is lame, then what's stopping people form ditching it for a game that does either of those better, and likely for a fraction of the price.
