@@ -4,12 +4,12 @@ Kill immersion. A tunnel walk in an another game (say SW: Jedi Survivor) or an e
 - that and the number of screens, like going for 2 every time you want to visit a shop irks people over time 
 - A game that is a death by one thousand cuts.
 
-Other loading sections make no sense. The massive open section of [Cydonia](Cities/Cydonia.md) could load seamlessly, but now a small entrance room of the [Nova Galactic](../Main_Quest/The_Old_Neighborhood.md) space station needs another cell? I understand that this is entering the “dungeon”, but why not have this transition as we boarded, not 6 metres after?
+Other loading sections make no sense. The massive open section of [Cydonia](../Cities/Cydonia.md) could load seamlessly, but now a small entrance room of the [Nova Galactic](../Main_Quest/The_Old_Neighborhood.md) space station needs another cell? I understand that this is entering the “dungeon”, but why not have this transition as we boarded, not 6 metres after?
 
 There's a difference between a single loading screen to leave a dungeon to go to the outer world and having to go through almost 10 loading screens to go to a different planet.
 	The game philosophy just doesn't match well with BGS's design and development practices.
 
-The entire point of a [space exploration](Exploring/Travelling.md) game is to use your ship to fly from planet to planet. If we're just skipping all of that, then just remove the ships entirely and give me a teleporter.
+The entire point of a [space exploration](../Exploring/Travelling.md) game is to use your ship to fly from planet to planet. If we're just skipping all of that, then just remove the ships entirely and give me a teleporter.
 
 Immersion and role playing are central to BGS games, so in my opinion, my two choices shouldn't be to either skip the role-playing aspect of space flight or deal with tons of loading screens. It's just bad design philosophy.
 

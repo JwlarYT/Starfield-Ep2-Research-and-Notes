@@ -24,6 +24,6 @@ When your scanner is activated, the smartwatch switches to tracking information 
 
 The player can be afflicted by a number of [Ailments](../Gameplay_Systems/Ailments.md) that require specific medications or a doctor's visit to fix. Such as hyper and hypothermia, concussions etc.
 
-The scanner will show destinations for you to walk towards (like how the compass worked in FO and TES) but some places are not on it. These are still worth [•Exploring](Exploring/•Exploring.md), and in my experience so far, they are large enough vocal points that you can not miss them. ( I found two huge abandoned Helium mining towers on the moon that netted me some nice resources ).
+The scanner will show destinations for you to walk towards (like how the compass worked in FO and TES) but some places are not on it. These are still worth [•Exploring](../Exploring/•Exploring.md), and in my experience so far, they are large enough vocal points that you can not miss them. ( I found two huge abandoned Helium mining towers on the moon that netted me some nice resources ).
 
 

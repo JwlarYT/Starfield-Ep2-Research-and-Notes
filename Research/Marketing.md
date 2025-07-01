@@ -13,7 +13,7 @@
 1:15 Themes
 "Starfield is about HOPE. Our shared humanity and searching for the answers to life's greatest mystery."
 	Life's greatest mystery is usually referred to as "Why are we here"? 
-		OMG, that was what Emil was trying to say with [NG+](../Gameplay_Systems/NG+.md) and his [Themes](Writing/Themes.md) of nihilism. That humans go from following what they know when they start the game, completing the tasks presented to them, then they learn that nothing matters, entering nihilism as with [The_Hunter](../Main_Quest/The_Hunter.md), before they either find religion like Keeper Aquilus, become steadfast in their ways and try to prevent others from suffering like with [The_Emissary](../Main_Quest/The_Emissary.md), or decide that a simple life of chosen ignorance is more blissful, like [The_Pilgrim](../Main_Quest/The_Pilgrim.md).
+		OMG, that was what Emil was trying to say with [NG+](../Gameplay_Systems/NG+.md) and his [Themes](../Writing/Themes.md) of nihilism. That humans go from following what they know when they start the game, completing the tasks presented to them, then they learn that nothing matters, entering nihilism as with [The_Hunter](../Main_Quest/The_Hunter.md), before they either find religion like Keeper Aquilus, become steadfast in their ways and try to prevent others from suffering like with [The_Emissary](../Main_Quest/The_Emissary.md), or decide that a simple life of chosen ignorance is more blissful, like [The_Pilgrim](../Main_Quest/The_Pilgrim.md).
 			Maybe I'm giving Emil too much credit here, but if this was the plan, it's decent on paper. A bit rudimentary, following a teenage level understanding of philosophy, but it's the deepest we've seen him go, and would at least give some credence to the interviews he made, stating how writing for Starfield made him introspect more than ever.
 				Still, though, it isn't the idea that is given credit, but how it is presented to the player. If it took me watching a bunch of past marketing material, interviews and overanalysing the game to come to this conclusion, you have made the access to that information far too convoluted and should not be surprised when the audience reacts accordingly.
 
@@ -25,7 +25,7 @@
 
 - Presented by Emil
 
-[History](Writing/History.md)
+[History](../Writing/History.md)
 0:17 "Set in the year 2330, in a relatively small pocket of the Milky Way, in an area that extends outward from our solar system for approximately 50 light years."
 
 0:38 "Today, the major factions enjoy an uneasy peace, but the Settled Systems are still pretty dangerous."

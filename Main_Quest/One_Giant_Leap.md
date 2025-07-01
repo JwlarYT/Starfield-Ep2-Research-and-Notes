@@ -2,7 +2,7 @@ The final “slideshow” of seeing your effects on the universe was disappointi
 
 Only the largest quest chains and factions will be visible. I did quite a few more minor quests, but I got nothing from them. I’d have liked some more F: NV style ones for a “neutral” ending of them, where the player didn’t intervene. What happens if the player never joins [Vanguard](../Faction_Quests/UC_Vanguard/•UC%20Vanguard%20Mission%20List.md)? 
 They may have been worried about spoiling those questlines for people who rushed the MQ, but if they were willing to do that, then I would see this as more of a perfect way to tease quest lines to players for missing them. 
-Like a little VO speaking about how Terromorphs overran [New_Atlantis](Cities/New_Atlantis.md) would have been great to wet their appetites and make them think: "Damn! I’ve gotta check out that faction in the next universe, that sounds sick!"
+Like a little VO speaking about how Terromorphs overran [New_Atlantis](../Cities/New_Atlantis.md) would have been great to wet their appetites and make them think: "Damn! I’ve gotta check out that faction in the next universe, that sounds sick!"
 
 Instead, I was left with the two interactions related to the MQ. The companions could have done with much more closure, in my opinion, even if the player didn’t complete their quests. Again, like in FNV.
 

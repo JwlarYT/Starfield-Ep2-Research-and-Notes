@@ -1,4 +1,4 @@
-[Reliance_on_Mods](Development/Reliance_on_Mods.md) 
+[Reliance_on_Mods](../Development/Reliance_on_Mods.md) 
 
 Scummy tactics by modders to force people to pay for their free mod if they want it to be achievement-friendly. Scalping console users.
 

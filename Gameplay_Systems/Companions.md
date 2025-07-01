@@ -5,7 +5,7 @@ Companions not looking at the NPCs they’re talking to is unnerving. Sarah was 
 
 So far all of the ones you can romance appear to be bi, which is nice for those who want to romance everyone, but I think for realisms sake it would’ve been better to again follow NV and have some that were bi, straight and gay. So some characters didn’t have a chance. (Even though you couldn’t romance them in NV, I just mean from the perspective of not all of them just existing to bend to the player whim and goals).
 
-“Minor” companions are still fairly developed, like Lin and Heller. Both are written to encourage players to check out [New_Homestead](Cities/New_Homestead.md) on Titan. 
+“Minor” companions are still fairly developed, like Lin and Heller. Both are written to encourage players to check out [New_Homestead](../Cities/New_Homestead.md) on Titan. 
 + (Need to check if the families they mention are there, and if they react to them as companions)
 
 Companions gather resources and clog Activities list.

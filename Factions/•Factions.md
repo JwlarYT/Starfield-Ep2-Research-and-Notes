@@ -1,18 +1,18 @@
-#### [United_Colonies](Factions/United_Colonies.md)
+#### [United_Colonies](United_Colonies.md)
 
-#### [Freestar_Collective](Factions/Freestar_Collective.md)
-[Freestar_Collective](Factions/Freestar_Collective.md) parallels America. It started as a colony for the [United_Colonies](Factions/United_Colonies.md) (British Empire), and then when the UC imposed too much onto the FC, they fought for their independence across two wars.
-#### [Ecliptic](Factions/Ecliptic.md)
+#### [Freestar_Collective](Freestar_Collective.md)
+[Freestar_Collective](Freestar_Collective.md) parallels America. It started as a colony for the [United_Colonies](United_Colonies.md) (British Empire), and then when the UC imposed too much onto the FC, they fought for their independence across two wars.
+#### [Ecliptic](Ecliptic.md)
 
-#### [MAST](Factions/MAST.md)
+#### [MAST](MAST.md)
 
-#### [Varuun](Factions/Varuun.md)
+#### [Varuun](Varuun.md)
 
-#### [Crimson_Fleet](Factions/Crimson_Fleet.md)
+#### [Crimson_Fleet](Crimson_Fleet.md)
 
 
 ---
-Factions aren't well enforced to the point where people are so unaware of them.[Inhibited_by_weak_gameplay](Exploring/Inhibited_by_weak_gameplay.md)
+Factions aren't well enforced to the point where people are so unaware of them.[Inhibited_by_weak_gameplay](../Exploring/Inhibited_by_weak_gameplay.md)
 I would start by marking the boundaries of the regions of the settled systems in the map. Follow that up with different regulatory rules around stolen / illegal goods - basically expanding the Kryx / Den selling behaviour further. Probably start tailoring the random encounters in each region to reflect a story and then go from there.
 
 These will make the underlying differences and conflict become a lot more visible.

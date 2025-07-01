@@ -14,9 +14,9 @@ Memorable moments like meeting the Daedric Dog in Skyrim replaced with someone a
 The modern equivalent of Caius telling the player to go join a faction to get some money, without the natural narrative breakpoint to do so.
 Story is designed around the player getting bored and going off to do something else, BGS have given up with urgency. For good reason.
 
-[•Factions](Factions/•Factions.md)
+[•Factions](../Factions/•Factions.md)
 3:00 "We discussed early on, do we make some of the factions in conflict with each other? And we decided we really want to make sure that you can play all of the faction lines independently of each other."
-	Was the [colony war](Writing/History.md) part of the faction questlines at an early point perhaps
+	Was the [colony war](../Writing/History.md) part of the faction questlines at an early point perhaps
 
 ---
 ###### [Designer On Skyrim, Fallout 4, 76 & Starfield](Designer%20On%20Skyrim,%20Fallout%204,%2076%20&%20Starfield)](https://www.youtube.com/watch?v=PCYpt9Zg7cM&list=PLM_F6ru-Us2x81nVrr7NIWlvvpf5X4KwJ&index=65|#181 -%20Will%20Shen%20Interview%20(Designer%20On%20Skyrim,%20Fallout%204,%2076%20&%20Starfield))
@@ -26,7 +26,7 @@ Story is designed around the player getting bored and going off to do something 
 
 8:25 Chain of command. Will reports to Emil, Emil reports to Todd. 
 
-[Poor_Planning](Development/Poor_Planning.md)
+[Poor_Planning](../Development/Poor_Planning.md)
 9:30 Emil had it out for Will in Skyrim, telling him that Taste of Death was the worst quest in the game and that he had to 'level up'.
 Emil said this in front of the entire team during a design meeting, calling out everything he had designed. Terrible leadership and toxic management style.
 It did at least push Will to improve, so in hindsight, he feels that it was a helpful lesson to re-do all of his content and increase the quality across the board, eventually asking him to design the opening. Big turnaround.
@@ -38,7 +38,7 @@ SHEN: "Yeah, we were in a design meeting and he said that in front of the entire
 
 11:55 Created opening for Fallout 4, 76 and Starfield. People praise Will up and down due to Far Harbour, but clearly he isn't that great.
 
-[Poor_Planning](Development/Poor_Planning.md)
+[Poor_Planning](../Development/Poor_Planning.md)
 14:50 What's it like having to manage people at BGS?
 "I think the big thing that confounds everyone, including me, but when you step into leadership, you actually don't have control over anything. You think you do, you think the job is supposed to be about that, but it's not. Creative people, especially, are impossible to control; they are going to create whatever they want."
 "The important thing is to make sure that everyone is aware of what the goals are, so that they can drive toward it in their own way."
@@ -46,29 +46,29 @@ SHEN: "Yeah, we were in a design meeting and he said that in front of the entire
 		My question however, is how clearly were these goals defined for the quest designers on Starfield. The less guidance, the more freedom, but speaking from experience, the less guidance, the more time is wasted on efforts that may not work in finality. They may not fit the tone or theme of the location, or hit the expected complexity. It all comes back to poor planning, and Patrician's theory of no design document, or to consider Emil's come-backs, and precise design documents that evolved past their initial iterations. If the goal was to design 6 quests for New Atlantis, you end up with quality all over the place, and a multi-stage quest about trees that threatens to collapse the city into a crater, to a girl requesting a coffee run or a man who lost confidential information in the bar directly above him. There needs to be clearer goals set.
 			Those quests though, are probably due to the theme that humans are still humans. They haven't changed much, so simply quest like those fit the goals set by management. And as fans claim, those themes are too mature for gamers, and that's partly true, in that most don't want to waste their recreation time experiencing a world barely displaced from our own. This isn't Second Life, people wanted a sci-fi experience.
 
-20:30 How [Culture](Writing/Culture.md) would have progressed in 200 hundred wasn't discussed.
+20:30 How [Culture](../Writing/Culture.md) would have progressed in 200 hundred wasn't discussed.
 "That was something we discussed early on - what happened to Earth. How do we represent all these different cultures, and one of the things we landed on was let's make sure that there's a variety of accents that are representative of at least one of each of the continents, as much as possible."
 	The irony here is clear, the representation in races is obvious for this lore reason, but for accents, it makes little sense. Shen has an American accent, the longest his ancestors could have realistically been in America directly aligns with the number of years it has been since Earth fell in Starfield's universe. Ill-advised lore reasoning.
 
-24:10 [•Development](Development/•Development.md) How BGS has changed with the amount of [Outsourcing](Development/Outsourcing.md) and huge growth?
+24:10 [•Development](../Development/•Development.md) How BGS has changed with the amount of [Outsourcing](../Development/Outsourcing.md) and huge growth?
 "It goes back to around Fallout 76. That was when we started to create sister location studios. And so hitting that scale point was a huge change. In retrospect, a lot of very identifiable management patterns with scaling hit Bethesda at that time and continued until the release of Starfield."
 	Confirms that Bethesda grew too big, too fast, and didn't know how to effectively manage these larger teams.
 
-[•Development](Development/•Development.md)
-28:00 The [Dunbar's_Number](Development/Dunbar's_Number.md) limits how many people anyone can know; the military uses the rule of seven, where they have found that managing people beyond seven brings difficulties. But you can't hire a middle manager for every seven people. These natural human limitations caused by problems of scale have answers outside of the games industry. There's a wealth of information and theory crafting out there on how to deal with size ever since Management became its own field.
+[•Development](../Development/•Development.md)
+28:00 The [Dunbar's_Number](../Development/Dunbar's_Number.md) limits how many people anyone can know; the military uses the rule of seven, where they have found that managing people beyond seven brings difficulties. But you can't hire a middle manager for every seven people. These natural human limitations caused by problems of scale have answers outside of the games industry. There's a wealth of information and theory crafting out there on how to deal with size ever since Management became its own field.
 
-[•Development](Development/•Development.md)
+[•Development](../Development/•Development.md)
 28:28 "At the time, it just feels like things aren't working as well as they used to. What we were doing before isn't working anymore. Something's wrong, we don't really know what, and we can't really agree on what. So we're just going to navigate the seas as best we can into the unknown together, and hopefully it'll work out." -laughs-
 	Bad practices learnt as far back as Morrowind didn't scale, and they didn't understand why working in a free-flow method was no longer attaining what they had before.
 
-[•Development](Development/•Development.md)
+[•Development](../Development/•Development.md)
 31:40 "On the strategic level, we weren't aware of what were the big trends that were hitting us as an organisation, and how do we manage that."
 	Deep in the trenches on Starfield, they knew something was wrong, but didn't have the time to employ the management and human resource tactics required. So they continued blindly and hoped for the best.
 
-[•Development](Development/•Development.md)
+[•Development](../Development/•Development.md)
 37:33 "The old saying is true, more money more problems."
 
-[•Exploring](Exploring/•Exploring.md)
+[•Exploring](../Exploring/•Exploring.md)
  Bethesda are very open to experimenting, even with the risk
  50:30 "I was always really surprised and delighted about how willing Bethesda was in experimenting with their formula, even though it was risky."
  "Let's try to take procedural content all the way to thousands of planets. I was really on board with those experiments; you could argue about whether experiments were successful, but the willingness to try different things I thought was really important for the studio's health."
@@ -78,10 +78,10 @@ SHEN: "Yeah, we were in a design meeting and he said that in front of the entire
 
 53:10 Will agrees with Todd, that past the decision to hand make a planet or proc gen them, the number of planets that are proc gen'd doesn't matter.
 
-[•Exploring](Exploring/•Exploring.md)
+[•Exploring](../Exploring/•Exploring.md)
 53:20 Play testing data showed that most people explored a dozen to two dozen planets in a playthrough, and based on that data, it may have been better to limit themselves to that number and focus on tuning the dynamism and variety on those planets. As well as content density.
 
-#CreationEngine [•Exploring](Exploring/•Exploring.md)
+#CreationEngine [•Exploring](../Exploring/•Exploring.md)
 53:40 Admits that technical limitations around content streaming and loading bearings constrained the planet game design due to the engine only being able to load in a single large cell at any one time.
 
 57:10 Bethesda do have internal wikis to refer to for lore. Will helped make one for The Elder Scrolls during Skyrim's development. It's entirely possible that one existed for Starfield as well, however, how often it was updated, or how detailed it was, dictated how useful it was. (And if the problems aren't just down to choice of tone/theme.)
@@ -90,7 +90,7 @@ SHEN: "Yeah, we were in a design meeting and he said that in front of the entire
 58:59 How do you balance the main quest and side quests?
 "Depends on how much scrutiny you're under. When you're doing the main quest, everyone's got an opinion on it because it's the story that is going to be judged alongside the rest of the game. It's effectively a feature at that point. So everyone from all the way up to all the way down the organisation has some opinion, so you're serving a lot of masters there."
 
-[Quality_Assurance](Development/Quality_Assurance.md)
+[Quality_Assurance](../Development/Quality_Assurance.md)
 Lead of Quest Design admits that some quests were not tested!
 59:30 "On a side quest off in a corner, you might be the only person who plays that before the game ships, because these games are so big."
 	The team had grown so large that low-quality content was falling through the cracks, content that limits the rating for the side content on a whole.
@@ -103,12 +103,12 @@ Why [Story](../Main_Quest/Story.md) may be bad.
 1:00:40 [Side_Quests](../Side_Quests/Side_Quests.md) Goal was to make as many quests as possible, literal quantity over quality.
 "How do you decide how many side quests?"
 "As many as you can make!"
-Goes back to [Todd](Research/Todd_Howard_Interviews.md) saying how they see those posts of people playing for a bajillion hours and seeing something new. By aiming for that, they watered down the content.
+Goes back to [Todd](Todd_Howard_Interviews.md) saying how they see those posts of people playing for a bajillion hours and seeing something new. By aiming for that, they watered down the content.
 "How long did it take us to make quests last time. Let's take that number and extrapolate based on our deadline and see how many we can cram in there."
-[Cut_Content](Development/Cut_Content.md)
+[Cut_Content](../Development/Cut_Content.md)
 "We want to make as many as possible, how many can we fit? By the end, it's just like how many can we ship at the quality that we want, and then everything else we have to jettison."
 
-[Poor_Planning](Development/Poor_Planning.md)
+[Poor_Planning](../Development/Poor_Planning.md)
 1:02:20 Bethesda's production timeline.
 - **Discovery**, where they don't know what they're going to make and will test many prototypes to narrow it down
 - **Pre-Production**, they know what they want to make, and know need to work out how to (tech development time)
@@ -121,7 +121,7 @@ Goes back to [Todd](Research/Todd_Howard_Interviews.md) saying how they see thos
 
 1:04:06 "You can definitely end up with features or content that are pre-alpha in your beta. Or in discovery in your alpha, or all this kind of stuff."
 
-1:04:17 [Poor_Planning](Development/Poor_Planning.md)
+1:04:17 [Poor_Planning](../Development/Poor_Planning.md)
 "This is where production timelines end up being kind of a lie. They're not really a lie, they're an estimate."
 
 1:04:23 All falling apart at the last hurdle:
@@ -135,12 +135,12 @@ GDC, 19 Jul 2024
 
 [Side_Quests](../Side_Quests/Side_Quests.md)
 2:35 Ouest design covers:
-[Dialogue](Writing/Dialogue.md), text, voice over, quest scripting, AI Behaviour, Systems Design
+[Dialogue](../Writing/Dialogue.md), text, voice over, quest scripting, AI Behaviour, Systems Design
 "Quest design handles dialogue and text, what a lot of places call narrative design"
 
 3:30 Before Starfield, [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) design was under the quest design department, and only broke off for Starfield. Specialist quest designers would handle the systems design.
 
-[Level_Design](Exploring/Level_Design.md)
+[Level_Design](../Exploring/Level_Design.md)
 3:50 Level design covers locations, creation kit logic, AI behaviour, combat encounters, environmental storytelling, gameplay scripting.
 
 4:10 Work closely with World Designer's when working on settlements and coming up with the systems to implement into the Creation Kit.
@@ -154,18 +154,18 @@ Level design is in charge of location, combat NPCs, and layout decisions.
 Quest design covers narrative, non-combat NPCs and story decisions.
 9:30 They are writing and designing the game together.
 
-[Points_of_Interest](Exploring/Points_of_Interest.md)
+[Points_of_Interest](../Exploring/Points_of_Interest.md)
 11:00 Level designer create they're own level based quests sometimes too. An example of this in Starfield would be the Alien reference, or many of the Starstations or abandoned ships. One step above basic environmental storytelling, but below full blown quest.
 12:00 Some times quest designers will stumble upon these and offer to add a NPC to help guide the player and make it more of proper quest.
 
-[Level_Design](Exploring/Level_Design.md)
+[Level_Design](../Exploring/Level_Design.md)
 14:00 Many levels designers will learnt he questing tools so that they are more familiar with them to help with the collaboration as the shared language deepens.
 	Similar to designers learning basic web dev tools to help the collaboration there.
 21:00 Learning a shared language helps to improve the efficiency in which the two collaborators can develop their content.
 
 16:28 Text box pop ups like in [Short_Sighted](../Main_Quest/Short_Sighted.md) used for USS Constitution in Fallout 4. I wonder if they were the level designer's idea in Starfield. Added more RP options in that FO4 quest though with perks, as recommended by the Quest Designer working on it.
 
-[Consequences](Writing/Consequences.md) / [Role-Playing](../Gameplay_Systems/Role-Playing.md)
+[Consequences](../Writing/Consequences.md) / [Role-Playing](../Gameplay_Systems/Role-Playing.md)
 For Far Harbour
 21:50 "One of the major points of feedback we got from the press as well as our audience was that they wanted more choice and consequences. A lot of that crunchy RPG story stuff."
 Exactly, Will, so what the hell happened to that in Starfield?
@@ -183,7 +183,7 @@ Exactly, Will, so what the hell happened to that in Starfield?
 
 28:10 Learnt that level designers led quests needed more production time from quest designers to achieve adequate scope and quality.
 
-[Poor_Planning](Development/Poor_Planning.md)
+[Poor_Planning](../Development/Poor_Planning.md)
 28:37 Lead Level Designer Daryl Brigner also brings up that issues starting to arise from scaling up internally and externally with Fallout 76,
 
 29:22 Level design and world art could still work fast with the larger team.
@@ -199,14 +199,14 @@ These companies also did not stay on the project, some came on near the beginnin
 37:40 Creative freedom was destroyed. 
 "Asking for something as simple as a chair was so simple. Do you need animations for it, doe you need sound effects for it. How much does it add to the schedule. Can it not fit because one of those teams does not have the time."
 
-[Poor_Planning](Development/Poor_Planning.md)
+[Poor_Planning](../Development/Poor_Planning.md)
 38:22 The team became sectioned. "Departments over project". Team leaders would butt heads to defend their team, saying no to being overworked and all being silo'd and scrambling for resources. The end goal was lost in the noise. Teams started saying no to collaboration requests as they did not have time for it.
 
-[Poor_Planning](Development/Poor_Planning.md)
+[Poor_Planning](../Development/Poor_Planning.md)
 40:12 Previous training methods had new devs sit with team members, watch them work, ask questions and learn through osmosis. As the team was now growing rapidly and time was limited, questions went from in-person to over slack, and to stop the time-waste of answering the same question over and over. Team leaders would spend time creating internal video tutorials on specific tools. This meant that the most important members of any department, the ones needed to test and approve any work, were spent inundated with over tasks. Created bottlenecks.
 
 41:35 "So what does level design and quest design collaboration look like in this environment? Game developers hate bureaucracy, we now have a ton of bureaucracy, so can you continue to make memorable moments at this kind of scale with this kind of over head?"
-[Betteridge's_law_of_headlines](Research/Betteridge's_law_of_headlines.md)
+[Betteridge's_law_of_headlines](Betteridge's_law_of_headlines.md)
 
 [Story](../Main_Quest/Story.md)
 42:12 Will had to write and implement the main quest three times. And it was only after that third time that it was in a state where the entire quest could be playthrough and thoroughly tested.
@@ -217,7 +217,7 @@ This collaboration worked like the times of old as it broke the bureaucracy thro
 
 56:00 The smaller teams of Skyrim and Fallout 4 meant that level designers and quest designers collaborated more often on more quests, and weren't forced, for example, to fit their quest into someone elses spaces with little say on the design of that space (which is how many of the city quests in Starfield feel).
 
-[Writing](Writing/Writing.md)
+[Writing](../Writing/Writing.md)
 58:40 Why does BGS have the Quest department handle narrative AND quest scripting?
 Tradition. This philosophy started back in Morrowind, when it was a necessity. Where a much smaller team had to wear many more hats. Quest design also handled system's design up until Starfield. Level Design as it's own independent department separate from World Art was only formalised for Fallout 3. The specialisation occurred over time, and we've reached a point where it would be wise to separate Quest Narrative/writing from Quest Design (as long as collaboration between the two was maintained).
 
@@ -245,7 +245,7 @@ Purkeypile thinks "you would basically get in trouble for doing that," in modern
 23 Oct 2023. MinnMax
 
 ---
-[171 - Bruce Nesmith Interview (Designer On Skyrim, Fallout 3, Fallout 4 & Starfield)](Designer%20On%20Skyrim,%20Fallout%203,%20Fallout%204%20&%20Starfield)))Kiwi Talks, 18 Aug 2024
+[171 - Bruce Nesmith Interview (Designer On Skyrim, Fallout 3, Fallout 4 & Starfield)](Designer%20On%20Skyrim,%20Fallout%203,%20Fallout%204%20&%20Starfield))))Kiwi Talks, 18 Aug 2024
 
 
 

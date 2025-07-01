@@ -6,4 +6,4 @@ You can choose one of the [Starborn](Starborn.md) as your ally, or fight them bo
 
 A non-zero per cent of these will be versions of our crew that went with us as well.
 
-The universe jumps to seeing myself dead in Vlad’s arms [glitched](Development/Bugs.md) out like crazy. It’s always a shame when Bethesda’s poor [Quality_Assurance](Development/Quality_Assurance.md) harms what should be an emotional moment like this.
+The universe jumps to seeing myself dead in Vlad’s arms [glitched](../Development/Bugs.md) out like crazy. It’s always a shame when Bethesda’s poor [Quality_Assurance](../Development/Quality_Assurance.md) harms what should be an emotional moment like this.

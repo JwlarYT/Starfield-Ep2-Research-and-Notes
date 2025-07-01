@@ -1,4 +1,4 @@
 
 [Tapping the Grid](../Side_Quests/Side_Quests.md) - Louisa Reyez is able to communicate with us wirelessly. It’s a shame this isn’t used more often for other quests. Why must we turn in a quest physically when we could just tell them we have done their task through the communicator and they could wire us the credits as a reward. Then the game was be closer to other space sims at least, and not require the player to travel so far or through so many instances/loading screens.
 
-There is an in-game [Reason](Research/Traveller_TTRPG.md)] for this not working across Star Systems, but none exists for why we ourselves cannot use this local communication, past the system not being built or [planned](Development/Poor_Planning.md) for.
+There is an in-game [Reason](../Research/Traveller_TTRPG.md)] for this not working across Star Systems, but none exists for why we ourselves cannot use this local communication, past the system not being built or [planned](../Development/Poor_Planning.md) for.

@@ -6,9 +6,9 @@ Emil Pagliarulo:
 "What you’re looking at here is the city of New Atlantis. the capital city of the United Colonies, or U.C., is the most powerful, established military and political faction in the game. The city is a true melting pot and its residents come from every race, creed, and ethnicity. In a lot of ways, New Atlantis is a true reflection of the future of our world.
 
 ---
-The underbelly of New Atlantis, “[The_Well](Cities/The_Well.md)” is far more interesting than the overworld. Better to explore and more enticing due to its seediness vs. the overall clean corporate aesthetic of the richer areas.
+The underbelly of New Atlantis, “[The_Well](The_Well.md)” is far more interesting than the overworld. Better to explore and more enticing due to its seediness vs. the overall clean corporate aesthetic of the richer areas.
 
-Some merchants and businesses in New Atlantis feel… [rushed](Development/Poor_Planning.md). A golden art deco store that apparently sells the ‘best guns and gear in the solar system’ only had a crappy pistol in stock. And it is impossible to rob the store also. No inventory is held there, and there is no way to access a back room (the door doesn’t even exist).
+Some merchants and businesses in New Atlantis feel… [rushed](../Development/Poor_Planning.md). A golden art deco store that apparently sells the ‘best guns and gear in the solar system’ only had a crappy pistol in stock. And it is impossible to rob the store also. No inventory is held there, and there is no way to access a back room (the door doesn’t even exist).
 
 Compare to Skyrim, where a smith will have gear hanging on the walls, on his table, and in a chest. The building in Starfield has none of that, just a grand yet empty room with a single employee. 
 
@@ -22,12 +22,12 @@ Why do only a few businesses have a sense of being “real” ? I’m not asking
 
 As it is, we have to believe that the ‘best’ Spacesuit store in the city has a single employee who pulls all the stock out of his ass. He's also never been to space, so perhaps this explains how terrible this store is, despite the couple outside explaiign how trendy and cool the outfits are.
 
-[New_Atlantis](Cities/New_Atlantis.md) feels rushed because of this lack of attention to detail. 
+[New_Atlantis](.md) feels rushed because of this lack of attention to detail. 
 
 It is fleshed out and believable worlds that are a trademark of Bethesda games, and it is a shame to see it really lacking here.
 	Playing a scoundrel and a thief feels very empty because of this, the opportunities to steal from shops is greatly diminished.
 
-Oddly, some areas are not like this. The [The_Well](Cities/The_Well.md) has all the expected ‘back rooms’ you would hope to find locked behind a store front. This once again makes me wonder if the game is [rushed](rushed) - some areas appear to have had a lot more time in development than others.
+Oddly, some areas are not like this. The [The_Well](The_Well.md) has all the expected ‘back rooms’ you would hope to find locked behind a store front. This once again makes me wonder if the game is [rushed](rushed) - some areas appear to have had a lot more time in development than others.
 
 ##### ^related to these points:
 
@@ -62,6 +62,6 @@ Maybe it’s underground rivers, but they usually have signs of their existence 
 
 Where does the water at the bottom of the damn go too? Within a few weeks of use, the reservoir at the top will have run dry, and the runoff at the bottom will have overflowed and escaped. Perhaps it’s a self-sustaining loop, where water is piped from the bottom to the top, but where are these pipes? 
 
-They COULD be these obscure ones in [The_Well](Cities/The_Well.md), but we never see where they go on the surface. It’s hit and miss. [AnyAustin](Cities/Gargarin.md) has an excellent video detailing how well developed the pipelines are in Gagarin, but then you go to the capital of that exact Star System, and it has a magical, endless power source. 
+They COULD be these obscure ones in [The_Well](The_Well.md), but we never see where they go on the surface. It’s hit and miss. [AnyAustin](Gargarin.md) has an excellent video detailing how well developed the pipelines are in Gagarin, but then you go to the capital of that exact Star System, and it has a magical, endless power source. 
 
-The Transit system also must either have an inter-rail elevator system or go up in a large spiral. Seeing as Sarah mentioned how they feel ill on the train, I have to lean on the latter. This isn’t impossible, and I guess a necessity if the [United_Colonies](Factions/United_Colonies.md) deemed it a requirement for such a transport system to exist for a town of a few thousand citizens that stretches barely a mile square. I suppose, as always, we must take the settlement sizes in modern BGS with a grain of salt.
+The Transit system also must either have an inter-rail elevator system or go up in a large spiral. Seeing as Sarah mentioned how they feel ill on the train, I have to lean on the latter. This isn’t impossible, and I guess a necessity if the [United_Colonies](../Factions/United_Colonies.md) deemed it a requirement for such a transport system to exist for a town of a few thousand citizens that stretches barely a mile square. I suppose, as always, we must take the settlement sizes in modern BGS with a grain of salt.

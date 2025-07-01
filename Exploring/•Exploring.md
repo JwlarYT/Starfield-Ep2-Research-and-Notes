@@ -1,23 +1,23 @@
-#### [Level_Design](Exploring/Level_Design.md)
+#### [Level_Design](Level_Design.md)
 
-#### [Points_of_Interest](Exploring/Points_of_Interest.md)
+#### [Points_of_Interest](Points_of_Interest.md)
 
-#### [Procedural_Generation](Exploring/Procedural_Generation.md)
+#### [Procedural_Generation](Procedural_Generation.md)
 
-#### [Random_Encounters](Exploring/Random_Encounters.md)
+#### [Random_Encounters](Random_Encounters.md)
 
-#### [Travelling](Exploring/Travelling.md)
+#### [Travelling](Travelling.md)
 
-#### [Sandbox](Exploring/Sandbox.md)
+#### [Sandbox](Sandbox.md)
 
 
 ---
-I’m completely sucked into the world, and don’t care if I'm wasting an hour bouncing from caves to outposts; it is both relaxing and pleasantly enjoyable in a [“find thing, give dopamine”](Exploring/Skinner_Box.md) kinda way. It isn’t thrilling, but I don’t want to be thrilled 24/7, I’m happy for these relaxing walks - it’s what Bethesda are known for, and one of the reason’s Skyrim is still adored by many to this day imo. Not the mechanics, but the world, and how it meshes with its soundtrack to create an ambience only found in this form of interactive media.
+I’m completely sucked into the world, and don’t care if I'm wasting an hour bouncing from caves to outposts; it is both relaxing and pleasantly enjoyable in a [“find thing, give dopamine”](Skinner_Box.md) kinda way. It isn’t thrilling, but I don’t want to be thrilled 24/7, I’m happy for these relaxing walks - it’s what Bethesda are known for, and one of the reason’s Skyrim is still adored by many to this day imo. Not the mechanics, but the world, and how it meshes with its soundtrack to create an ambience only found in this form of interactive media.
 	^ This feeling was temporary. The first few times, amazing. By the fifth time, we’re just repeating the same steps. The atmosphere is still great, but I’m still running around scanning rocks and walking into caves or the odd pirate filled outpost. This form of exploration is a big downgrade from the handmade worlds of Morrowind onwards. It has lost its allure only 20 hours into the game.
 
 Going to location a few KM away in NMS has the player taking a small flight, in Starfield it's a 5 minute jog or pulling out the 300 year old [Mars Rover](../New_Updates/Ground_vehicles.md) tech.
 
-Wandering a planet gets you the same frozen scientific base every time, right down to the names of people in the computers. The same scientists are apparently on multiple [Planets](Presentation/Planets.md), having the same exact experiences, which we then arrive to read about after they're gone/dead. It's weird, like some temporal/spatial loop is happening in the universe or something - except it's actually just lazy copy/paste work.
+Wandering a planet gets you the same frozen scientific base every time, right down to the names of people in the computers. The same scientists are apparently on multiple [Planets](../Presentation/Planets.md), having the same exact experiences, which we then arrive to read about after they're gone/dead. It's weird, like some temporal/spatial loop is happening in the universe or something - except it's actually just lazy copy/paste work.
 
 Was a problem from concept. A galaxy that has mostly been explored as a means of exploring its resources losing the cultural and historical mystery of exploring in TES and FO.
 
@@ -28,7 +28,7 @@ Players can remember which dungeons they’ve already cleared and where they sit
 
 Starfield gives me a window into how a cat or dog might feel if they REALIZED they were being fed the same exact thing day in and day out. Yeah, maybe it does genuinely taste good, but at some point you take a step back and go "isn't this what I ate yesterday?" and suddenly it's bland and tasteless by pure repetition.
 
-What makes exploring interesting is finding the unknown. After a few go-arounds interacting with Starfield's exploration loop, the player is left with the feeling that there is no unknown left. They know the game's tricks, and what to expect, and are instead left scanning [Points_of_Interest](Exploring/Points_of_Interest.md) and comparing them to their mental notebook to check if they've experienced that one before. Completely inorganic. In previous titles, you knew if a dungeon was new because you hadn't been to that part of the map before.
+What makes exploring interesting is finding the unknown. After a few go-arounds interacting with Starfield's exploration loop, the player is left with the feeling that there is no unknown left. They know the game's tricks, and what to expect, and are instead left scanning [Points_of_Interest](Points_of_Interest.md) and comparing them to their mental notebook to check if they've experienced that one before. Completely inorganic. In previous titles, you knew if a dungeon was new because you hadn't been to that part of the map before.
 
 ---
 #### How exploration is meant to go
@@ -42,9 +42,9 @@ On paper, this journey isn’t too different from previous games. You start runn
 Skyrim’s compass isn’t as diegetic as Fallout’s affair, but it’s far less intrusive than a massive screen panning [Star-System_Map](../Gameplay_Systems/Star-System_Map.md). 
 
 Navigating the world this way is entirely non-immersive to me. Having the player need to visit the map from a console in their ship (like in KOTOR or Mass Effect) would have been just enough to help tie it together, in my opinion. You can then still have it accessible from the menu for QoL, but at least it’s tied to the world.
-	This Star Map module even exists in-game, but we inexplicably cannot interact with it - again, a [mod](Development/Reliance_on_Mods.md) fixed this within a month.
+	This Star Map module even exists in-game, but we inexplicably cannot interact with it - again, a [mod](../Development/Reliance_on_Mods.md) fixed this within a month.
 
-I found an abandoned vessel on the way to [Akila_City](Cities/Akila_City.md) using this intended method, which led to some humorous in-world storytelling of the galaxy's worst pirates and their quick failure. From a gameplay standpoint, it was just an empty ship with loot, but this is the kind of stuff the game needs more of. The problem lies in how this is discovered by the player, not by exploring and stumbling across it, but by clicking the big icon on the map. It simply doesn’t feel like a genuine discovery in the same way previous titles did.
+I found an abandoned vessel on the way to [Akila_City](../Cities/Akila_City.md) using this intended method, which led to some humorous in-world storytelling of the galaxy's worst pirates and their quick failure. From a gameplay standpoint, it was just an empty ship with loot, but this is the kind of stuff the game needs more of. The problem lies in how this is discovered by the player, not by exploring and stumbling across it, but by clicking the big icon on the map. It simply doesn’t feel like a genuine discovery in the same way previous titles did.
 
 [Sam Coe](../Gameplay_Systems/Companions.md) succinctly explains why exploring should be enthralling (during his Q&A and Backstory). 
 'Landing on many inhabitants is uneventful (accurate), but it’s when you find something no one has seen before that makes it feel so powerful.'

@@ -24,5 +24,5 @@ Final options are kill target, persuade target (failure forces kill), or use lor
 Lore items found along the quest can also be used to persuade the target to come quietly. This is level of quest design missing from Starfield, and it’s a damn shame that it’s only in paid DLC that we can see something like this.
 Would’ve liked to see some Sarah dialogue to help here, seeing as they are both ware veterans, but again the chances of the VA coming back for a short dlc quest is small. Not the quest designers fault. 
 
-How much of this can be attributed to [Poor_Planning](Development/Poor_Planning.md)? The poor quest design in the base game, I mean. How much can be blamed on the designers having to work within an alpha build of the game, and not creating their quests on paper? (As per Emil)
+How much of this can be attributed to [Poor_Planning](../Development/Poor_Planning.md)? The poor quest design in the base game, I mean. How much can be blamed on the designers having to work within an alpha build of the game, and not creating their quests on paper? (As per Emil)
 This quest, built atop the final game, has us exploring 4 planets, a chance to ambush elsewhere with a satisfying twist to show the target as a threat, and the use of lore from elsewhere in the game (Xenoweapons) as a means of persuading him through items found in-game.

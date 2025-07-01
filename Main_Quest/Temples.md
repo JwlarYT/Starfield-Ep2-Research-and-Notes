@@ -4,9 +4,9 @@ At least later Temple Grinding is optional, with the game acknowledging this by 
 	^They sit in their ships in orbit first and then come down after the temple has been activated. They are following [The_Emissary](The_Emissary.md) in gatekeeping [Starborn](Starborn.md). A noble yet boring pursuit. They aren't very good at it either seeing as how easily myself and [The_Hunter](The_Hunter.md) can deal with them.
 
 Needing to go back to Vlad every time to find a new temple is antithetical to this “speedrun” mode. Just let him put them all on our map like with the artefacts.
-Alternatively, you can find the temples by [Travelling](Exploring/Travelling.md) to a star system and hoping that a temple is there. If it is, the quest to find it will start automatically.
+Alternatively, you can find the temples by [Travelling](../Exploring/Travelling.md) to a star system and hoping that a temple is there. If it is, the quest to find it will start automatically.
 
-Temples must be such an open secret; it’s a miracle [Constellation](Constellation.md) didn’t know about them. They can often be found just over a KM from human civilization. [The_Pilgrim](The_Pilgrim.md) even used to build a tribal [Religion](Writing/Religion.md).
+Temples must be such an open secret; it’s a miracle [Constellation](Constellation.md) didn’t know about them. They can often be found just over a KM from human civilization. [The_Pilgrim](The_Pilgrim.md) even used to build a tribal [Religion](../Writing/Religion.md).
 
 Temples work like the monks giving you the location of Word Wall, but not really. Word Walls could still be found organically, and the monks would simply point the player in a direction to explore somewhere they might otherwise not have gone or had missed. 
 Temples cannot be found organically, so they only exist as a radiant quest to be repeated ad nauseam. They do not fit into the gameplay loop. 

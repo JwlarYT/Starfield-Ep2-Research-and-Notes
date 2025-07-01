@@ -14,7 +14,7 @@ The only fixed portals are the scripted city portals, a couple of quest portals 
 
 POI's are level locked and for some reason the RNG when generating POI's favours a few over all the others. Which sucks, especially early game. But downloading a mod like POI cool down helps reduce the amount of repeat POI's you get over a certain amount of time.
 
-Some dungeons are very much ‘Fallout in space’ in tone, this space station has a rogue MAST scientist using human subjects to experiment xeno-digestion - how long can a human survive inside an alien’s stomach. It’s 16 hours apparently. Other scientists highlight their concerns in other computer entries and email logs. (Still can’t get over how amateur this [interface](Presentation/HUD+UI.md) is).
+Some dungeons are very much ‘Fallout in space’ in tone, this space station has a rogue MAST scientist using human subjects to experiment xeno-digestion - how long can a human survive inside an alien’s stomach. It’s 16 hours apparently. Other scientists highlight their concerns in other computer entries and email logs. (Still can’t get over how amateur this [interface](../Presentation/HUD+UI.md) is).
 
 Planets should either be empty or thriving.
 Not this weird.. oh its inhospitable and uninhabited but here's Timmy and his wind farm. Why.

@@ -9,7 +9,7 @@ Todd is aware of the disconnect between their questing and sandbox gameplay. [�
 The advent of the [Creation_Club_integration](../New_Updates/Creation_Club_integration.md)
 2:45 "On the whole PC side, releasing our tools, we would love to get that on the consoles somehow. Our users are making these awesome mods, they're so good at it, they're so creative. And on the PC, I think that's what defines the PC version of our game. In many ways, that makes it the superior version, because it becomes like this role-playing system, and people just like to look at each other's stuff they've built, much like Minecraft."
 
-[World_Building](Writing/World_Building.md)
+[World_Building](../Writing/World_Building.md)
 9:35 "For us y'know, the world is the main character of the game."
 
 [Story](../Main_Quest/Story.md) 
@@ -65,21 +65,21 @@ How internal research works
 
 0:43 Starfield inspirations: 
 - [Sundog](Sundog) - sci-fi game with 'partialist interface' (moving objects around and putting them together) where you could fly around on your own ship.
-- [Traveller_TTRPG](Research/Traveller_TTRPG.md)- Hard sci-fi. Todd tried to program a CRPG version on the Apple II. Where he discovered that computers could run out of memory. 
+- [Traveller_TTRPG](Traveller_TTRPG.md)- Hard sci-fi. Todd tried to program a CRPG version on the Apple II. Where he discovered that computers could run out of memory. 
 - 1:35 "Can we pull off something like this with today's computers?"
 
-1:50 Is Starfield considered [Hard_Sci_Fi](Presentation/Hard_Sci_Fi.md)?
+1:50 Is Starfield considered [Hard_Sci_Fi](../Presentation/Hard_Sci_Fi.md)?
 - Yes, more so hard sci fi to BGS team.
 - Visual identity harkens back to that.
 - It's still a video game, so full realism isn't too important.
 - They implemented a fuel system, and soon discovered it to be punitive and stop gameplay. 
 - "Recently" changed this in Oct 2022, less than a year from release. Huge gameplay change so close to shipping.
-- Acknowledges that a [Mod](Development/Reliance_on_Mods.md) may change that.
+- Acknowledges that a [Mod](../Development/Reliance_on_Mods.md) may change that.
 
 2:58 Character Customisation
 - Wanted to remove replay value as player shouldn't feel like they "don't like their character and should start over" as they can remove their trait in-game
 
-3:20 [Dialogue](Writing/Dialogue.md)
+3:20 [Dialogue](../Writing/Dialogue.md)
 - Scope is "a bit more than we've done before in quests and things like that"
 - 250,000 dialogue lines, which Todd claims "has impact".
 - 3:59 Persuasion system: "Feels like it's part of the dialogue"
@@ -88,11 +88,11 @@ How internal research works
 ##### [Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield | Lex Fridman Podcast #342](https://www.youtube.com/watch?v=H9AAnV59ddE)
 Lex Fridman, 29 Nov 2022
 
-29:00 Need for [Outsourcing](Development/Outsourcing.md)
+29:00 Need for [Outsourcing](../Development/Outsourcing.md)
 "There's a ton of work that goes into it now. Just rendering this cup to the perfect shine, material and roughness, and how the Global illumination reacts to it, it's a ton of work."
 30:45 "The amount of art time that it takes to create a cup compared to what it used to has increased. So we do use Art outsourcing."
 
-32:13 [Immersion](Presentation/Immersion.md): 
+32:13 [Immersion](../Presentation/Immersion.md): 
 "How does the wind sound? I enjoy strolling and watching the sunset. How does it land over the water? It doesn't have to be 'ok, let's go, let's finish the next quest, let's go level up'." "That's just part of being that character, being that person, in that space."
 
 35:21 Uniqueness: 
@@ -109,7 +109,7 @@ Lex Fridman, 29 Nov 2022
 48:55 On NPC Ai improving:
 "We're always iterating on it, and again, as we look on the future, it's more about us finding more reactivity to the player and understanding their role in the world. They aren't just there as a signpost to the player."
 
-51:30 [Voice Acting](Writing/Dialogue.md):
+51:30 [Voice Acting](../Writing/Dialogue.md):
 "We used to do (voice recording) at the end of a project, but now we do it throughout. We start early, we're recording for years and years."
 
 52:30 Todd acknowledges that [Romance](Romance) isn't complex
@@ -119,7 +119,7 @@ Lex Fridman, 29 Nov 2022
 
 57:08 What is the origin story of Starfield?
 "We had always wanted to do something where you explore space"
-Mentions [Traveller_TTRPG](Research/Traveller_TTRPG.md) again
+Mentions [Traveller_TTRPG](Traveller_TTRPG.md) again
 "[Starfilght](Starfilght), [Star Control 2](Star%20Control%202)"
 "It was time to do something new" minor burnout over TES and FO
 "You mentioned Daggerfall, we go back to some of that"
@@ -130,7 +130,7 @@ They did play around with the idea of a smaller set of limited handcrafted zones
 59:10 "I wanna land on that ice ball"
 “We started the game right after Fallout 4, in 2016. The first thing we did was think about how we could generate these planets and make them look, I'll say, reasonable, as opposed to fractal-y goop.”
 
-59:50 [Procedurally generated](Exploring/Procedural_Generation.md) tiles and went in to fix any errors, then built a system that took those and wrapped them around a planet and blended them. 
+59:50 [Procedurally generated](../Exploring/Procedural_Generation.md) tiles and went in to fix any errors, then built a system that took those and wrapped them around a planet and blended them. 
 	How many man-hours were wasted on this? They were already using proc-gen for the basis of Oblivion and Skyrim's land masses, so it's likely a very updated version of that tech. But rather than generating a single tile, they would've had to kick out tens of millions.
 		Although admittedly, Todd does reiterate that after the system was built, the choice to make 1000 planets took little effort.:
 https://www.reddit.com/r/Starfield/comments/1kxwhho/ads_must_be_trolling_right/
@@ -146,7 +146,7 @@ https://www.reddit.com/r/Starfield/comments/1kxwhho/ads_must_be_trolling_right/
 1:00:25 "There was a big design problem to solve with what's fun with landing on a planet with potentially nothing. There's nothing on them except resources. Ok, let's lean on the lonely experience, these are the resources that are there, go find them".
 	If that was the gameplay loop they focussed on, why are the gameplay systems that use these resources, [Crafting](../Gameplay_Systems/Crafting.md) and [Outpost_Management](../Gameplay_Systems/Outpost_Management.md) so gimped compared to FO4. And relegated to side activities with barely any function to any questlines.
 
-[Travelling](Exploring/Travelling.md) 1:04:56 "We used to run out of fuel, you'd jump and get stranded."
+[Travelling](../Exploring/Travelling.md) 1:04:56 "We used to run out of fuel, you'd jump and get stranded."
 "Turn out that just stops your game, ok, I guess I'll just wander these planets and mine for fuel to get back to what I was doing - it's a fun killer."
 
 [Minority Report](Minority%20Report) - "There's a lot of future stuff in that movie"
@@ -168,7 +168,7 @@ And we're not telling the player where to get those. And they think, now, where 
 in some believable way, that there's usually some challenge at getting them."
 	Funnily enough, I've seen people take this out of context and say this is the reason behind terrible quest design, focusing too hard on the fetch quest element, and not enough on the freedom of gameplay side. The majority of Morrowind is *this* quest design, but it works due to the writing and gameplay systems involved. The same quest design in Skyrim falls apart because the narrative is straightforward, and the quest follows a quest marker rather than answering the question ourselves.
 
-1:50:45 [Level_Design](Exploring/Level_Design.md)
+1:50:45 [Level_Design](../Exploring/Level_Design.md)
 "There is a logic to making a good level. Even if you walk by a little T intersection, that becomes like a decision point in the player's head.
 'Like, oh, I didn't go down that way.'" 
 "But the more you do that, it looks easy on paper, but when you're playing a game, you actually wanna limit those because he's trying to keep track of all these decision points. Then they get lost." 
@@ -199,7 +199,7 @@ Lots of [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) not wo
 "Honing systems and interface, bug fixing, all those things."
 	Usually by the the months leading up to release, everything should be mostly honed, and time is spent on QA and optimisation. Worrying that they were still perfecting the game at this time.
 
-7:05 How did the game evolve over the course of 8 years [•Development](Development/•Development.md)
+7:05 How did the game evolve over the course of 8 years [•Development](../Development/•Development.md)
 "The game sticks to the original vision... that took longer than I wanted, but about halfway through the project you realise this is why nobody tries to make this game."
 "It is true for the vision we had for our type of role-playing game set in space, where your mind kind of goes. We want to, as much as possible, say yes to the player. Can I do this? Can I do this? The answer is yes, yes, yes, yes, yes."
 7:55 "Space is big, so the amount of content that we ended making to have that really feel authentic to that, that did grow from where we originally started."
@@ -207,16 +207,16 @@ Lots of [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) not wo
 9:05 Inspirations
 "More of feeling like Read Dead 2, I'm living this western fantasy. In this I'm living this Science Fiction explorer fantasy."
 	I want to Todd! But you already discovered everything for me!
-10:19 [Smoke_and_mirrors](Presentation/Smoke_and_mirrors.md)
+10:19 [Smoke_and_mirrors](../Presentation/Smoke_and_mirrors.md)
 "It's games where I feel I am rooted in the reality of this universe of the game, and everything else just disappear." 
 
 11:50 "The more you give to Starfield, the more it gives back, and that was one of our goals"
-	Sort of true in that ship building, outpost building and crafting require large time, [Progression](../Gameplay_Systems/Progression.md) and credit investments to get the most out of them - but the journey to get there will burn out many players with the ARPG adjacent [•Exploring](Exploring/•Exploring.md) and [Points_of_Interest](Exploring/Points_of_Interest.md) system.
+	Sort of true in that ship building, outpost building and crafting require large time, [Progression](../Gameplay_Systems/Progression.md) and credit investments to get the most out of them - but the journey to get there will burn out many players with the ARPG adjacent [•Exploring](../Exploring/•Exploring.md) and [Points_of_Interest](../Exploring/Points_of_Interest.md) system.
 
 12:30 How much of the 1000 planets will the main story lead you towards. How do you motivate the players to see what's out there?
 "We want to keep it sort of manageable in the main quest. But it's a small fraction of what's in the game."
 
-13:32 Skyrim's success motivated the inclusion of [NG+](../Gameplay_Systems/NG+.md) and the use of [Procedural_Generation](Exploring/Procedural_Generation.md) to create a universe that could be played 'forever'
+13:32 Skyrim's success motivated the inclusion of [NG+](../Gameplay_Systems/NG+.md) and the use of [Procedural_Generation](../Exploring/Procedural_Generation.md) to create a universe that could be played 'forever'
 "We've also learned, look we're sitting here 12 years after Skyrim, we're looking at a game that has over 60 million copies and all these people, they're still playing it"
 "We have learned that we need to build in from the beginning a game that has this long-term play thought of so. Hopefully people are playing a long time from now."
 
@@ -243,7 +243,7 @@ Lots of [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) not wo
 "It does all of these things, and it's always is tricky for us to get a good game flow where those things don't feel like they're seperate games. That they can weave in and out of them in a way that holistically creates something greater than the sum of it's parts."
 	They failed
 
-27:00 [Procedural_Generation](Exploring/Procedural_Generation.md)
+27:00 [Procedural_Generation](../Exploring/Procedural_Generation.md)
 "Why do you have a thousand planets? Because we'd rather give you that option than say no."
 
 27:16 "If you like science fiction, I hope Starfield builds that kind of desire to play that kind of thing in Starfield"
@@ -254,7 +254,7 @@ Lots of [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) not wo
 22 Jun 2023, Kinda Funny Games
 
 9:08 - "That kind of feeling is what we want. Where you can look at the scope of the game and the palette of things you can do, and say what if? I'm gonna do these things."
-	This is what Starfield suffers from. Possibly due to the lack of a starting point. People may start that palette by aiming in a random direction and starting to walk to see what they find. The [Travelling](Exploring/Travelling.md) system puts an immediate barrier to entry, especially once the player feels confident in what they will find - [Procedural_Generation](Exploring/Procedural_Generation.md) and random [Points_of_Interest](Exploring/Points_of_Interest.md).
+	This is what Starfield suffers from. Possibly due to the lack of a starting point. People may start that palette by aiming in a random direction and starting to walk to see what they find. The [Travelling](../Exploring/Travelling.md) system puts an immediate barrier to entry, especially once the player feels confident in what they will find - [Procedural_Generation](../Exploring/Procedural_Generation.md) and random [Points_of_Interest](../Exploring/Points_of_Interest.md).
 
 16:13 Handcrafted vs Procedural
 "The million-dollar question, one that we struggled with early on in the process. We wanted to give you the planets to give you that choice, you would want that choice in a game like this."
@@ -264,7 +264,7 @@ Lots of [•Gameplay_Systems](../Gameplay_Systems/•Gameplay_Systems.md) not wo
 
 18:30 "I love the Buzz Aldrin quote "The Magnificent Desolation" I think there's a certain beauty to landing on those and feeling that I'm one of the only people, OR the only person, to ever visit this planet."
 
-Identified problem with spawning of [Points_of_Interest](Exploring/Points_of_Interest.md), but incorrectly states that they've dialled it in well.
+Identified problem with spawning of [Points_of_Interest](../Exploring/Points_of_Interest.md), but incorrectly states that they've dialled it in well.
 18:45 "It's a difficult design thing, if it's generating too many abandoned bases or towers or things to find, it starts to feel too gamey." "I think we've dialled that in pretty well."
 "It is an exploration different than we've had. Where you're landing, exploring around that landing spot, and then probably going somewhere else."
 
@@ -287,7 +287,7 @@ No [Ground_vehicles](../New_Updates/Ground_vehicles.md)
 25:40 - "You can assign [Companions](../Gameplay_Systems/Companions.md) to ships you're not using and things like that"
 Possibly cut content, or just a flubbed line. You cannot do this in the final game.
 
-[Sound_Design](Presentation/Sound_Design.md)
+[Sound_Design](../Presentation/Sound_Design.md)
 28:00 "Music is one of the first things we start with. We concept art and we start writing the music"
 "The music is all giving us a feeling of what this world feels like, what this experience feels like"
 
@@ -315,7 +315,7 @@ Todd's probably talking about the SSNN kiosk broadcasts, a bit disingenuous to c
 "It comes down to making all that content. There really is a lot of it, a lot of specific quests."
 [Radiant_Quests](../Gameplay_Systems/Radiant_Quests.md) "We have a bunch of that. You can land on a planet, go to an outpost, and we're gonna generate a mission nearby, but I think that's okay if you know that you're in for it. And those activities, if the gameplay is good, can be fun, but they shouldn't take the place of those more in-depth ones - and we've done a lot of those."
 
-41:30 [Reliance_on_Mods](Development/Reliance_on_Mods.md) 
+41:30 [Reliance_on_Mods](../Development/Reliance_on_Mods.md) 
 "Starfield is gonna be a modder's paradise."
 "I think one of the things is that it's important to us to not just enable that, but to participate, to make it not just a hobby, but a career."
 
@@ -353,7 +353,7 @@ Todd's probably talking about the SSNN kiosk broadcasts, a bit disingenuous to c
 
 3:05 Why are there no [Ground_vehicles](../New_Updates/Ground_vehicles.md)?
 "It's something we considered. Once you do vehicles it does change the gameplay, so by focusing on foot, it let's us make it an experience where we know how fast they're seeing things."
-	So the reason was to minimise repetition of [Points_of_Interest](Exploring/Points_of_Interest.md) and drag out surface gameplay, even to slow down the [Surveying](../Gameplay_Systems/Surveying.md) and to avoid pop-in...
+	So the reason was to minimise repetition of [Points_of_Interest](../Exploring/Points_of_Interest.md) and drag out surface gameplay, even to slow down the [Surveying](../Gameplay_Systems/Surveying.md) and to avoid pop-in...
 
 ----
 ##### [Making Starfield with Bethesda's Todd Howard | The AIAS Game Maker's Notebook Podcast](https://www.youtube.com/watch?v=ZNQzIjptC_o )

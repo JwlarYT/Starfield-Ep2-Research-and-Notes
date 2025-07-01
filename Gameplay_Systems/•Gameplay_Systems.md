@@ -39,7 +39,7 @@
  
  Create Venn Diagram to show how the systems do and don’t interact with one another.
 
-^ It is designed almost antiethically, where the systems clash so often and cancel each other out too much. Such as [Ship_Building](Ship_Building.md) being so open ended and intricate with the level of customisation possible with weapons, performance, exterior and interior appearance, yet it sits within a [space traversal](Exploring/Travelling.md) sequence comprised of small skirmishes and glamour shot loading cutscenes.
+^ It is designed almost antiethically, where the systems clash so often and cancel each other out too much. Such as [Ship_Building](Ship_Building.md) being so open ended and intricate with the level of customisation possible with weapons, performance, exterior and interior appearance, yet it sits within a [space traversal](../Exploring/Travelling.md) sequence comprised of small skirmishes and glamour shot loading cutscenes.
 
 The wide range of gameplay features/mechanics/loops, which is Starfield’s strength (USP); but there is a stage where you may feel there’s a lack of depth per gameplay feature/mechanic/loop, or the repetitions start to become tedious, which is Starfield’s weakness.
 

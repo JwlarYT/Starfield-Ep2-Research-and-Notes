@@ -103,6 +103,26 @@
     {
       "path": "Faction Quests",
       "color": "1hkcGl52sDeDlIsKNeEtz"
+    },
+    {
+      "path": "Gameplay_Systems",
+      "color": "M0ZG3VoW863fmZ8IR_QCV"
+    },
+    {
+      "path": "Faction_Quests",
+      "color": "1hkcGl52sDeDlIsKNeEtz"
+    },
+    {
+      "path": "Main_Quest",
+      "color": "lGO9ehq61eZsKYAFGUSqB"
+    },
+    {
+      "path": "New_Updates",
+      "color": "LO6dVWlq5XZANIs642R3r"
+    },
+    {
+      "path": "Side_Quests",
+      "color": "LtPlx6LiOf8FbghzIJujl"
     }
   ]
 }

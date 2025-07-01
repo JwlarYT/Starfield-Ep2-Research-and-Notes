@@ -1,7 +1,7 @@
 You know what would’ve been a great Starborn power? Teleporting.
 Would straight fix many complaints about going through loading screens back and forth between quest giver and quest objective. Just plonk down the mark at the giver, complete the quests and then TP back. Sure the NPC wouldn’t acknowledge this magical feat that occurs right in front of them. But they don’t do that already, so nothing much has changed there.
 
-Starborn ships start [landing](Exploring/Random_Encounters.md) after a certain point in the MQ and act identical to Pirate or Ecliptic ships, dropping off a small battalion of NPCs to meander around the landscape for some reason. I thought Starborn worked alone, odd that some would try to find each other, only to then fly to random planets and walk about on patrol. Maybe hoping across universes got boring.
+Starborn ships start [landing](../Exploring/Random_Encounters.md) after a certain point in the MQ and act identical to Pirate or Ecliptic ships, dropping off a small battalion of NPCs to meander around the landscape for some reason. I thought Starborn worked alone, odd that some would try to find each other, only to then fly to random planets and walk about on patrol. Maybe hoping across universes got boring.
 
 You enter the universes you find at the first place where you jumped after having touched an artifact. This seems to imply that, while the nature of the multiverse may be infinite, you are limited to a degree by which you can explore that infinitude to 'merely' the infinite variations possible within the reality you started from (hence why you're stuck in the game's scenario - that's your only option despite its infinite possibilities of procgen planets). 
 

@@ -1,4 +1,4 @@
-There's a belief among older fans that the people who dislike Starfield aren't mature enough to understand the [Themes](Writing/Themes.md)
+There's a belief among older fans that the people who dislike Starfield aren't mature enough to understand the [Themes](Themes.md)
 
 Like this comment from here https://www.reddit.com/r/NoSodiumStarfield/comments/1kl0iz6/do_you_think_starfields_resonates_better_with_a/:
 
@@ -13,7 +13,7 @@ Consider the four companions:
 *They're not old enough to get it yet, so they roll their eyes at stuff that tugs the heartstrings of people with more life experience.*"
 
 These elements exist in the game, but they aren't handled with any real maturity.
-Any kind of depth whatsoever. Starfield just doesn't deal with the implications of its own ideas and [Themes](Writing/Themes.md).
+Any kind of depth whatsoever. Starfield just doesn't deal with the implications of its own ideas and [Themes](Themes.md).
 Just having topics that invite mature discussion isn't enough--you have to that discussion on some level as well.
 For example, Sarah Morgan's PTSD and survivor's guilt are exposition. It's not a lived-in part of her character, and it's resolved as soon as you comfort her. It's just a box to tick to complete her companion quest line. There's no real growth (or regression), no real character arc.
 

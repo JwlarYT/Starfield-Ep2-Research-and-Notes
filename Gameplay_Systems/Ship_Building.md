@@ -2,7 +2,7 @@ You can upgrade specific parts of your ship without interacting with the more co
 
 The economy is weighted towards shipbuilding. Getting credits is surprisingly easy. Weapons and space suits, boost packs etc. will sell for high numbers even with a low commerce skill.
 
-The shipbuilder is sadly far more limited than what the marketing in the [Starfield_Direct](Research/Starfield_Direct.md) would have you believe. For one, you cannot rotate objects. That means stuff like bay doors to ground cannot go out the back of your ship, they will always face forward.
+The shipbuilder is sadly far more limited than what the marketing in the [Starfield_Direct](../Research/Starfield_Direct.md) would have you believe. For one, you cannot rotate objects. That means stuff like bay doors to ground cannot go out the back of your ship, they will always face forward.
 	Mods fix this, unsurprisingly
 
 It can be quite finicky to move everything around. Parts must fit together like lego, you are free to place them at random as you please. 

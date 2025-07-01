@@ -1,4 +1,4 @@
-The first quest for the [United_Colonies](Factions/United_Colonies.md) has the player traveling to an Earth-like [Planets](Presentation/Planets.md) to the far west of the [Star-System_Map](../../Gameplay_Systems/Star-System_Map.md).
+The first quest for the [United_Colonies](../../Factions/United_Colonies.md) has the player traveling to an Earth-like [Planets](../../Presentation/Planets.md) to the far west of the [Star-System_Map](../../Gameplay_Systems/Star-System_Map.md).
 
 We must face off against a [Terromorph](Terromorph.md). An alien species seemingly designed to prevent humans from growing too large (they are infamous for sprouting up wherever humans have lived for 70-100 years). It is implied at this point that they may be the result of a mankind invention by the now defunct ‘[UC XenoResearch](UC%20XenoResearch)' team - the leader of whom was executed at the end of the Colony War when a legion of [Terromorph](Terromorph.md)s destroyed the city of [Londinion](Londinion).
 

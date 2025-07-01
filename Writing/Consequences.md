@@ -12,6 +12,6 @@ Like all Bethesda games, they mean for the story and world to be experienced fro
 	Choices should've been meaningful and impactful. Instead, I can do whatever I want, join any faction, and do nearly all of the things consequence free. Choices should hard lock you out of different paths (i.e. vanguard vs. ranger).
 		The way they implemented many of them in Starfield was a mushy middle ground. They didn’t want to lock out content from people who didn’t want to engage with NG+, but ended up just making the game shittier in the process.
 
-[Paradiso](Locations/Paradiso.md)
+[Paradiso](../Locations/Paradiso.md)
 
-[Essential_NPCs](Writing/Essential_NPCs.md)
+[Essential_NPCs](Essential_NPCs.md)

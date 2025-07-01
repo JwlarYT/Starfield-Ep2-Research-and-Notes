@@ -1,6 +1,6 @@
 Agency in BGS games has almost always been tied to 'do or don't' and gameplay options. 
 
-Even our beloved Morrowind lacked choices in [Dialogue](Writing/Dialogue.md). Instead, the choice came in whether you wanted to join a faction and take a quest *or not*. [Role-Playing](../Gameplay_Systems/Role-Playing.md) was evident in how the player approached the gameplay of the quest, rather than in sprawling dialogue. This explains why, to Emil, this tree in his presentation is a quote "crazy mess"; when compared to many other CRPGS, it isn't. 
+Even our beloved Morrowind lacked choices in [Dialogue](Dialogue.md). Instead, the choice came in whether you wanted to join a faction and take a quest *or not*. [Role-Playing](../Gameplay_Systems/Role-Playing.md) was evident in how the player approached the gameplay of the quest, rather than in sprawling dialogue. This explains why, to Emil, this tree in his presentation is a quote "crazy mess"; when compared to many other CRPGS, it isn't. 
 
 BGS just aren't good at developing this kind of RPG, and it's highlighted strongly in Starfield. The genre has grown, and the players expect more. For better or worse, agency in all aspects of role-playing, including dialogue, is now expected for open-world sandbox RPGS - even if Starfield and all previous BGS RPGS are technically ARPGs by definition. 
 

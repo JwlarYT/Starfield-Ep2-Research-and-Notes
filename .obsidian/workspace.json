@@ -217,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,6 +228,9 @@
   },
   "active": "43583f697b3b0374",
   "lastOpenFiles": [
+    "Gameplay_Systems/Crafting.md",
+    "Gameplay_Systems/Lockpicking.md",
+    "Gameplay_Systems/Role-Playing.md",
     "index.md",
     "New_Updates/Ground_vehicles.md",
     "README.md",
@@ -250,9 +254,6 @@
     "Research/Starship_troopers.md",
     "Research/Starfield_Direct.md",
     "Research/Size.md",
-    "Research/Quotes_to_use.md",
-    "Research/Pareto_Principle.md",
-    "Research/Marketing.md",
     "Images/Screenshot-2025-06-19-at-12.10.15.png",
     "Images/Screenshot-2025-06-16-at-12.15.17.png",
     "Images/Screenshot-2025-06-19-at-12.04.18.png",

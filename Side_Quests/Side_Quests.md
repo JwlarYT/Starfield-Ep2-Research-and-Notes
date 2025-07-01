@@ -1,4 +1,4 @@
-Quests are unlocked as you [level](../Gameplay_Systems/Progression.md), with guards making you aware of new ones. News broadcasts through SSN pillars in the main [•Cities](Cities/•Cities.md) also do the same, and help add some extra life through diegetic lore.
+Quests are unlocked as you [level](../Gameplay_Systems/Progression.md), with guards making you aware of new ones. News broadcasts through SSN pillars in the main [•Cities](../Cities/•Cities.md) also do the same, and help add some extra life through diegetic lore.
 
 ‘Activities’ often take the player to the start of a misc quest (side quest).
 
@@ -11,7 +11,7 @@ Enhance! owner lost confidential documents and asked us to find them but not rea
 
 The Galbank questline works like a proto-tracker's alliance, but killing isn’t necessary. (And may be punished).
 
-Quests do have cute little follow ups, like Styx the Mech in [Neon_City](Cities/Neon_City.md) getting a new paint job and upgrade after we took out the Disciple gang member responsible for graffiti tagging him.
+Quests do have cute little follow ups, like Styx the Mech in [Neon_City](../Cities/Neon_City.md) getting a new paint job and upgrade after we took out the Disciple gang member responsible for graffiti tagging him.
 Mostly adds a new voice line or two, but at least there’s some extra payout past the immediate reward. Helps the world feel a little more alive.
 
 Start of Walter's 'Overdesigned' quest behind the curtain look at Starfield’s planning problems? 

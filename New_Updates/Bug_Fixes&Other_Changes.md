@@ -1,7 +1,7 @@
 
 You can now collect resources and loot containers with the scanner open.
 
-We can give books to Cora. A strange omission that we couldn't have done this before. Oversight? Again, [Quality_Assurance](Development/Quality_Assurance.md) playtesting must have been strained or only focused on bugs for this kind of thing to fall through the cracks... [Poor_Planning](Development/Poor_Planning.md)
+We can give books to Cora. A strange omission that we couldn't have done this before. Oversight? Again, [Quality_Assurance](../Development/Quality_Assurance.md) playtesting must have been strained or only focused on bugs for this kind of thing to fall through the cracks... [Poor_Planning](../Development/Poor_Planning.md)
 
 Melee crafting implemented in update
 

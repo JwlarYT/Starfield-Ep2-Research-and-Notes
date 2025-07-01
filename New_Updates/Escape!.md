@@ -1,6 +1,6 @@
-A man is enquiring whether we would like to take part in some sort of test in the [Astral_Lounge](Locations/Astral_Lounge.md) that would take us away from gameplay for a moment - he makes this clear with a line that in part feels like a 4th wall break. 
+A man is enquiring whether we would like to take part in some sort of test in the [Astral_Lounge](../Locations/Astral_Lounge.md) that would take us away from gameplay for a moment - he makes this clear with a line that in part feels like a 4th wall break. 
 
-When asked how long the test will take, he replies, “You will not be able to return or speak to your companions until the test is over.” I have no companions with me, how did he know of this? [Immersion](Presentation/Immersion.md) breaking.
+When asked how long the test will take, he replies, “You will not be able to return or speak to your companions until the test is over.” I have no companions with me, how did he know of this? [Immersion](../Presentation/Immersion.md) breaking.
 
 Opening lines of NPCs make it clear that BGS expect us to approach our activities list like a shopping list to be cleared, rather than approach a quest organically. 
 
