@@ -13,6 +13,6 @@ New surface maps highlight exactly why these were not included in the game on la
 
 Flora doesn’t show up on them, so they aren’t even finished, unless this was an optimisation choice. Perhaps low LOD versions of the flora were not created, like they had to be for Skyrim’s map.
 
-[Neon_City](Neon_City.md)’s local map is the only one that isn’t just the normal surface map view. Dungeon maps in this view would’ve been nice, especially if they could integrate some more 3D. I realise that I have just redesigned the Daggerfall map, but that map would be great with some modern controls and QOL.
-	[The_Well](The_Well.md)'s map is exactly that! A floor plan shown in 3D, very reminiscent of Daggerfall but with modern controls making it easy to look around it! Why don’t dungeons use this??? 
+[Neon_City](Cities/Neon_City.md)’s local map is the only one that isn’t just the normal surface map view. Dungeon maps in this view would’ve been nice, especially if they could integrate some more 3D. I realise that I have just redesigned the Daggerfall map, but that map would be great with some modern controls and QOL.
+	[The_Well](Cities/The_Well.md)'s map is exactly that! A floor plan shown in 3D, very reminiscent of Daggerfall but with modern controls making it easy to look around it! Why don’t dungeons use this??? 
 

@@ -1,7 +1,7 @@
 The premise behind Entangled is intriguing, involving the switching between two universes: one where an experiment went horribly wrong and another where it was contained within minutes. 
 Callback to the Dunwich Building in Fallout 3.
 
-The scientists are way too fast to accept our multiverse theory though. [Constellation](Constellation.md), who are explorers, are struggling to wrap their heads around this, and suddenly these gals are a-okay with it? No questions asked? They say they’re for science, but they’re swift to believe the first hairbrained reasoning given to them.
+The scientists are way too fast to accept our multiverse theory though. [Constellation](Main%20Quest/Constellation.md), who are explorers, are struggling to wrap their heads around this, and suddenly these gals are a-okay with it? No questions asked? They say they’re for science, but they’re swift to believe the first hairbrained reasoning given to them.
 	The director suddenly knows how multiverses work, as if it’s an everyday occurrence?! Talking about the planet being a closed system held in two states, and that we have to choose which one to save?! She’s got 29 years in quantum physics, if anything, that should make her more wary of all this, not suddenly the exposition-dumping science goddess of the multiverse!
 
 Way to suddenly force the trolley problem choice on the player instead of letting us discover this on our own as we get closer to shutting down the experiment. 

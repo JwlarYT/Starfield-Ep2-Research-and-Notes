@@ -16,7 +16,7 @@ Starfield isn't a survival horror or even an action adventure game. It deals wit
 
 To devil's advocate, no one thinks a bad media with gore and cursing is better than a good media without it. Bad media is bad. If a game has gore and cursing in it though, it necessarily is sacrificing accessibility for theme which is of course always going to make something better since it can invest more into its niches. 
 
-I'm a big diagetic guy and am a stickler for narrative consistency. The less [Ludonarrative_dissonance](Ludonarrative_dissonance.md) a game has to rely on, the more I appreciate it. 
+I'm a big diagetic guy and am a stickler for narrative consistency. The less [Ludonarrative_dissonance](Research/Ludonarrative_dissonance.md) a game has to rely on, the more I appreciate it. 
 
 There's terrormorphs, drug addicts, space pirates, outlaws, zealots, raiders, holotapes of people's last words before dying, criminals joking about torturing people. War crimes. You solve 90% of your problems with violence.
 

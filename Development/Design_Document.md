@@ -2,4 +2,4 @@ Emil has proven that they do use small internal design documents for faction lor
 However, with that said, Emil's flagrant disregard of them has led to them being next to useless, or worse, they are useful, and yet a culture prevails of not referring.
 Honestly, the no design document argument gave Bethesda a huge scapegoat, because what do we blame if they did use one, but it feels as if it was made without one?
 
-Disconnects due to [Poor_Planning](Poor_Planning.md) result in well-made systems like zero-g traversal and combat being wholly underutilised, limited to a handful of space stations and ship points of interest dotted around on the [Star-System_Map](Star-System_Map.md). Ship stealth similarly is a concept introduced and then never required by any other quest. 
+Disconnects due to [Poor_Planning](Development/Poor_Planning.md) result in well-made systems like zero-g traversal and combat being wholly underutilised, limited to a handful of space stations and ship points of interest dotted around on the [Star-System_Map](Gameplay%20Systems/Star-System_Map.md). Ship stealth similarly is a concept introduced and then never required by any other quest. 

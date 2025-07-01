@@ -1,4 +1,4 @@
-[•Exploring](•Exploring.md)
+[•Exploring](Exploring/•Exploring.md)
 
 I saw this on reddit:
 

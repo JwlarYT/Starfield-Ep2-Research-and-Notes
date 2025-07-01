@@ -3,7 +3,7 @@ AI pathing can sometimes break. My companion sometimes will walk to an unintende
 So some of the expected Bethesda bugs are here as expected. One can only imagine how bad the game must’ve been before its originally intended release date.
 
 Past the poor optimization, I have not noticed any game breaking bugs, or any crashes.
-	These become more apparent the long you play. BGS still have not solved the issue of save file bloat slowing performance, adding to glitchiness and eventually regualar crashes (reportedly worse on console). [NG+](NG+.md) is used as a band-aid solution, resetting the save file to being fresh.
+	These become more apparent the long you play. BGS still have not solved the issue of save file bloat slowing performance, adding to glitchiness and eventually regualar crashes (reportedly worse on console). [NG+](Gameplay%20Systems/NG+.md) is used as a band-aid solution, resetting the save file to being fresh.
 
 Same Havok physics system as before, with all the same bugs, like ragdolls getting stuck inside props. Literally a bug from Oblivion.
 

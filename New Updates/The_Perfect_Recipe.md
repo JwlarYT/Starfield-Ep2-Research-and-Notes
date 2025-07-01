@@ -1,4 +1,4 @@
-A free [Creation_Club_integration](Creation_Club_integration.md) from Kris Takahashi, prolific modder of Skyrim and Fallout 4, author of “interesting NPCs” and “Tales from the Commonwealth” respectively. Hired to write ambient dialogue and later quest design for two Creation Club DLCs, the above, and ‘Escape’ (The [Astral_Lounge](Astral_Lounge.md) study).
+A free [Creation_Club_integration](New%20Updates/Creation_Club_integration.md) from Kris Takahashi, prolific modder of Skyrim and Fallout 4, author of “interesting NPCs” and “Tales from the Commonwealth” respectively. Hired to write ambient dialogue and later quest design for two Creation Club DLCs, the above, and ‘Escape’ (The [Astral_Lounge](Locations/Astral_Lounge.md) study).
 
 Perfect recipe quest is terribly designed (but very well written) and can be made much better, this applies to most of the side quests. 
 	(elaborate further while watching back recording - **use flowchart to compare to better quest in KCD2, like Whom the Bell Tolls).** 

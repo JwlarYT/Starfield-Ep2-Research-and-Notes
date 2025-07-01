@@ -6,7 +6,7 @@ Modding is dying on the nexus, partly due to paid mods on the Creation Club
 2. It's been patched and improved dramatically. 
 3. Community mods and support take it to the next level.
 
-The [Creation_Club_integration](Creation_Club_integration.md) and Mods fix many of the game’s shortcomings for Bethesda. They rely on modders to improve their game.
+The [Creation_Club_integration](New%20Updates/Creation_Club_integration.md) and Mods fix many of the game’s shortcomings for Bethesda. They rely on modders to improve their game.
 Yes it’s great that they provide some of the best modding support in the industry (although it has been getting worse since Skyrim with poor documentation for modders on how to use the new tools), but that doesn’t mean we should accept a mediocre full price title just because the mods will be great. 
 
 Modders are bailing on Starfield in large part due to BGS breaking the engine to make some of the new mechanics work. ElminsterAU, the original developer of xEdit, THE go-to conflict detector and editor for Bethesda game mods, points to specific coding errors and incompatibilities within Creation Engine 2.
@@ -19,7 +19,7 @@ I didn’t need to mod Morrowind to make it one of my favourite games ever, I pl
 
 Outside of HD patches and/or engine rewrites, that’s how I prefer to play my games. Let the game rest on its laurels, not the combined Evergreen Crowns of the fans’ creativity.
 
-Forcing systems into mods means you are reliant on the modder’s tastes, oftentimes fighting with the games [tone](Immersion.md). Had BGS taken the time to improve these systems themselves (like abandoning gore) then you would not be left with mods that meet the goal 90% of the way, but fall at the final hurdle. Gore field for example restores that viscera to gunfights, but is way too over the top, feeling like Fallout’s Bloody Mess perk is left permanently stuck on.
+Forcing systems into mods means you are reliant on the modder’s tastes, oftentimes fighting with the games [tone](Presentation/Immersion.md). Had BGS taken the time to improve these systems themselves (like abandoning gore) then you would not be left with mods that meet the goal 90% of the way, but fall at the final hurdle. Gore field for example restores that viscera to gunfights, but is way too over the top, feeling like Fallout’s Bloody Mess perk is left permanently stuck on.
 As well as bringing some immersion breaking SFX (head splatter sound).
 
 Body stripping was removed for two reasons. One the value and weight of the loot, and two not wanting to spend the time to animate corpse decay in extreme environments. Mods restore this, and this is the exact mentality BGS brought when cutting features: “we can cut it to save time, and modders will add it back in for those that want it”. Rather than spend the time needed to fix the design and technical problems. Even AAA companies with 600+ interns employees need to rely on the passion of individual modders…

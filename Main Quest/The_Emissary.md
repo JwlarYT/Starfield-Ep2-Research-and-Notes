@@ -1,4 +1,4 @@
-Keep [Artifacts](Artifacts.md) away from people who don't understand its power, like the old Earth people who destroyed their atmosphere. But then again, who would I give the powers to then? It's a roundabout way of saying "keep all powers for yourself".
+Keep [Artifacts](Main%20Quest/Artifacts.md) away from people who don't understand its power, like the old Earth people who destroyed their atmosphere. But then again, who would I give the powers to then? It's a roundabout way of saying "keep all powers for yourself".
 
 "Look at this guy, he's dead! He's dead-dead. Are you sad yet?...oh look he's alive just kidding he's a weird space magic alternate self."
 

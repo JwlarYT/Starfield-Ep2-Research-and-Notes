@@ -1,6 +1,6 @@
-[World_Building](World_Building.md)
+[World_Building](Writing/World_Building.md)
 
-I don’t think [NPC_Routines](NPC_Routines.md) are a thing. All of the quest NPCs I have interacted with are always in their same spot, never going to sleep or getting food, despite the time of day.
+I don’t think [NPC_Routines](Presentation/NPC_Routines.md) are a thing. All of the quest NPCs I have interacted with are always in their same spot, never going to sleep or getting food, despite the time of day.
 	They are sometimes a thing - I saw a worker for the UC distribution center out on a park bench…at 5am. No idea what he was doing? Maybe having breakfast before an early start.
 
 Of the top of my head, the only npcs that I really notice having a real routine are those in constellation. To be that's extremely lazy and I wouldn't even count as a feature in the game.
@@ -8,9 +8,9 @@ Of the top of my head, the only npcs that I really notice having a real routine 
 Some have them, like Donna Rain, but they never go to sleep.
 https://starfield.fandom.com/wiki/Donna_Rain
 Why not have them go into one of the residential building towers.
-	Can't, Donna isn't a citzen, would need her to go into [The_Well](The_Well.md) instead.
+	Can't, Donna isn't a citzen, would need her to go into [The_Well](Cities/The_Well.md) instead.
 
-An NPC not having a full routine in Skyrim is grounds for a video; in Starfield, it's the norm.![286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a](286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a.jpeg)
+An NPC not having a full routine in Skyrim is grounds for a video; in Starfield, it's the norm.![286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a](Images/286E7A4F-5032-4195-AD68-06353E8D618E_1_201_a.jpeg)
 
 There's no interactivity between the characters and the world around them. No sense of movement or existence to the world that's so prevalent in previous titles. The static NPCs are such a strange direction. In Skyrim, which was a downgrade from Oblivion's implementation, everyone had jobs, lives, families. There was passive storytelling between these characters that they didn't necessarily have to be all that deep for players to use them within their own stories, which is what Todd is all about: using a Bethesda game to tell your own story. It's harder to do that when the characters feel like wooden props on a sound stage, ready to fall over from a gentle breeze.
 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Freestar_Collective.md",
+                "file": "Research/Todd_Howard_Interviews.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Freestar_Collective"
+              "title": "Todd_Howard_Interviews"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Freestar_Collective.md",
+                "file": "Research/Todd_Howard_Interviews.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Freestar_Collective"
+              "title": "Backlinks for Todd_Howard_Interviews"
             }
           },
           {
@@ -228,9 +228,11 @@
   },
   "active": "43583f697b3b0374",
   "lastOpenFiles": [
-    "Factions/•Factions.md",
-    "Factions/Freestar_Collective.md",
     "Cities/Akila_City.md",
+    "Cities/New_Atlantis.md",
+    "Cities/Neon_City.md",
+    "Factions/Freestar_Collective.md",
+    "Factions/•Factions.md",
     "Factions/Crimson_Fleet.md",
     "Cities/•Cities.md",
     "Gameplay Systems/Ailments.md",
@@ -252,8 +254,6 @@
     "Research/Ludonarrative_dissonance.md",
     "Research/Interviews.md",
     "Research/Firefly.md",
-    "Research/Betteridge's_law_of_headlines.md",
-    "Presentation/Wireless_Communication.md",
     "Images/Screenshot-2025-06-19-at-12.10.15.png",
     "Images/Screenshot-2025-06-16-at-12.15.17.png",
     "Images/Screenshot-2025-06-19-at-12.04.18.png",

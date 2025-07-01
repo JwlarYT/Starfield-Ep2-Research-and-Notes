@@ -1,6 +1,6 @@
 Agency in BGS games has almost always been tied to 'do or don't' and gameplay options. 
 
-Even our beloved Morrowind lacked choices in [Dialogue](Dialogue.md). Instead, the choice came in whether you wanted to join a faction and take a quest *or not*. [Role-Playing](Role-Playing.md) was evident in how the player approached the gameplay of the quest, rather than in sprawling dialogue. This explains why, to Emil, this tree in his presentation is a quote "crazy mess"; when compared to many other CRPGS, it isn't. 
+Even our beloved Morrowind lacked choices in [Dialogue](Writing/Dialogue.md). Instead, the choice came in whether you wanted to join a faction and take a quest *or not*. [Role-Playing](Gameplay%20Systems/Role-Playing.md) was evident in how the player approached the gameplay of the quest, rather than in sprawling dialogue. This explains why, to Emil, this tree in his presentation is a quote "crazy mess"; when compared to many other CRPGS, it isn't. 
 
 BGS just aren't good at developing this kind of RPG, and it's highlighted strongly in Starfield. The genre has grown, and the players expect more. For better or worse, agency in all aspects of role-playing, including dialogue, is now expected for open-world sandbox RPGS - even if Starfield and all previous BGS RPGS are technically ARPGs by definition. 
 
@@ -20,6 +20,6 @@ Consequence - Historical story thread is broken is the player is killed.
 Choice - kill board
 Consequence - None, because you can't do it.
 
-Todd says he wants to say yes to players asking if they can do this, but this only applies to [•Gameplay_Systems](•Gameplay_Systems.md), he doesn't care about the quests as much. They are a secondary concern.
+Todd says he wants to say yes to players asking if they can do this, but this only applies to [•Gameplay_Systems](Gameplay%20Systems/•Gameplay_Systems.md), he doesn't care about the quests as much. They are a secondary concern.
 
 Links to Todd's favourite quest setup relate to the diamond quest for the Thieves Guild in Morrowind. You can find the diamond, steal it, or buy it. The solution to the quest is the systems in place for item gathering.

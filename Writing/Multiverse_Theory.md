@@ -1,4 +1,4 @@
-[NG+](NG+.md) [Unity](Unity.md)
+[NG+](Gameplay%20Systems/NG+.md) [Unity](Main%20Quest/Unity.md)
 
 Suggests there are many parallel universes, each with different laws or histories.
 

@@ -1,3 +1,3 @@
 Service guarantees citizenship
 
-[United_Colonies](United_Colonies.md)
+[United_Colonies](Factions/United_Colonies.md)

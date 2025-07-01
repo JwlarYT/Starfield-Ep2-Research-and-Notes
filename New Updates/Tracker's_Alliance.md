@@ -4,14 +4,14 @@ Bounty Missions for the trackers alliance dont allow the use of the diplomacy sk
 
 And after coming back with a EM weapon to do it properly. Of course, the game bugged out and I still had to kill them. At least I didn’t lose the reward after they died.
 
-There's a few [Starborn](Starborn.md) lines in the mission:
+There's a few [Starborn](Main%20Quest/Starborn.md) lines in the mission:
 When first approached you can say "I know. You've been trying to find me to invite me to the Trackers HQ. "
 When you meet 'Andrastos' you can say "Ok, Hannibal... Oops, I'm mean Adrastos. Let's go."
 towards the reveal, "I know, Deke. Hannibal's going to reveal himself and take our ship in 3.. 2... 1..."
 
 Similar to knowing the antagonist in the Rangers faction quests, Ron Hope, there's no 'skip to the end', which whilst not offering total freedom that some players would like, does mean there's actually still quests to play.
 
-[NG+](NG+.md) knowledge for the most part consists of some skipped dialogue and lots of "yeah I know what's going to happen here" rather than any different outcomes.
+[NG+](Gameplay%20Systems/NG+.md) knowledge for the most part consists of some skipped dialogue and lots of "yeah I know what's going to happen here" rather than any different outcomes.
 
 --- 
 ##### The Vulture
@@ -24,5 +24,5 @@ Final options are kill target, persuade target (failure forces kill), or use lor
 Lore items found along the quest can also be used to persuade the target to come quietly. This is level of quest design missing from Starfield, and it’s a damn shame that it’s only in paid DLC that we can see something like this.
 Would’ve liked to see some Sarah dialogue to help here, seeing as they are both ware veterans, but again the chances of the VA coming back for a short dlc quest is small. Not the quest designers fault. 
 
-How much of this can be attributed to [Poor_Planning](Poor_Planning.md)? The poor quest design in the base game, I mean. How much can be blamed on the designers having to work within an alpha build of the game, and not creating their quests on paper? (As per Emil)
+How much of this can be attributed to [Poor_Planning](Development/Poor_Planning.md)? The poor quest design in the base game, I mean. How much can be blamed on the designers having to work within an alpha build of the game, and not creating their quests on paper? (As per Emil)
 This quest, built atop the final game, has us exploring 4 planets, a chance to ambush elsewhere with a satisfying twist to show the target as a threat, and the use of lore from elsewhere in the game (Xenoweapons) as a means of persuading him through items found in-game.
