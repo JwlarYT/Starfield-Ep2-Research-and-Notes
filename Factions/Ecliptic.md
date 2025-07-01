@@ -1,0 +1,1 @@
+Ecliptic mercs are hired by both UC and Freestar to handle their dirty work, maintaining a light proxy war, and a lore explanation for why neither are concerned about stopping them.

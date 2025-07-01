@@ -1,0 +1,2 @@
+[Galls Law](https://en.wikipedia.org/wiki/John_Gall_(author)#:~:text=Gall's%20law,-Gall's%20Law%20is&text=It%20states%3A,with%20a%20working%20simple%20system): "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works, and cannot be patched up to make it work. You have to start over with a working, simple system."
+

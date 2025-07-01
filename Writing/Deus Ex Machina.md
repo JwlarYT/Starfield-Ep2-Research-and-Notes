@@ -1,0 +1,3 @@
+"a god from a machine." Machine, in this case, refers to the crane that held a god over the stage in ancient Greek and Roman drama.
+
+For example, if a character fell off a cliff and a flying robot suddenly appeared out of nowhere to catch them, that would be a deus ex machina. The goal of this device is to bring about resolution, but it can also introduce comedic relief, disentangle a plot, or surprise an audience.

@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Ludonarrative_dissonance
+Ludonarrative dissonance is the conflict between a video game's narrative told through the non-interactive elements and the narrative told through the gameplay. Ludonarrative (from ludus, "game", and narrative) refers to the intersection of a video game's ludic elements (gameplay) and narrative elements. The term was coined by game designer Clint Hocking in 2007 in a blog post.

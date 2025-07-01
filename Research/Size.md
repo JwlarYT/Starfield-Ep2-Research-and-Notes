@@ -1,0 +1,1 @@
+Mention how Todd only quantifies Starfield size compared to previous games in the amount of voice lines are not in other types of content such as handcrafted cells or amount of points of interest or number of cities or even the number of handmade NPC's

@@ -1,0 +1,3 @@
+In the context of interactions or collaborations, "anti-synergy" refers to the opposite of synergy. Instead of a combined effect greater than the sum of individual parts, it results in a combined effect that is less than what would be expected, or even antagonistic, where the individual effects counteract each other. Essentially, anti-synergy is when working together is detrimental rather than beneficial.
+
+The longer I play, the worse it gets.

@@ -1,0 +1,7 @@
+It's been a steady progression since Morrowind (no one is essential, but the game is happy to tell you when you done messed up with the 'thread of prophecy has been severed, reload or persist in a doomed world' message).
+
+A lot of the essential-itis is down to cost (unsurprisingly) - fully voiced RPGs have been the standard since not long after Morrowind, and writing and recording dozens of variations of lines just in case Martin Septim gets shanked halfway to Cloud Ruler Temple would quickly get to ludicrous levels of expense when you consider the sheer amount of random bullshit that can occur in a typical ES/FO/SF playthrough - and that's before you account for the bugs.
+
+While I'd rather not find out 40 hours in that a plot vital NPC took a dragon to the face 15 hours ago, they have overcorrected wildly the other way - but I'm not sure where the sweet spot is. Main questline NPCs are the only safe ones? Faction bosses only? Main, faction and major sidequests? Shit, we're back to 50% (plus the ever immortal kids) of the population being unkillable. Essential merchants has been a massively popular Skyrim mod for years between vamp and dragon attacks for a good reason, after all.
+
+Essentially, time and budget are the limiting factors as they always are.

@@ -1,0 +1,1 @@
+Inconsistencies - sometimes a good quest design is dragged down by unforgettable or abysmal writing, and other times [[Perfect Receipe]] it’s the opposite. Brilliant writing with fantastic [[Role-Playing]] opportunities brought down by contrived and forced quest design.

@@ -1,0 +1,1 @@
+Vlad said the [[Artifacts|artifact]] we found shares a similar pattern with another one on another [[Planets|planet]] (to introduce the [[temples]]), but it was literally on the same planet as the newest one I found with Andreja, the same planet I spent nearly an hour [[surveying]]. I wished I didn’t have to come back here lol.

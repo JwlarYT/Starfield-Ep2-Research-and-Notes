@@ -1,0 +1,1 @@
+A company town. Run by oligarch running amok in libertarian [[Freestar Collective]]

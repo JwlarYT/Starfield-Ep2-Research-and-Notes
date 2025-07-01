@@ -1,0 +1,5 @@
+Emil has proven that they do use small internal design documents for faction lore, cities and so on, and utilise an internal wiki to keep track of it all, as per Will Shen's interview where he mentions making one for The Elder Scrolls. 
+However, with that said, Emil's flagrant disregard of them has led to them being next to useless, or worse, they are useful, and yet a culture prevails of not referring.
+Honestly, the no design document argument gave Bethesda a huge scapegoat, because what do we blame if they did use one, but it feels as if it was made without one?
+
+Disconnects due to [[Poor Planning]] result in well-made systems like zero-g traversal and combat being wholly underutilised, limited to a handful of space stations and ship points of interest dotted around on the [[Star System Map]]. Ship stealth similarly is a concept introduced and then never required by any other quest. 

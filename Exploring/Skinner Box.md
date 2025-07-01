@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=bNOol5OTasw&list=PLM_F6ru-Us2x81nVrr7NIWlvvpf5X4KwJ&index=79&t=223s 
+
+This kind of game design that hooks people to Skyrim is similar to fast food. It makes you feel good in that small moment when you complete a task/survey a planet/wipe out a pirate base etc. And it keeps these little dopamine releases frequent enough to keep you playing. 
+
+But are you having fun? Yes, you’re passing the time, you are less stressed, you’re possibly even immersed. But do you leave satisfied? Or just feeling empty and wanting more.
+	I would also ask though… Does it matter? Is pure fun the goal of every game? When I look back, my favorite games aren't the ones I left feeling joyous or giddy, but the ones that gave me experiences I could not get in other games. Does Starfield have those?... Well, kind of. There are moments that not many other games can recreate, but that is also dependent on what you have played before. My issue is that everything I seem to experience in Starfield, I have seen before in other games, even other Bethesda games. The setting has changed, but the gameplay feels very reminiscent.

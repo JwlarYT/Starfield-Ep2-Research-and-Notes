@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines#:~:text=Betteridge's%20law%20of%20headlines%20is,the%20principle%20is%20much%20older.
+**Betteridge's law of headlines** is an adage that states: "Any headline that ends in a question mark can be answered by the word _no_." It is named after Ian Betteridge, a British technology journalist who wrote about it in 2009, although the principle is much older.

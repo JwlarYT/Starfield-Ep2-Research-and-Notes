@@ -1,0 +1,1 @@
+Panspermia is ==a theory proposing that life can be transferred between planets, or even throughout the universe, by being carried by objects like meteorites, comets, and asteroids==. Essentially, it suggests that life doesn't necessarily originate on a specific planet but can be seeded from elsewhere in space.
