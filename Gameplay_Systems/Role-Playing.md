@@ -7,7 +7,7 @@ What makes you want to kill them? And that answer usually is because they are ca
 
 They literally have an out with the [Unity](../Main_Quest/Unity.md). Not just a "the prophecy has been severed" dialogue box. There is a completely canonical reset button this time. No ifs, ands, or buts, the writing is clear as day and the intention is even laid bare with the hunters apathy towards the people they interact with. So why do we need essential NPCs? Let me fail a quest, mess up, kill some people and then reset the universe and try again.
 
-Imagine if Bethesda did some really off the wall challenging stuff in NG+ like if you pick the [Crimson Fleet vs UC SysDef](../Faction_Quests/Crimson_Fleet-UC_SysDef/•Crimson%20Fleet-UC%20SysDef.md) you become a permanent enemy of the state of the [UC](Factions/United_Colonies.md) so you have to do very creative things to still complete the main quest while being relentlessly hunted. 
+Imagine if Bethesda did some really off the wall challenging stuff in NG+ like if you pick the [Crimson Fleet vs UC SysDef](../Faction_Quests/Crimson_Fleet-UC_SysDef/•Crimson%20Fleet-UC%20SysDef.md) you become a permanent enemy of the state of the [UC](../Factions/United_Colonies.md) so you have to do very creative things to still complete the main quest while being relentlessly hunted. 
 
 Sequence breaking and reactivity to player choice in the main quest should be way more encouraged given just how it ends. The set up is basically tailor made to abuse that sort of thing, it's not even disappointing so much as bizarre that Bethesda didn't go for it.
 
