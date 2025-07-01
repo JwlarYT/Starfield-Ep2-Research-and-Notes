@@ -1,0 +1,1 @@
+Mid across the board vs great highs and low lows
