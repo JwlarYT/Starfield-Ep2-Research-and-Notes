@@ -11,14 +11,15 @@
 ##### 2. [•Main_Quest](Main_Quest/•Main_Quest.md)
 - Characters
 - Motivations
-- [Themes](Writing/Themes.md)
-- Protagonists
-- Antagonists
+- [Themes](Writing/Themes.md) / [Maturity](Writing/Maturity.md)
+- Protagonists ([Constellation](Main_Quest/Constellation.md))
+- Antagonists ([The_Hunter](Main_Quest/The_Hunter.md), [The_Emissary](Main_Quest/The_Emissary.md))
 - [•Factions](Factions/•Factions.md)
 - How ‘impactful’ is the story on the universe (will there be any changes once it is done, or is it self-contained?)
-- [NG+](Gameplay_Systems/NG+.md) implications
+- [NG+](Gameplay_Systems/NG+.md) implications / The [Unity](Main_Quest/Unity.md)
+- [Writing](Writing/Writing.md)
 
-Where it makes sense, discuss relevant [•Gameplay_Systems](Gameplay_Systems/•Gameplay_Systems.md): 
+Where it makes sense, discuss relevant [•Gameplay_Systems](Gameplay_Systems/•Gameplay_Systems.md) and lore:
 - [HUD+UI](Presentation/HUD+UI.md)
 - [Advanced_Combat](Gameplay_Systems/Advanced_Combat.md) ([Starborn](Main_Quest/Starborn.md) powers and movement)
 - [Crafting](Gameplay_Systems/Crafting.md)
@@ -31,3 +32,5 @@ Where it makes sense, discuss relevant [•Gameplay_Systems](Gameplay_Systems/�
 - Game [Role-Playing](Gameplay_Systems/Role-Playing.md) (Can you play and progress entirely passive? Can you kill everyone? - Answer is no lol)
 - Do repeat play-throughs reward player experience (.ie, in FONV, the player follows the recommended route of Primm, Nipton, Boulder City, Vegas, but can rush to Vegas in a new play-through once they are confident with the game mechanics)
 - [•Cities](Cities/•Cities.md) - layout, size, number of people, feel real or too small. 
+- [Consequences](Writing/Consequences.md)
+- [Culture](Writing/Culture.md)
